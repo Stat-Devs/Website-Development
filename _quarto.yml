@@ -2,12 +2,19 @@ project:
   type: website
 
 website:
-  title: "Website-Development"
+  title: "Stat Devs"
   navbar:
+    logo: "Final-Logo.png"     
+    background: "#6c9286"
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
+      - portfolio.qmd
+      - blog.qmd
       - about.qmd
+        
+     
+      
 
 format:
   html:
