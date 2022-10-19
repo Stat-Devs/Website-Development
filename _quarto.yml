@@ -1,10 +1,13 @@
 project:
   type: website
+  
 
 website:
+  favicon: "Favicon.png"
   title: "Stat Devs"
   navbar:
-    logo: "Final-Logo.png"     
+    title: false
+    logo: "Navbar.png" 
     background: "#6c9286"
     left:
       - href: index.qmd
@@ -12,8 +15,15 @@ website:
       - portfolio.qmd
       - blog.qmd
       - about.qmd
-        
-     
+    right:
+      - href: https://twitter.com/DevsStat
+        icon: twitter
+      - href:  https://www.linkedin.com/company/stat-devs
+        icon: linkedin
+      - href: https://github.com/Stat-Devs
+        icon: github
+  search: false
+      
       
 
 format:
