@@ -1,13 +1,35 @@
 ---
-format: 
+format:
   html:
     page-layout: full
 ---
+:::{.top}
+::: {#captions}
+Data
+:::
 
-::: Captions
-> Data
+:::{#captions}
+Insights
+:::
 
-> Insights
-
-> Impact
+:::{#captions}
+Impact
+:::
+:::
+:::{#headings}
+OUR EXPERTISE
+:::
+:::{.grid}
+:::{.g-col-6}
+Data Analytics
+:::
+:::{.g-col-6}
+Data Applications
+:::
+:::{.g-col-6}
+Predictive Modelling
+:::
+:::{.g-col-6}
+Training
+:::
 :::

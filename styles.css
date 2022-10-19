@@ -1,1 +1,26 @@
 /* css styles */
+
+#captions {
+  
+  border-left: 10px solid #ccc;
+  padding-left: 20px;
+  font-size: 42px;
+
+ 
+  
+}
+
+.top {
+background-color: #f9f9f9;
+
+}
+
+.grid {
+  background-color: #f9f9f9;
+  margin-top: 30px
+}
+
+.g-col-6{
+  border: solid;
+  border-width: 2px;
+}
