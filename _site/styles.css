@@ -24,3 +24,13 @@ background-color: #f9f9f9;
   border: solid;
   border-width: 2px;
 }
+
+.g-col-4{
+  border: solid;
+  border-width: 2px;
+}
+
+#headings{
+  color: yellow;
+  margin-top: 30px;
+}

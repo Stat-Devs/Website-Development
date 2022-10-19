@@ -33,3 +33,19 @@ Predictive Modelling
 Training
 :::
 :::
+
+:::{#headings}
+SOME OF OUR PAST WORK
+:::
+
+:::{.grid}
+:::{.g-col-4}
+Data Analytics
+:::
+:::{.g-col-4}
+Applications
+:::
+:::{.g-col-4}
+Predictive Modelling
+:::
+:::
