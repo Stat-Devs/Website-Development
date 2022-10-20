@@ -2,16 +2,19 @@
 
 #captions {
   
-  border-left: 10px solid #ccc;
+  border-left: 10px solid #00a99d;
   padding-left: 20px;
   font-size: 42px;
+  position: relative;
+  left: 250px;
 
  
   
 }
 
 .column-screen {
-background-color: #6c9286;
+background-image: url('Home-Page.png');
+background-repeat: no-repeat;
 margin-top: -32px;
 
 }
