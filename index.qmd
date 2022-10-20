@@ -2,50 +2,63 @@
 format:
   html:
     page-layout: full
+ 
 ---
-:::{.top}
+
+::: {.column-screen}
 ::: {#captions}
 Data
 :::
 
-:::{#captions}
+::: {#captions}
 Insights
 :::
 
-:::{#captions}
+::: {#captions}
 Impact
 :::
 :::
-:::{#headings}
+
+<h4>
 OUR EXPERTISE
-:::
-:::{.grid}
-:::{.g-col-6}
-Data Analytics
-:::
-:::{.g-col-6}
-Data Applications
-:::
-:::{.g-col-6}
-Predictive Modelling
-:::
-:::{.g-col-6}
-Training
-:::
-:::
+</h4>
 
-:::{#headings}
+
+
+<h4>
 SOME OF OUR PAST WORK
-:::
+</h4>
 
-:::{.grid}
-:::{.g-col-4}
+::: grid
+::: g-col-4
 Data Analytics
 :::
-:::{.g-col-4}
+
+::: g-col-4
 Applications
 :::
-:::{.g-col-4}
+
+::: g-col-4
 Predictive Modelling
+:::
+:::
+
+::: grid
+::: g-col-6
+::: {.card}
+Data Analytics
+:::
+:::
+
+::: g-col-6
+Data Applications
+:::
+
+::: g-col-6
+Predictive Modelling
+:::
+
+::: g-col-6
+Training
 :::
 :::

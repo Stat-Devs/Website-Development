@@ -10,8 +10,9 @@
   
 }
 
-.top {
-background-color: #f9f9f9;
+.column-screen {
+background-color: #6c9286;
+margin-top: -32px;
 
 }
 
@@ -23,6 +24,7 @@ background-color: #f9f9f9;
 .g-col-6{
   border: solid;
   border-width: 2px;
+  
 }
 
 .g-col-4{
@@ -30,7 +32,8 @@ background-color: #f9f9f9;
   border-width: 2px;
 }
 
-#headings{
-  color: yellow;
+h4 {
+  color: black;
   margin-top: 30px;
+  margin-left: -175px;
 }
