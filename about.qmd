@@ -1,3 +1,17 @@
 ---
-title: "About"
+format:
+  html:
+    page-layout: full
+title: "About Us"
+title-block-banner: true
 ---
+
+:::{#heading}
+What we do
+:::
+
+::: {#heading}
+
+Team
+
+:::

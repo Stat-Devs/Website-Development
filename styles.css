@@ -6,27 +6,33 @@
   padding-left: 20px;
   font-size: 42px;
   position: relative;
-  left: 250px;
-
- 
-  
+  left: 50px;
 }
 
+#thumbnail {
+  display: grid;
+  place-items: center;
+}
+  
+
+
+
 .column-screen {
-background-image: url('Home-Page.png');
 background-repeat: no-repeat;
 margin-top: -32px;
 
 }
 
 .grid {
-  background-color: #f9f9f9;
+  
   margin-top: 30px
 }
 
 .g-col-6{
   border: solid;
   border-width: 2px;
+  display: grid;
+  place-items: center;
   
 }
 
@@ -35,8 +41,8 @@ margin-top: -32px;
   border-width: 2px;
 }
 
-h4 {
+#heading {
   color: black;
   margin-top: 30px;
-  margin-left: -175px;
+  margin-left: -100px;
 }

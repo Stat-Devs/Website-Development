@@ -19,36 +19,27 @@ Impact
 :::
 :::
 
-<h4>
+
+
+::: {#heading}
+
 OUR EXPERTISE
-</h4>
 
 
-
-<h4>
-SOME OF OUR PAST WORK
-</h4>
-
-::: grid
-::: g-col-4
-<div class = "card">
-  Data Analytics
 :::
 
-::: g-col-4
-Applications
-:::
 
-::: g-col-4
-Predictive Modelling
-:::
-:::
+:::{.grid}
 
-::: grid
 ::: g-col-6
-::: {.card}
-Data Analytics
+
+:::{#thumbnail}
+
+<img src = data-analytics.jpeg>
+
 :::
+
+Data Analytics
 :::
 
 ::: g-col-6
@@ -62,4 +53,9 @@ Predictive Modelling
 ::: g-col-6
 Training
 :::
+:::
+
+
+:::{#heading}
+SOME OF OUR PAST WORK
 :::

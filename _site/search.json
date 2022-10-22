@@ -4,20 +4,20 @@
     "href": "index.html",
     "title": "Stat Devs",
     "section": "",
-    "text": "OUR EXPERTISE\n\n\nSOME OF OUR PAST WORK\n\n::: grid ::: g-col-4\n\n<div class = text = Data Analytics :::\n\nApplications\n\n\nPredictive Modelling\n\n:::\n\n\n\nData Analytics\n\n\n\nData Applications\n\n\nPredictive Modelling\n\n\nTraining"
+    "text": "OUR EXPERTISE\n\n\n\n\n\n\nData Analytics\n\n\nData Applications\n\n\nPredictive Modelling\n\n\nTraining\n\n\n\nSOME OF OUR PAST WORK"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Us",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Team"
   },
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "dfaffadd"
+    "text": "dfaffadd\n\n\n\n\n<img src=\"Favicon.png\" class=\"card-img-top\" alt=\"...\">"
   }
 ]
