@@ -31,7 +31,8 @@ SOME OF OUR PAST WORK
 
 ::: grid
 ::: g-col-4
-Data Analytics
+<div class = "card">
+  Data Analytics
 :::
 
 ::: g-col-4

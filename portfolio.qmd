@@ -5,3 +5,17 @@ format:
 title: "Portfolio"
 title-block-banner: true
 ---
+
+<div class = "row">
+<div class = "col-md-6>
+<div class="card" style="width: 18rem;">
+  <img src="Favicon.png" class="card-img-top" alt="...">
+  dfaffadd
+</div>
+</div>
+<div class = "col-md-6>
+  <div class = "card" style="width: 18rem;">
+    <img src="Favicon.png class="card-img-top" alt="...">
+  </div>
+</div>
+</div>

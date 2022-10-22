@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Stat Devs",
     "section": "",
-    "text": "OUR EXPERTISE\n\n\nSOME OF OUR PAST WORK\n\n\n\nData Analytics\n\n\nApplications\n\n\nPredictive Modelling\n\n\n\n\n\nData Analytics\n\n\n\nData Applications\n\n\nPredictive Modelling\n\n\nTraining"
+    "text": "OUR EXPERTISE\n\n\nSOME OF OUR PAST WORK\n\n::: grid ::: g-col-4\n\n<div class = text = Data Analytics :::\n\nApplications\n\n\nPredictive Modelling\n\n:::\n\n\n\nData Analytics\n\n\n\nData Applications\n\n\nPredictive Modelling\n\n\nTraining"
   },
   {
     "objectID": "about.html",
@@ -16,8 +16,8 @@
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
-    "title": "Stat Devs",
+    "title": "Portfolio",
     "section": "",
-    "text": "title: Portfolio\n---"
+    "text": "dfaffadd"
   }
 ]
