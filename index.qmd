@@ -77,6 +77,35 @@ Training
 Some of Our Past Work
 :::
 
+::: {.grid}
+
+::: {.g-col-4}
+:::{#thumbnail}
+<img src =1.png >
+
+:::
+Macro Data Analysis of Pakistan Health Sector
+:::
+
+::: {.g-col-4}
+:::{#thumbnail}
+<img src = 2.png>
+
+:::
+Stock Volatility Forecasting
+:::
+
+::: {.g-col-4}
+:::{#thumbnail}
+<img src = 3.png >
+
+:::
+Power BI Dashboard
+:::
+
+
+:::
+
 :::{#heading}
 Industries We Have Worked In
 :::
