@@ -5,7 +5,7 @@ format:
  
 ---
 
-::: {.column-screen}
+
 ::: {#captions}
 Data
 :::
@@ -17,13 +17,12 @@ Insights
 ::: {#captions}
 Impact
 :::
-:::
 
 
 
 ::: {#heading}
 
-OUR EXPERTISE
+Our Expertise
 
 
 :::
@@ -35,7 +34,7 @@ OUR EXPERTISE
 
 :::{#thumbnail}
 
-<img src = data-analytics.jpeg>
+<img src = icons/3.png>
 
 :::
 
@@ -43,19 +42,70 @@ Data Analytics
 :::
 
 ::: g-col-6
+
+:::{#thumbnail}
+
+<img src = icons/1.png>
+
+:::
 Data Applications
 :::
 
 ::: g-col-6
+
+:::{#thumbnail}
+
+<img src = icons/4.png>
+
+:::
 Predictive Modelling
 :::
 
 ::: g-col-6
+
+:::{#thumbnail}
+
+<img src = icons/2.png>
+
+:::
 Training
 :::
 :::
 
 
 :::{#heading}
-SOME OF OUR PAST WORK
+Some of Our Past Work
+:::
+
+:::{#heading}
+Industries We Have Worked In
+:::
+
+::: {.grid}
+
+::: {.g-col-4}
+:::{#thumbnail}
+<img src = icons/5.png>
+
+:::
+Public Health
+:::
+
+::: {.g-col-4}
+:::{#thumbnail}
+<img src = icons/6.png>
+
+:::
+FMCGs
+:::
+
+::: {.g-col-4}
+:::{#thumbnail}
+<img src = icons/7.png>
+
+:::
+Education
+:::
+
+
 :::
