@@ -1,17 +1,35 @@
 project:
   type: website
+  
 
 website:
-  title: "Website-Development"
+  favicon: "Favicon.png"
+  title: "Stat Devs"
   navbar:
+    title: false
+    pinned: true
+    logo: "Navbar.png" 
+    background: "#8eaba2"
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
+      - portfolio.qmd
+      - blog.qmd
       - about.qmd
+    right:
+      - href: https://twitter.com/DevsStat
+        icon: twitter
+      - href:  https://www.linkedin.com/company/stat-devs
+        icon: linkedin
+      - href: https://github.com/Stat-Devs
+        icon: github
+  search: false
+      
+      
 
 format:
   html:
-    theme: cosmo
+    theme: Cosmo
     css: styles.css
     toc: true
 
