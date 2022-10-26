@@ -1,128 +1,107 @@
 ---
 format:
   html:
-    page-layout: full
- 
+    page-layout: custom
 ---
-
-
+<!--
 ::: {#captions}
 Data
 :::
 
 ::: {#captions}
+
 Insights
+
 :::
 
 ::: {#captions}
-Impact
-:::
 
+Impact
+
+:::
+-->
 
 
 ::: {#heading}
-
 Our Expertise
-
-
 :::
 
-
-:::{.grid}
-
+::: grid
 ::: g-col-6
-
-<img src = icons/3.png>
-
+<img src="icons/3.png"/>
 
 Data Analytics
 :::
 
 ::: g-col-6
-
-<img src = icons/1.png>
+<img src="icons/1.png"/>
 
 Data Applications
 :::
 
 ::: g-col-6
-
-
-<img src = icons/4.png>
-
+<img src="icons/4.png"/>
 
 Predictive Modelling
 :::
 
 ::: g-col-6
-
-
-<img src = icons/2.png>
+<img src="icons/2.png"/>
 
 Training
 :::
 :::
 
+::: {#heading}
 
-:::{#heading}
 Some of Our Past Work
+
 :::
 
-::: {.grid}
+::: grid
 
-::: {.g-col-4}
-
-<img src =1.png >
-
+::: g-col-4
+<img src="1.png"/>
 
 Macro Data Analysis of Pakistan Health Sector
 :::
 
-::: {.g-col-4}
-
-<img src = 2.png>
-
+::: g-col-4
+<img src="2.png"/>
 
 Stock Volatility Forecasting
 :::
 
-::: {.g-col-4}
-
-<img src = 3.png >
+::: g-col-4
+<img src="3.png"/>
 
 Power BI Dashboard
 :::
-
-
 :::
 
-:::{#heading}
+::: {#heading}
+
 Industries We Have Worked In
+
 :::
 
-::: {.grid}
+::: grid
 
-::: {.g-col-4}
-
-<img src = icons/5.png>
+::: g-col-4
+<img src="icons/5.png"/>
 
 Public Health
-
 :::
 
-::: {.g-col-4}
-
-<img src = icons/6.png>
+::: g-col-4
+<img src="icons/6.png"/>
 
 FMCGs
 :::
 
-::: {.g-col-4}
-
-<img src = icons/7.png>
+::: g-col-4
+<img src="icons/7.png"/>
 
 Education
 :::
-
-
 :::

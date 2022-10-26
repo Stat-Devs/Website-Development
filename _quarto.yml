@@ -29,9 +29,9 @@ website:
 
 format:
   html:
-    theme: Cosmo
+    theme: custom.scss
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 
