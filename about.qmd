@@ -6,12 +6,10 @@ title: "About Us"
 title-block-banner: true
 ---
 
-:::{#heading}
+::: {#heading}
 What we do
 :::
 
 ::: {#heading}
-
 Team
-
 :::

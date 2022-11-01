@@ -9,7 +9,7 @@ website:
     title: false
     pinned: true
     logo: "Navbar.png" 
-    background: "#8eaba2"
+    background: '#383A3F'
     left:
       - href: index.qmd
         text: "Home"

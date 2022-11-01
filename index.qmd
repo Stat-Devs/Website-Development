@@ -28,27 +28,46 @@ Our Expertise
 
 ::: grid
 ::: g-col-6
-<img src="icons/3.png"/>
+<div class="card">
 
-Data Analytics
+<img src="icons/3.png" class="card-img-top">
+
+<h5 class = card-title>Data Analytics</h5>
+</div>
+
+
 :::
 
 ::: g-col-6
-<img src="icons/1.png"/>
+<div class="card">
 
-Data Applications
+<img src="icons/1.png"/ class="card-img-top">
+
+<h5 class = "card-title">Data Applications</h5>
+
+</div>
+
 :::
 
 ::: g-col-6
-<img src="icons/4.png"/>
+<div class="card">
 
-Predictive Modelling
+<img src="icons/4.png"/ class="card-img-top">
+
+<h5 class = "card-title">Predictive Modelling</h5>
+</div>
 :::
 
 ::: g-col-6
-<img src="icons/2.png"/>
 
-Training
+<div class="card">
+
+<img src="icons/2.png"/ class="card-img-top">
+
+<h5 class = "card-title">Training</h5>
+
+</div>
+
 :::
 :::
 
@@ -61,21 +80,29 @@ Some of Our Past Work
 ::: grid
 
 ::: g-col-4
-<img src="1.png"/>
-
-Macro Data Analysis of Pakistan Health Sector
+<div class= "card">
+<img src="1.png"/ class="card-img-top">
+<h5 class = "card-title">
+Macro Data Analysis of Pakistan Health Sector </h5>
+</div>
 :::
 
 ::: g-col-4
-<img src="2.png"/>
+<div class="card">
+<img src="2.png"/ class="card-img-top">
 
+<h5 class = "card-title">
 Stock Volatility Forecasting
+</h5>
+</div>
 :::
 
 ::: g-col-4
-<img src="3.png"/>
+<div class="card">
+<img src="3.png"/ class= "card-img-top">
 
-Power BI Dashboard
+<h5 class = "card-title">Power BI Dashboard</h5>
+</div>
 :::
 :::
 

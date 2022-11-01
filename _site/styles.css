@@ -24,15 +24,14 @@
   
   display: grid;
   margin-top: 30px;
-  border-style: solid;
 }
 
 .g-col-6{
 
   display: grid;
-  border-style: solid;
- 
   place-items: center;
+  
+  
   
   
 }
@@ -46,7 +45,19 @@
   margin-top: 30px;
   font-size: 28px;
   border-top: solid;
-  border-top-color: #8eaba2;
+  border-top-color: "black";
  
+}
+
+.card {
+  width: 100%;
+  place-items: center;
+  background: #1F2124;
+  box-shadow: 0 0 20px rgba(0,0,0,0.4);
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  float: left;
 }
 
