@@ -1,37 +1,21 @@
 /* css styles */
 
-#captions {
-  
-  border-left: 10px solid #8eaba2;
-  padding-left: 20px;
-  font-size: 42px;
-  position: relative;
-  left: 50px;
-}
-
-#thumbnail {
-  
-  
-  
-}
-  
-
-
-
-
 
 .grid {
   
   display: grid;
-  margin-top: 30px;
+  margin: 70px;
+  
+  
 }
 
 .g-col-6{
 
   display: grid;
   place-items: center;
-  
-  
+  box-shadow: 0 0 20px rgba(0,0,0,0.4);
+  border-radius: 5px;
+  height: 250px;
   
   
 }
@@ -39,25 +23,17 @@
 .g-col-4{
   display: grid;
   place-items: center;
-}
-
-#heading {
-  margin-top: 30px;
-  font-size: 28px;
-  border-top: solid;
-  border-top-color: "black";
- 
+  
 }
 
 .card {
-  width: 100%;
-  place-items: center;
-  background: #1F2124;
-  box-shadow: 0 0 20px rgba(0,0,0,0.4);
-  border-radius: 5px;
-  padding: 20px;
-  text-align: center;
-  color: white;
-  float: left;
+   box-shadow: 0 0 20px rgba(0,0,0,0.4);
+   border-radius: 5px;
+   place-items: center;
+   
+   
 }
+
+
+  
 

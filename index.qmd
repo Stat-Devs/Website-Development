@@ -3,6 +3,8 @@ format:
   html:
     page-layout: custom
 ---
+
+```{=html}
 <!--
 ::: {#captions}
 Data
@@ -20,100 +22,118 @@ Impact
 
 :::
 -->
+```
+<h2>
 
-
-::: {#heading}
 Our Expertise
-:::
+</h2>
 
 ::: grid
 ::: g-col-6
-<div class="card">
-
-<img src="icons/3.png" class="card-img-top">
-
-<h5 class = card-title>Data Analytics</h5>
-</div>
 
 
-:::
 
-::: g-col-6
-<div class="card">
 
-<img src="icons/1.png"/ class="card-img-top">
 
-<h5 class = "card-title">Data Applications</h5>
+<img src="icons/3.png" class="card-img-top"/>
 
-</div>
+<h5 class="card-title">Data Analytics</h5>
+
 
 :::
 
-::: g-col-6
-<div class="card">
-
-<img src="icons/4.png"/ class="card-img-top">
-
-<h5 class = "card-title">Predictive Modelling</h5>
-</div>
-:::
 
 ::: g-col-6
 
-<div class="card">
 
-<img src="icons/2.png"/ class="card-img-top">
+<img src="icons/1.png" class="card-img-top"/>
 
-<h5 class = "card-title">Training</h5>
+<h5 class="card-title">
 
-</div>
+Data Applications
 
+</h5>
+:::
+
+
+::: g-col-6
+
+
+<img src="icons/4.png" class="card-img-top"/>
+
+<h5 class="card-title">
+
+Predictive Modelling
+
+</h5>
+:::
+
+
+::: g-col-6
+
+
+<img src="icons/2.png" class="card-img-top"/>
+
+<h5 class="card-title">
+
+Training
+
+</h5>
 :::
 :::
 
-::: {#heading}
+
+<h2>
 
 Some of Our Past Work
 
-:::
+</h2>
 
 ::: grid
-
 ::: g-col-4
-<div class= "card">
-<img src="1.png"/ class="card-img-top">
-<h5 class = "card-title">
-Macro Data Analysis of Pakistan Health Sector </h5>
-</div>
+::: card
+
+<img src="1.png" class="card-img-top"/>
+
+<h5 class="card-title">Analysis of Pakistan Health Sector</h5>
+
+:::
 :::
 
 ::: g-col-4
-<div class="card">
-<img src="2.png"/ class="card-img-top">
+::: card
 
-<h5 class = "card-title">
+<img src="2.png" class="card-img-top"/>
+
+<h5 class="card-title">
+
 Stock Volatility Forecasting
+
 </h5>
-</div>
+:::
 :::
 
 ::: g-col-4
-<div class="card">
-<img src="3.png"/ class= "card-img-top">
+::: card
 
-<h5 class = "card-title">Power BI Dashboard</h5>
-</div>
+<img src="3.png" class="card-img-top"/>
+
+<h5 class="card-title">
+
+Power BI Dashboard
+
+</h5>
 :::
 :::
+:::
 
-::: {#heading}
+<h2>
 
 Industries We Have Worked In
 
-:::
+</h2>
 
 ::: grid
-
 ::: g-col-4
 <img src="icons/5.png"/>
 

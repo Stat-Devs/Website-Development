@@ -6,9 +6,9 @@ title: "Portfolio"
 title-block-banner: true
 ---
 
-::: {#heading}
-Business Data Analysis and Research
-:::
+
+<h2>Business Data Analysis and Research</h2>
+
 
 ::: grid
 ::: g-col-6
@@ -21,20 +21,22 @@ Business Data Analysis and Research
 <img src="2.png"/>
 
 <h5>Product Recommendation</h5>
+
 :::
 
 ::: g-col-6
 <img src="3.png"/>
 
 <h5>Clustering Countries on Socio-Economic Indicators</h5>
+
 :::
 :::
 
-<div>
+<h2>
 
 Interactive Data Applications & Dashboards
 
-</div>
+</h2>
 
 ::: grid
 ::: g-col-6
@@ -50,11 +52,11 @@ Interactive Data Applications & Dashboards
 :::
 :::
 
-<div>
+<h2>
 
 Predictive Modelling
 
-</div>
+</h2>
 
 ::: grid
 ::: g-col-6
@@ -70,11 +72,11 @@ Predictive Modelling
 :::
 :::
 
-<div>
+<h2>
 
 Training & Teaching
 
-</div>
+</h2>
 
 ::: grid
 ::: g-col-6
