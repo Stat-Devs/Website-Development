@@ -23,56 +23,41 @@ Impact
 :::
 -->
 ```
-<h2>
+<h2>Our Expertise</h2>
 
-Our Expertise
-</h2>
-
-::: grid
+::: {#our-expertise .grid}
 ::: g-col-6
-
-
-
-
-
-<img src="icons/3.png" class="card-img-top"/>
-
-<h5 class="card-title">Data Analytics</h5>
-
-
-:::
-
-
-::: g-col-6
-
-
-<img src="icons/1.png" class="card-img-top"/>
+<img src="images/1st-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
 
-Data Applications
+Business Intelligence
 
 </h5>
 :::
 
-
 ::: g-col-6
-
-
-<img src="icons/4.png" class="card-img-top"/>
+<img src="images/2nd-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
 
-Predictive Modelling
+Interactive Visualizations & Applications
 
 </h5>
 :::
 
+::: g-col-6
+<img src="images/3rd-icon.png" class="card-img-top"/>
+
+<h5 class="card-title">
+
+Research Reports
+
+</h5>
+:::
 
 ::: g-col-6
-
-
-<img src="icons/2.png" class="card-img-top"/>
+<img src="images/4th-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
 
@@ -82,28 +67,24 @@ Training
 :::
 :::
 
+<h2>Some of Our Past Work</h2>
 
-<h2>
-
-Some of Our Past Work
-
-</h2>
-
-::: grid
+::: {#past-work .grid}
 ::: g-col-4
 ::: card
+<img src="images/health.png" class="card-img-top"/>
 
-<img src="1.png" class="card-img-top"/>
+<h5 class="card-title">
 
-<h5 class="card-title">Analysis of Pakistan Health Sector</h5>
+Analysis of Pakistan Health Sector
 
+</h5>
 :::
 :::
 
 ::: g-col-4
 ::: card
-
-<img src="2.png" class="card-img-top"/>
+<img src="images/stock.png" class="card-img-top"/>
 
 <h5 class="card-title">
 
@@ -115,40 +96,44 @@ Stock Volatility Forecasting
 
 ::: g-col-4
 ::: card
-
-<img src="3.png" class="card-img-top"/>
+<img src="images/dashboard.png" class="card-img-top"/>
 
 <h5 class="card-title">
 
-Power BI Dashboard
+BI Dashboard
 
 </h5>
 :::
 :::
 :::
 
-<h2>
+<h2>Industries We Have Worked In</h2>
 
-Industries We Have Worked In
-
-</h2>
-
-::: grid
+::: {#industries .grid}
 ::: g-col-4
-<img src="icons/5.png"/>
+<img src="images/public-health.png"/>
 
-Public Health
+<h5>Public Health</h5>
 :::
 
 ::: g-col-4
-<img src="icons/6.png"/>
+<img src="images/fmcg.png"/>
 
-FMCGs
+<h5>FMCGs</h5>
 :::
 
 ::: g-col-4
-<img src="icons/7.png"/>
+<img src="images/education.png"/>
 
-Education
+<h5>Education</h5>
 :::
+:::
+
+:::{#footer .grid} 
+
+
+<p>+923368446579 sarfaraz.jamal@statdevs.com</p>
+
+<p>+923312803120 m.uzair@statdevs.com</p>
+
 :::

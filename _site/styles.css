@@ -4,8 +4,9 @@
 .grid {
   
   display: grid;
-  margin: 70px;
+  place-items: center;
   
+ 
   
 }
 
@@ -13,27 +14,59 @@
 
   display: grid;
   place-items: center;
-  box-shadow: 0 0 20px rgba(0,0,0,0.4);
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
   border-radius: 5px;
   height: 250px;
+  width: 600px;
+  background: white;
+  margin-top: -10px;
   
-  
+   
+}
+
+#our-expertise {
+  background: #6c9286;
+}
+
+
+#past-work {
+ 
+  background: #6c9286;
+ 
+}
+
+#industries {
+  background: #6c9286;
+}
+
+#footer {
+  height: 300px;
+  background: #1d4355;
+  color: white;
+ 
 }
 
 .g-col-4{
   display: grid;
   place-items: center;
+  margin-top: -10px;
   
+
 }
 
 .card {
-   box-shadow: 0 0 20px rgba(0,0,0,0.4);
+   box-shadow: 0 0 10px rgba(0,0,0,0.4);
    border-radius: 5px;
    place-items: center;
    
    
 }
 
-
+h2 {
+  margin-left: 20px;
+  margin-right: 20px;
+  border-bottom-width: 2px;
+  text-align: center;
+}
   
 
