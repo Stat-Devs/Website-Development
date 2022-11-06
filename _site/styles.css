@@ -32,24 +32,36 @@
 #past-work {
  
   background: #6c9286;
+  place-items: center;
+  text-align: center;
+  
  
 }
 
 #industries {
   background: #6c9286;
+  place-items: center;
+  text-align: center;
 }
 
 #footer {
   height: 300px;
   background: #1d4355;
   color: white;
+  
+}
+
+.home {
+ background-image: url("images/Home-Page.png"); 
+ height: 768px;
+ background-size: cover;
  
 }
 
 .g-col-4{
   display: grid;
-  place-items: center;
   margin-top: -10px;
+ 
   
 
 }
@@ -58,7 +70,7 @@
    box-shadow: 0 0 10px rgba(0,0,0,0.4);
    border-radius: 5px;
    place-items: center;
-   
+  
    
 }
 
@@ -69,4 +81,17 @@ h2 {
   text-align: center;
 }
   
+#email {
+
+  border-left: solid;
+  
+}
+
+#contact {
+  border-left: solid;
+  padding-left: 10px;
+}
+
+
+
 

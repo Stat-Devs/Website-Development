@@ -23,6 +23,9 @@ Impact
 :::
 -->
 ```
+::: home
+:::
+
 <h2>Our Expertise</h2>
 
 ::: {#our-expertise .grid}
@@ -129,11 +132,24 @@ BI Dashboard
 :::
 :::
 
-:::{#footer .grid} 
+::: {#footer .grid}
+::: {#contact .g-col-4}
+<p>86-C, 4th Floor, 11th Comm. Street,</p>
 
+<p>Kh-e-Ittehad, Phase-2 Extn, DHA,</p>
 
-<p>+923368446579 sarfaraz.jamal@statdevs.com</p>
+<p>Karachi 75500</p>
+:::
 
-<p>+923312803120 m.uzair@statdevs.com</p>
+::: {#contact .g-col-4}
+<p>+92-336-8446579</p>
 
+<p>+92-331-2803120</p>
+:::
+
+::: {#contact .g-col-4}
+<p>sarfaraz.jamal\@statdevs.com</p>
+
+<p>m.uzair\@statdevs.com</p>
+:::
 :::
