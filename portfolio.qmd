@@ -1,7 +1,109 @@
 ---
 format:
   html:
-    page-layout: full
+    page-layout: custom
 title: "Portfolio"
 title-block-banner: true
 ---
+
+
+
+<h2>Business Data Analysis and Research</h2>
+
+
+::: grid
+::: g-col-6
+::: {#portfolio .card}
+<img src=""/ class = "card-img-top">
+
+<h5 class = "card-title">Macro Data Analysis of Pakistan Health Sector</h5>
+:::
+:::
+::: g-col-6
+::: {#portfolio .card}
+<img src=""/ class = "card-img-top">
+
+<h5 class = "card-title">Product Recommendation</h5>
+:::
+:::
+
+::: g-col-6
+::: {#portfolio .card}
+<img src=""/ class="card-img-top">
+
+<h5 class="card-title">Clustering Countries on Socio-Economic Indicators</h5>
+:::
+:::
+:::
+
+<h2>
+
+Interactive Data Applications & Dashboards
+
+</h2>
+
+::: grid
+::: g-col-6
+::: {#portfolio .card}
+<img src=""/ class = "card-img-top">
+
+<h5 class="card-title">Power BI Dashboard for an E-commerce Platform</h5>
+:::
+:::
+
+::: g-col-6
+::: {#portfolio .card}
+<img src=""/ class = "card-img-top">
+
+<h5 class = "card-title">National Electronic Injury Surveillance Data Exploration</h5>
+:::
+:::
+:::
+
+<h2>
+
+Predictive Modelling
+
+</h2>
+
+::: grid
+::: g-col-6
+::: {#portfolio .card}
+<img src=""/ class = "card-img-top">
+
+<h5 class = "card-title">Stock Volatility Forecasting</h5>
+:::
+:::
+
+::: g-col-6
+::: {#portfolio .card}
+<img src=""/ class = "card-img-top">
+
+<h5 class = "card-title">Infant Mortality Modelling</h5>
+:::
+:::
+:::
+
+<h2>
+
+Training & Teaching
+
+</h2>
+
+::: grid
+::: g-col-6
+::: {#portfolio .card}
+<img src=""/ class = "card-img-top">
+
+<h5 class = "card-title">Data Analytics Training at IBA, Karachi</h5>
+:::
+:::
+
+::: g-col-6
+::: {#portfolio .card}
+<img src=""/ class = "card-img-top">
+
+<h5 class = "card-title">Online R Software Training</h5>
+:::
+:::
+:::

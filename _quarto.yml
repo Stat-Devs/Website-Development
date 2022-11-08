@@ -9,7 +9,7 @@ website:
     title: false
     pinned: true
     logo: "Navbar.png" 
-    background: "#8eaba2"
+    background: "white"
     left:
       - href: index.qmd
         text: "Home"
@@ -29,9 +29,9 @@ website:
 
 format:
   html:
-    theme: Cosmo
+    theme: custom.scss
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 

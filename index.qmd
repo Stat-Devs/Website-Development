@@ -1,140 +1,171 @@
 ---
 format:
   html:
-    page-layout: full
- 
+    page-layout: custom
 ---
 
-
+```{=html}
+<!--
 ::: {#captions}
 Data
 :::
 
 ::: {#captions}
+
 Insights
+
 :::
 
 ::: {#captions}
+
 Impact
-:::
-
-
-
-::: {#heading}
-
-Our Expertise
-
 
 :::
-
-
-:::{.grid}
-
-::: g-col-6
-
-:::{#thumbnail}
-
-<img src = icons/3.png>
-
+-->
+```
+::: home
 :::
 
-Data Analytics
+::: {#aboutus}
+<h3>
+
+<i>We are an analytics company aiming to enhance data driven culture and skills for businesses and academia focusing on fast evolving fields in Data Science, Research and Data Visualization.
+
+We empower your organization through data driven metrics to measure, monitor and optimize processes.</i>
+
+</h3>
 :::
 
-::: g-col-6
+::: {#our-expertise}
+<h2>Services</h2>
 
-:::{#thumbnail}
+::: grid
+::: {#expertise .g-col-6}
+<img src="images/1st-icon.png" class="card-img-top"/>
 
-<img src = icons/1.png>
+<h5 class="card-title">
 
-:::
-Data Applications
-:::
+Business Intelligence
 
-::: g-col-6
-
-:::{#thumbnail}
-
-<img src = icons/4.png>
-
-:::
-Predictive Modelling
+</h5>
 :::
 
-::: g-col-6
+::: {#expertise .g-col-6}
+<img src="images/2nd-icon.png" class="card-img-top"/>
 
-:::{#thumbnail}
+<h5 class="card-title">
 
-<img src = icons/2.png>
+Interactive Visualizations & Applications
 
+</h5>
 :::
+
+::: {#expertise .g-col-6}
+<img src="images/3rd-icon.png" class="card-img-top"/>
+
+<h5 class="card-title">
+
+Research Reports
+
+</h5>
+:::
+
+::: {#expertise .g-col-6}
+<img src="images/4th-icon.png" class="card-img-top"/>
+
+<h5 class="card-title">
+
 Training
+
+</h5>
+:::
+:::
+:::
+
+::: {#past-work}
+<h2>Our Work</h2>
+
+::: grid
+::: g-col-4
+::: card
+<img src="images/health.png" class="card-img-top"/>
+
+<h6 class="card-title">
+
+Analysis of Pakistan Health Sector
+
+</h6>
 :::
 :::
 
+::: g-col-4
+::: card
+<img src="images/stock.png" class="card-img-top"/>
 
-:::{#heading}
-Some of Our Past Work
-:::
+<h6 class="card-title">
 
-::: {.grid}
-
-::: {.g-col-4}
-:::{#thumbnail}
-<img src =1.png >
-
-:::
-Macro Data Analysis of Pakistan Health Sector
-:::
-
-::: {.g-col-4}
-:::{#thumbnail}
-<img src = 2.png>
-
-:::
 Stock Volatility Forecasting
+
+</h6>
+:::
 :::
 
-::: {.g-col-4}
-:::{#thumbnail}
-<img src = 3.png >
+::: g-col-4
+::: card
+<img src="images/dashboard.png" class="card-img-top"/>
 
+<h6 class="card-title">
+
+BI Dashboard
+
+</h6>
 :::
-Power BI Dashboard
 :::
-
-
 :::
-
-:::{#heading}
-Industries We Have Worked In
-:::
-
-::: {.grid}
-
-::: {.g-col-4}
-:::{#thumbnail}
-<img src = icons/5.png>
-
-:::
-Public Health
 :::
 
-::: {.g-col-4}
-:::{#thumbnail}
-<img src = icons/6.png>
+::: {#industries}
+<h2>Industries</h2>
 
-:::
-FMCGs
-:::
+::: grid
+::: g-col-4
+<img src="images/public-health.png"/>
 
-::: {.g-col-4}
-:::{#thumbnail}
-<img src = icons/7.png>
-
-:::
-Education
+<h5>Public Health</h5>
 :::
 
+::: g-col-4
+<img src="images/fmcg.png"/>
 
+<h5>FMCGs</h5>
+:::
+
+::: g-col-4
+<img src="images/education.png"/>
+
+<h5>Education</h5>
+:::
+:::
+:::
+
+::: {#footer .grid}
+::: {#contact .g-col-4}
+<p>86-C, 4th Floor, 11th Comm. Street,</p>
+
+<p>Kh-e-Ittehad, Phase-2 Extn, DHA,</p>
+
+<p>Karachi 75500</p>
+:::
+
+::: g-col-4
+<p>+92-336-8446579</p>
+
+<p>+92-331-2803120</p>
+:::
+
+::: g-col-4
+<p>sarfaraz.jamal\@statdevs.com</p>
+
+<p>m.uzair\@statdevs.com</p>
+:::
 :::

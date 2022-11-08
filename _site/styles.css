@@ -1,50 +1,139 @@
 /* css styles */
 
-#captions {
-  
-  border-left: 10px solid #8eaba2;
-  padding-left: 20px;
-  font-size: 42px;
-  position: relative;
-  left: 50px;
-}
-
-#thumbnail {
-  
-  
-}
-  
-
-
-
-.column-screen {
-background-repeat: no-repeat;
-margin-top: -32px;
-
-}
 
 .grid {
   
-  margin-top: 30px
-}
-
-.g-col-6{
-
   display: grid;
   place-items: center;
   
+ 
   
+}
+
+#expertise{
+
+  display: grid;
+  place-items: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  border-radius: 5px;
+  height: 220px;
+  width: 450px;
+  background: #ebecfd;
+  
+  
+  
+  
+  
+   
+}
+
+#our-expertise {
+
+  margin-bottom: 100px;
+  padding-right: 210px;
+  padding-left: 210px;
+  padding-top: 50px;
+  background: white;
+  
+  
+  
+}
+
+
+#past-work {
+ 
+  margin-bottom: 100px;
+  place-items: center;
+  text-align: center;
+  padding-right:130px;
+  padding-left:130px;
+  background: white;
+  
+  
+  
+  
+ 
+}
+
+#industries {
+  height: 300px;
+  place-items: center;
+  text-align: center;
+  padding-right: 100px;
+  padding-left: 100px;
+  background:#c1d1c6;
+  
+  
+}
+
+#footer {
+  height: 300px;
+  background: #1d4355;
+  color: white;
+  
+}
+
+.home {
+ background-image: url("Pakistan-Monument.png"); 
+ height: 500px;
+ background-size: cover;
+ 
 }
 
 .g-col-4{
   display: grid;
-  place-items: center;
+  
+  
+ 
+  
+
 }
 
-#heading {
-  margin-top: 30px;
-  margin-left: -100px;
-  font-size: 28px;
-  border-top: solid;
-  border-top-color: #8eaba2;
+.card {
+   box-shadow: 0 0 10px rgba(0,0,0,0.4);
+   border-radius: 5px;
+   place-items: center;
+   width: 100%;
+   
+   
+   
+  
+   
 }
+
+h2 {
+  margin-left: 20px;
+  margin-right: 20px;
+  border-width: 0;
+  text-align: center;
+  
+}
+  
+#email {
+
+  border-left: solid;
+  
+}
+
+#contact {
+  border-left: solid;
+  padding-left: 10px;
+}
+
+#aboutus {
+  margin-top: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+  text-align: center;
+}
+
+#portfolio {
+  
+  background: #ebecfd;
+  padding-right: 150px;
+  padding-left: 150px;
+  
+ 
+}
+
+
