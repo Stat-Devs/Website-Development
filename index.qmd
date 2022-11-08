@@ -27,20 +27,20 @@ Impact
 :::
 
 ::: {#aboutus}
+<h3>
 
+<i>We are an analytics company aiming to enhance data driven culture and skills for businesses and academia focusing on fast evolving fields in Data Science, Research and Data Visualization.
 
-<h3><i>We are an analytics company aiming to enhance data driven culture and skills for businesses and academia focusing on fast evolving fields in Data Science, Research and Data Visualization.
+We empower your organization through data driven metrics to measure, monitor and optimize processes.</i>
 
-We empower your organization through data driven
-metrics to measure, monitor and optimize processes.</i></h3>
+</h3>
 :::
 
-:::{#our-expertise}
-
+::: {#our-expertise}
 <h2>Services</h2>
 
 ::: grid
-::: g-col-6
+::: {#expertise .g-col-6}
 <img src="images/1st-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -50,7 +50,7 @@ Business Intelligence
 </h5>
 :::
 
-::: g-col-6
+::: {#expertise .g-col-6}
 <img src="images/2nd-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -60,7 +60,7 @@ Interactive Visualizations & Applications
 </h5>
 :::
 
-::: g-col-6
+::: {#expertise .g-col-6}
 <img src="images/3rd-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -70,7 +70,7 @@ Research Reports
 </h5>
 :::
 
-::: g-col-6
+::: {#expertise .g-col-6}
 <img src="images/4th-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -82,7 +82,7 @@ Training
 :::
 :::
 
-:::{#past-work}
+::: {#past-work}
 <h2>Our Work</h2>
 
 ::: grid
@@ -124,8 +124,9 @@ BI Dashboard
 :::
 :::
 
-:::{#industries}
+::: {#industries}
 <h2>Industries</h2>
+
 ::: grid
 ::: g-col-4
 <img src="images/public-health.png"/>
@@ -156,13 +157,13 @@ BI Dashboard
 <p>Karachi 75500</p>
 :::
 
-::: {#contact .g-col-4}
+::: g-col-4
 <p>+92-336-8446579</p>
 
 <p>+92-331-2803120</p>
 :::
 
-::: {#contact .g-col-4}
+::: g-col-4
 <p>sarfaraz.jamal\@statdevs.com</p>
 
 <p>m.uzair\@statdevs.com</p>
