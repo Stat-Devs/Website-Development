@@ -16,32 +16,52 @@
   place-items: center;
   box-shadow: 0 0 10px rgba(0,0,0,0.4);
   border-radius: 5px;
-  height: 250px;
-  width: 600px;
-  background: white;
-  margin-top: -10px;
+  height: 220px;
+  width: 450px;
+  background: #ebecfd;
+  
+  
+  
+  
   
    
 }
 
 #our-expertise {
-  background: #6c9286;
+  
+  padding-right: 210px;
+  padding-left: 210px;
+  padding-top: 50px;
+  background: white;
+  
+  
 }
 
 
 #past-work {
  
-  background: #6c9286;
+  height: 450px;
   place-items: center;
   text-align: center;
+  padding-right:80px;
+  padding-left:80px;
+  background: white;
+  
+  
+  
   
  
 }
 
 #industries {
-  background: #6c9286;
+  height: 300px;
   place-items: center;
   text-align: center;
+  padding-right: 120px;
+  padding-left: 120px;
+  background:#c1d1c6;
+  
+  
 }
 
 #footer {
@@ -52,15 +72,16 @@
 }
 
 .home {
- background-image: url("images/Home-Page.png"); 
- height: 768px;
+ background-image: url("Pakistan-Monument.png"); 
+ height: 500px;
  background-size: cover;
  
 }
 
 .g-col-4{
   display: grid;
-  margin-top: -10px;
+  
+  
  
   
 
@@ -70,6 +91,10 @@
    box-shadow: 0 0 10px rgba(0,0,0,0.4);
    border-radius: 5px;
    place-items: center;
+   width: 350px;
+   
+   
+   
   
    
 }
@@ -77,8 +102,9 @@
 h2 {
   margin-left: 20px;
   margin-right: 20px;
-  border-bottom-width: 2px;
+  border-width: 0;
   text-align: center;
+  
 }
   
 #email {
@@ -90,6 +116,13 @@ h2 {
 #contact {
   border-left: solid;
   padding-left: 10px;
+}
+
+#aboutus {
+  margin-top: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+  text-align: center;
 }
 
 

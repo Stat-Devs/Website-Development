@@ -26,9 +26,20 @@ Impact
 ::: home
 :::
 
-<h2>Our Expertise</h2>
+::: {#aboutus}
 
-::: {#our-expertise .grid}
+
+<h3><i>We are an analytics company aiming to enhance data driven culture and skills for businesses and academia focusing on fast evolving fields in Data Science, Research and Data Visualization.
+
+We empower your organization through data driven
+metrics to measure, monitor and optimize processes.</i></h3>
+:::
+
+:::{#our-expertise}
+
+<h2>Services</h2>
+
+::: grid
 ::: g-col-6
 <img src="images/1st-icon.png" class="card-img-top"/>
 
@@ -69,19 +80,21 @@ Training
 </h5>
 :::
 :::
+:::
 
-<h2>Some of Our Past Work</h2>
+:::{#past-work}
+<h2>Our Work</h2>
 
-::: {#past-work .grid}
+::: grid
 ::: g-col-4
 ::: card
 <img src="images/health.png" class="card-img-top"/>
 
-<h5 class="card-title">
+<h6 class="card-title">
 
 Analysis of Pakistan Health Sector
 
-</h5>
+</h6>
 :::
 :::
 
@@ -89,11 +102,11 @@ Analysis of Pakistan Health Sector
 ::: card
 <img src="images/stock.png" class="card-img-top"/>
 
-<h5 class="card-title">
+<h6 class="card-title">
 
 Stock Volatility Forecasting
 
-</h5>
+</h6>
 :::
 :::
 
@@ -101,18 +114,19 @@ Stock Volatility Forecasting
 ::: card
 <img src="images/dashboard.png" class="card-img-top"/>
 
-<h5 class="card-title">
+<h6 class="card-title">
 
 BI Dashboard
 
-</h5>
+</h6>
+:::
 :::
 :::
 :::
 
-<h2>Industries We Have Worked In</h2>
-
-::: {#industries .grid}
+:::{#industries}
+<h2>Industries</h2>
+::: grid
 ::: g-col-4
 <img src="images/public-health.png"/>
 
@@ -129,6 +143,7 @@ BI Dashboard
 <img src="images/education.png"/>
 
 <h5>Education</h5>
+:::
 :::
 :::
 
