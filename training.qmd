@@ -1,0 +1,8 @@
+---
+format:
+  html:
+    page-layout: custom
+title: "Training"
+title-block-banner: true
+---
+
