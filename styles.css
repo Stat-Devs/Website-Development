@@ -120,9 +120,10 @@ h2 {
 
 #portfolio {
   
-  background: #ebecfd;
-  padding-right: 150px;
-  padding-left: 150px;
+
+  height: 300px;
+  text-align: center;
+  border:solid;
   
  
 }
@@ -135,6 +136,7 @@ h2 {
 
 #consulting{
   text-align: center;
+  height: 300px;
   
 }
 
