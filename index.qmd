@@ -87,34 +87,34 @@ Training
 
 ::: grid
 ::: g-col-4
-::: card
-<img src="images/health.png" class="card-img-top"/>
 
-<h6 class="card-title">
+<img src="images/health.png">
+
+<h6>
 
 Analysis of Pakistan Health Sector
 
 </h6>
-:::
+
 :::
 
 ::: g-col-4
-::: card
-<img src="images/stock.png" class="card-img-top"/>
 
-<h6 class="card-title">
+<img src="images/stock.png">
+
+<h6>
 
 Stock Volatility Forecasting
 
 </h6>
 :::
-:::
+
 
 ::: g-col-4
-::: card
-<img src="images/dashboard.png" class="card-img-top"/>
 
-<h6 class="card-title">
+<img src="images/dashboard.png"/>
+
+<h6>
 
 BI Dashboard
 
@@ -122,7 +122,7 @@ BI Dashboard
 :::
 :::
 :::
-:::
+
 
 ::: {#industries}
 <h2>Industries</h2>

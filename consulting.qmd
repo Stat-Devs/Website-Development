@@ -6,3 +6,41 @@ title: "Consulting"
 title-block-banner: true
 ---
 
+::: {#consult .grid}
+::: {#consulting .g-col-4}
+<img src="images/services/business-analysis-strategy.png"/>
+
+<h5>Business Analysis & Strategy</h5>
+:::
+
+::: {#consulting .g-col-4}
+<img src="images/services/Macro-Analysis-Research.png"/>
+
+<h5>Macro Analysis & Research</h5>
+:::
+
+::: {#consulting .g-col-4}
+<img src="images/services/market-analysis.png"/>
+
+<h5>Market Analysis</h5>
+:::
+
+::: {#consulting .g-col-4}
+<img src="images/services/datascience.png"/>
+
+<h5>Data Science & Statistics</h5>
+:::
+
+::: {#consulting .g-col-4}
+<img src="images/services/visualization&shiny.png"/>
+
+<h5>Visualization & Shiny</h5>
+:::
+
+::: {#consulting .g-col-4}
+<img src="images/services/workflow.png"/>
+
+<h5>R Development & Workflows</h5>
+:::
+:::
+

@@ -82,18 +82,9 @@
 
 .g-col-4{
   display: grid;
-  
-  
- 
-  
-
 }
 
-.card {
-   box-shadow: 0 0 10px rgba(0,0,0,0.4);
-   border-radius: 5px;
-   place-items: center;
-   width: 100%;
+
    
    
    
@@ -136,4 +127,14 @@ h2 {
  
 }
 
+#consult {
+
+  padding-right: 120px;
+  padding-left: 120px;
+}
+
+#consulting{
+  text-align: center;
+  
+}
 
