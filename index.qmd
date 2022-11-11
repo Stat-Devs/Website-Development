@@ -37,6 +37,7 @@ We empower your organization through data driven metrics to measure, monitor and
 :::
 
 ::: {#our-expertise}
+
 <h2>Services</h2>
 
 ::: grid
@@ -87,42 +88,24 @@ Training
 
 ::: grid
 ::: g-col-4
+<img src="images/health.png"/>
 
-<img src="images/health.png">
-
-<h6>
-
-Analysis of Pakistan Health Sector
-
-</h6>
-
+<h6>Analysis of Pakistan Health Sector</h6>
 :::
 
 ::: g-col-4
+<img src="images/stock.png"/>
 
-<img src="images/stock.png">
-
-<h6>
-
-Stock Volatility Forecasting
-
-</h6>
+<h6>Stock Volatility Forecasting</h6>
 :::
 
-
 ::: g-col-4
-
 <img src="images/dashboard.png"/>
 
-<h6>
-
-BI Dashboard
-
-</h6>
+<h6>BI Dashboard</h6>
 :::
 :::
 :::
-
 
 ::: {#industries}
 <h2>Industries</h2>
