@@ -19,5 +19,166 @@
     "title": "Portfolio",
     "section": "",
     "text": "Macro Data Analysis of Pakistan Health Sector\n\n\n\n\n\nProduct Recommendation\n\n\n\n\n\nClustering Countries on Socio-Economic Indicators\n\n\n\n\nInteractive Data Applications & Dashboards\n\n\n\n\n\nPower BI Dashboard for an E-commerce Platform\n\n\n\n\n\nNational Electronic Injury Surveillance Data Exploration\n\n\n\n\nPredictive Modelling\n\n\n\n\n\nStock Volatility Forecasting\n\n\n\n\n\nInfant Mortality Modelling\n\n\n\n\nTraining & Teaching\n\n\n\n\n\nData Analytics Training at IBA, Karachi\n\n\n\n\n\nOnline R Software Training"
+  },
+  {
+    "objectID": "inrae_template/inrae_template.html#quarto",
+    "href": "inrae_template/inrae_template.html#quarto",
+    "title": "Titre de la présentation",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "inrae_template/inrae_template.html#running-code",
+    "href": "inrae_template/inrae_template.html#running-code",
+    "title": "Titre de la présentation",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).\n\n\n\nPied de page"
+  },
+  {
+    "objectID": "inrae_template/LICENCE.html",
+    "href": "inrae_template/LICENCE.html",
+    "title": "Stat Devs",
+    "section": "",
+    "text": "Le « Concédant » concède au « Réutilisateur » un droit non exclusif et gratuit de libre  « Réutilisation » de l’« Information » objet de la présente licence, à des fins commerciales ou non, dans le monde entier et pour une durée illimitée, dans les conditions exprimées ci-dessous.\nLe « Réutilisateur » est libre de réutiliser l’« Information » :\n\nde la communiquer, la reproduire, la copier ;\nde l’adapter, la modifier, l’extraire et la transformer, notamment pour créer des « Informations dérivées » ;\nde la diffuser, la redistribuer, la publier et la transmettre, de l’exploiter à titre commercial, par exemple en la combinant avec d’autres informations, ou en l’incluant dans votre propre produit ou application.\n\nSous réserve de :\n\nmentionner la paternité de l’«Information» : sa source (a minima le nom du « Concédant ») et la date de la dernière mise à jour de l’« Information » réutilisée.\n\nLe « Réutilisateur » peut notamment s’ acquitter de cette condition en indiquant l’adresse (URL) renvoyant vers « l’Information » et assurant une mention effective de sa paternité.\nPar exemple :\nDans le cas d’une réutilisation de la base SIRENE de l’INSEE, mentionner l’URL du « Concédant » : www.insee.fr + la date de dernière mise à jour de l’Information réutilisée.\nCette mention de paternité ne doit ni conférer un caractère officiel à la « Réutilisation » de l’« Information », ni suggérer une quelconque reconnaissance ou caution par le « Concédant », ou par toute autre entité publique, du « Réutilisateur » ou de sa « Réutilisation ».\n\n\n\nL’« Information » mise à disposition peut contenir des « Données à caractère personnel » pouvant faire l’objet d’une « Réutilisation ». Alors, le « Concédant » informe le « Réutilisateur » (par tous moyens) de leur présence, l’ « Information » peut être librement réutilisée, sans faire obstacle aux libertés accordées par la présente licence, à condition de respecter le cadre légal relatif à la protection des données à caractère personnel.\n\n\n\nIl est garanti au « Réutilisateur » que l’ « Information » ne contient pas de « Droits de propriété intellectuelle »  appartenant à des tiers qui pourraient faire obstacle aux libertés qui lui sont accordées par la présente licence.\nLes éventuels « Droits de propriété intellectuelle » détenus par le « Concédant » sur l’ « Information » ne font pas obstacle aux libertés qui sont accordées par la présente licence. Lorsque le « Concédant » détient des « Droits de propriété intellectuelle » » sur l’ « Information », il les cède au « Réutilisateur » de façon non exclusive, à titre gracieux, pour le monde entier, pour toute la durée des « Droits de propriété intellectuelle », et le « Réutilisateur » peut en faire tout usage conformément aux libertés et aux conditions définies par la présente licence.\n\n\n\nL’ «Information» est mise à disposition telle que produite ou reçue, sans autre garantie expresse ou tacite qui n’est pas prévue par la présente licence. L’absence de défauts ou d’erreurs éventuellement contenues dans l’ «Information», comme la fourniture continue de l’ « Information » n’est pas garantie par le «Concédant». Il ne peut être tenu pour responsable de toute perte, préjudice ou dommage de quelque sorte causé à des tiers du fait de la « Réutilisation ».\nLe « Réutilisateur » est seul responsable de la « Réutilisation » de l’« Information ».\nLa « Réutilisation » ne doit pas induire en erreur des tiers quant au contenu de l’« Information », sa source et sa date de mise à jour.\n\n\n\nLa présente licence est régie par le droit français.\n\n\nElle a été conçue pour être compatible avec toute licence libre qui exige a minima la mention de paternité. Elle est notamment compatible avec la version antérieure de la présente licence ainsi qu’avec les licences « Open Government Licence » (OGL) du Royaume-Uni, « Creative Commons Attribution » (CC-BY) de Creative Commons et « Open Data Commons Attribution » (ODC-BY) de l’Open Knowledge Foundation.\n\n\n\n\nSont considérés, au sens de la présente licence comme :\n\nLe « Concédant » : toute personne concédant un droit de « Réutilisation » sur l’« Information » dans les libertés et les conditions prévues par la présente licence.\nL’« Information » :\n\ntoute information publique figurant dans des documents communiqués ou publiés par une administration mentionnée au premier alinéa de l’article L.300-2 du CRPA ;\ntoute information mise à disposition par toute personne selon les termes et conditions de la présente licence.\n\nLa « Réutilisation » : l’utilisation de l’« Information » à d’autres fins que celles pour lesquelles elle a été produite ou reçue.\nLe « Réutilisateur » : toute personne qui réutilise les « Informations »  conformément aux conditions de la présente licence.\nDes « Données à caractère personnel » : toute information se rapportant à une personne physique identifiée ou identifiable, pouvant être identifiée directement ou indirectement. Leur « Réutilisation » est subordonnée au respect du cadre juridique en vigueur.\nUne « Information dérivée » : toute nouvelle donnée ou information créées directement à partir de l’« Information » ou à partir d’une combinaison de l’ « Information » et d’autres données ou informations non soumises à cette licence.\nLes « Droits de propriété intellectuelle » : tous droits identifiés comme tels par le Code de la propriété intellectuelle (droit d’auteur, droits voisins au droit d’auteur, droit sui generis des producteurs de bases de données).\n\n\n\n\nLa présente licence a vocation à être utilisée par les administrations pour la réutilisation de leurs informations publiques. Elle peut également être utilisée par toute personne souhaitant mettre à disposition de l’« Information » dans les conditions définies par la présente licence.\nLa France est dotée d’un cadre juridique global visant à une diffusion spontanée par les administrations de leurs informations publiques afin d’en permettre la plus large réutilisation.\nLe droit de la « Réutilisation » de l’« Information » des administrations est régi par le code des relations entre le public et l’administration (CRPA) et, le cas échéant, le code du patrimoine (livre II relatif aux archives).\nCette licence facilite la réutilisation libre et gratuite des informations publiques et figure parmi les licences qui peuvent être utilisées par l’administration en vertu du décret pris en application de l’article L.323-2 du CRPA.\nEtalab est la mission chargée, sous l’autorité du Premier ministre, d’ouvrir le plus grand nombre de données publiques des administrations de l’État et de ses établissements publics. Elle a réalisé la Licence Ouverte pour faciliter la réutilisation libre et gratuite de ces informations publiques, telles que définies par l’article L321-1 du CRPA.\nCette licence est une version 2.0 de la Licence Ouverte.\nEtalab se réserve la faculté de proposer de nouvelles versions de la Licence Ouverte. Cependant, les « Réutilisateurs » pourront continuer à réutiliser les informations disponibles sous cette licence s’ils le souhaitent."
+  },
+  {
+    "objectID": "Portfolio-Merged.html#macro-analysis-of-pakistan-health-sector",
+    "href": "Portfolio-Merged.html#macro-analysis-of-pakistan-health-sector",
+    "title": "Portfolio123",
+    "section": "Macro Analysis of Pakistan Health Sector",
+    "text": "Macro Analysis of Pakistan Health Sector\nA Data Analysis project for Indus Hospital & Health Networks\n\nProblem Statement\nTo create a broad understanding of health deficiencies experienced by Pakistan population and identify Most Disadvantaged Districts (MDDs) in Punjab, Sindh and Balochistan.\n\n\nProject Execution\nData Sets: Census 2017, Pakistan Social Living Measurement Survey (PSLM) 2019-2020, Pakistan Maternal Mortality Survey (PMMS) 2019, Pakistan Demographic & Health Survey 2017-2018 (PDHS), Household Integrated Economic Survey (HIES) 2018-19\n\nAnalyzed and explored the exact status of Public Health Care Delivery (PHC) at country and provincial levels.\nSummarized and presented the current status of health parameters in mortality, prevalence and disease incidence in Pakistan and compared with peer countries like Bangladesh, India, Srilanka and others.\nExplored Pakistan Demographics and statistically selected Most Disadvantaged Districts (MDDs) on basis of PHC Delivery, Social Living Measurement (SLM) and Burden of Disease (BOD) indicators.\nAnalyzed Quintile Wise Health and Non Health Expenditure Analysis by provinces.\nSuggested the Intervention Plan to deliver PHC to these MDDs through Mobile PHC units.\n\n\n\n\n\n\n\nProvincial distribution of Child birth places\n\n\n\n\n\n\n\n\n\nQuintile Wise Expenditures in Pakistan Rural Areas"
+  },
+  {
+    "objectID": "Portfolio-Merged.html#infant-mortality-modelling",
+    "href": "Portfolio-Merged.html#infant-mortality-modelling",
+    "title": "Portfolio123",
+    "section": "Infant Mortality Modelling",
+    "text": "Infant Mortality Modelling\n\nProblem Statement\nTo predict the infant mortality and infant’s survival chances in Pakistan.\n\n\nProject Execution and Results\nData Sets: Pakistan Demographic & Health Survey 2017-2018 (PDHS)\n\nDeveloped and Deployed data Application to train classification models predicting the chances of infant survival based on Demographic, Health & Social factors.\nNovel idea to develop infant mortality predictions using demographic and health survey data as previous works involved use of health cards.\nApplied data cleaning, feature selection and machine learning algorithms such as Neural Networks to analyze the social and demographic factors of infants such as previous birth history, infant’s height and weight and family wealth index.\n\nFull Report of the project\nSee the live Application"
+  },
+  {
+    "objectID": "Portfolio-Merged.html#clustering-countries-on-socio-economic-indicators",
+    "href": "Portfolio-Merged.html#clustering-countries-on-socio-economic-indicators",
+    "title": "Portfolio123",
+    "section": "Clustering Countries on Socio-Economic Indicators",
+    "text": "Clustering Countries on Socio-Economic Indicators\n\nProblem Statement\nTo assist the CEO of HELP International in identifying the countries that require financial aid.\n\n\nProject Execution and Results\nData Set: HELP International\n\nCategorize countries according socio-economic factors and determine the overall development level of the country.\nRecommend countries that need the most attention in aid including Afghanistan, Congo and Malawi using K-means clustering\n\nComplete Project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMortality\n\n\n\n\n\n\n\nExports\n\n\n\n\n\n\n\n\n\nHealth\n\n\n\n\n\n\n\nImports\n\n\n\n\n\n\n\n\n\nInflation\n\n\n\n\n\n\n\nGDP per Capita"
+  },
+  {
+    "objectID": "Portfolio-Merged.html#bi-dashboard-for-an-e-commerce-platform",
+    "href": "Portfolio-Merged.html#bi-dashboard-for-an-e-commerce-platform",
+    "title": "Portfolio123",
+    "section": "BI Dashboard for an E-commerce Platform",
+    "text": "BI Dashboard for an E-commerce Platform\n\nProblem Statement\nTo create dashboards for the internal functions of an online retail company.\n\n\nProject Execution and Results\n\nBuilt dashboard using business metrics and data visualizations.\nCustomer Analysis shows customer by market segments and their buying patterns.\nKey metrics such as top selling products and sales trends over time helps assess business performance in real time.\nReturn Analysis shows type of product return and explores its causes to reduce return outward.\n\n\n\n\n\n\n\nMain Page\n\n\n\n\n\n\n\nEmployee Analysis\n\n\n\n\n\n\n\n\n\nCustomer Analysis\n\n\n\n\n\n\n\nProduct Analysis\n\n\n\n\n\n\n\n\n\nReturn Analysis\n\n\n\n\n\n\n\nShipment Analysis"
+  },
+  {
+    "objectID": "Portfolio-Merged.html#national-electronic-injury-surveillence-data-exploration",
+    "href": "Portfolio-Merged.html#national-electronic-injury-surveillence-data-exploration",
+    "title": "Portfolio123",
+    "section": "National Electronic Injury Surveillence Data Exploration",
+    "text": "National Electronic Injury Surveillence Data Exploration\n\nProblem Statement\nTo explore how accidents occur in the United States.\n\n\nProject Execution\nData Set: NEISS Injury Data\n\nDeveloped a Shiny Application to let user interact and explore the rate of incidence of injuries by gender and age.\nProvided an inter related overview of the causes of injury and body parts effected.\nThe application tells a data story from patient’s narratives on his injury.\n\nSee the live application"
+  },
+  {
+    "objectID": "Portfolio-Merged.html#product-recommendation",
+    "href": "Portfolio-Merged.html#product-recommendation",
+    "title": "Portfolio123",
+    "section": "Product Recommendation",
+    "text": "Product Recommendation\n\nProblem Statement\nTo recommend products to customers considering their previous buying patterns and behavior.\n\n\nProject Execution and Results\nData Set: Market Basket Analysis\n\nCreated frequent itemsets using retailer’s sales data applying apriori algorithm.\nGenerated top five association rules based on lift values.\nElevated increase traffic of customers to increase sales revenue and retain existing customer base.\n\nComplete Project"
+  },
+  {
+    "objectID": "Portfolio-Merged.html#stock-volatility-forecasting",
+    "href": "Portfolio-Merged.html#stock-volatility-forecasting",
+    "title": "Portfolio123",
+    "section": "Stock Volatility Forecasting",
+    "text": "Stock Volatility Forecasting\n\nProblem Statement\nTo compare performance of various Econometric and Deep Learning Algorithms for stock volatility forecasting\n\n\nProject Execution\nData Set: Yahoo Finance API\n\nConcluded that Econometric techniques have better forecasting power and narrower Confidence Intervals.\nThe paper will help analysts and investors to understand the future stock market trends and to invest in less volatile stocks.\n\nFull Paper\n\n\n\n\n\nTop 20 Products\n\n\n\n\n\n\n\n\n\nVolatility Forecasting"
+  },
+  {
+    "objectID": "Portfolio-Merged.html#data-analytics-training-at-iba-karachi",
+    "href": "Portfolio-Merged.html#data-analytics-training-at-iba-karachi",
+    "title": "Portfolio123",
+    "section": "Data Analytics training at IBA, Karachi",
+    "text": "Data Analytics training at IBA, Karachi\nCourse Name: Data 101 - Data Analytics in Python\n\nDesigned an intro level course at Institute of Business Administration (IBA) for all non technical students of various background and impacted more than 500 students in learning basics of Data handling techniques in Python.\nExplained and implemented basics of Machine Learning algorithms like Decision Trees, K means, Random Forest and Clustering algorithms."
+  },
+  {
+    "objectID": "Portfolio-Merged.html#online-r-software-training",
+    "href": "Portfolio-Merged.html#online-r-software-training",
+    "title": "Portfolio123",
+    "section": "Online R software training",
+    "text": "Online R software training\nCourse Name: R for Economics and Finance\n\nTaught students from IBA, LUMS, NUST and other universities about R programming, data cleaning, exploratory analysis, statistical analysis and modelling.\nMore than fifty students have attended the classes and implemented the taught techniques in research and data analysis in their respective fields.\n\n\n\n\n\n\nTools we Love!"
+  },
+  {
+    "objectID": "portfolio_presentation.html#macro-analysis-of-pakistan-health-sector",
+    "href": "portfolio_presentation.html#macro-analysis-of-pakistan-health-sector",
+    "title": "Portfolio",
+    "section": "Macro Analysis of Pakistan Health Sector",
+    "text": "Macro Analysis of Pakistan Health Sector\n\n\nProblem Statement\nTo create a broad understanding of health deficiencies experienced by Pakistan population and identify Most Disadvantaged Districts (MDDs) in Punjab, Sindh and Balochistan.\nProject Execution\nData Sets: Census 2017, Pakistan Social Living Measurement Survey (PSLM) 2019-2020, Pakistan Maternal Mortality Survey (PMMS) 2019, Pakistan Demographic & Health Survey 2017-2018 (PDHS), Household Integrated Economic Survey (HIES) 2018-19\n\nAnalyzed and explored the exact status of Public Health Care Delivery (PHC) at country and provincial levels.\nSummarized and presented the current status of health parameters in mortality, prevalence and disease incidence in Pakistan and compared with peer countries like Bangladesh, India, Srilanka and others.\nExplored Pakistan Demographics and statistically selected Most Disadvantaged Districts (MDDs) on basis of PHC Delivery, Social Living Measurement (SLM) and Burden of Disease (BOD) indicators.\nAnalyzed Quintile Wise Health and Non Health Expenditure Analysis by provinces.\nSuggested the Intervention Plan to deliver PHC to these MDDs through Mobile PHC units."
+  },
+  {
+    "objectID": "portfolio_presentation.html#infant-mortality-modelling",
+    "href": "portfolio_presentation.html#infant-mortality-modelling",
+    "title": "Portfolio",
+    "section": "Infant Mortality Modelling",
+    "text": "Infant Mortality Modelling\n\n\nProblem Statement\nTo predict the infant mortality and infant’s survival chances in Pakistan.\nProject Execution and Results\nData Sets: Pakistan Demographic & Health Survey 2017-2018 (PDHS)\n\nDeveloped and Deployed data Application to train classification models predicting the chances of infant survival based on Demographic, Health & Social factors.\nNovel idea to develop infant mortality predictions using demographic and health survey data as previous works involved use of health cards.\nApplied data cleaning, feature selection and machine learning algorithms such as Neural Networks to analyze the social and demographic factors of infants such as previous birth history, infant’s height and weight and family wealth index.\n\nFull Report of the Project See the Live Application"
+  },
+  {
+    "objectID": "portfolio_presentation.html#clustering-countries-on-socio-economic-indicators",
+    "href": "portfolio_presentation.html#clustering-countries-on-socio-economic-indicators",
+    "title": "Portfolio",
+    "section": "Clustering Countries on Socio-Economic Indicators",
+    "text": "Clustering Countries on Socio-Economic Indicators\n\n\nProblem Statement\nTo assist the CEO of HELP International in identifying the countries that require financial aid.\nProject Execution and Results\nData Sets: HELP International\n\nCategorize countries according socio-economic factors and determine the overall development level of the country.\nRecommend countries that need the most attention in aid including Afghanistan, Congo and Malawi using K-means clustering\n\nComplete Project"
+  },
+  {
+    "objectID": "portfolio_presentation.html#bi-dashboard-for-an-e-commerce-platform",
+    "href": "portfolio_presentation.html#bi-dashboard-for-an-e-commerce-platform",
+    "title": "Portfolio",
+    "section": "BI Dashboard for an E-Commerce Platform",
+    "text": "BI Dashboard for an E-Commerce Platform\n\n\nProblem Statement\nTo create dashboards for the internal functions of an online retail company.\nProject Execution and Results\n\nBuilt dashboard using business metrics and data visualizations.\nCustomer Analysis shows customer by market segments and their buying patterns.\nKey metrics such as top selling products and sales trends over time helps assess business performance in real time.\nReturn Analysis shows type of product return and explores its causes to reduce return outward."
+  },
+  {
+    "objectID": "portfolio_presentation.html#national-electronic-injury-surveillance-data-exploration",
+    "href": "portfolio_presentation.html#national-electronic-injury-surveillance-data-exploration",
+    "title": "Portfolio",
+    "section": "National Electronic Injury Surveillance Data Exploration",
+    "text": "National Electronic Injury Surveillance Data Exploration\nProblem Statement\nTo explore how accidents occur in the United States.\nProject Execution\nData Sets: NEISS Injury Data\n\nDeveloped a Shiny Application to let user interact and explore the rate of incidence of injuries by gender and age.\nProvided an inter related overview of the causes of injury and body parts effected.\nThe application tells a data story from patient’s narratives on his injury.\n\nSee the live application"
+  },
+  {
+    "objectID": "portfolio_presentation.html#product-recommendation",
+    "href": "portfolio_presentation.html#product-recommendation",
+    "title": "Portfolio",
+    "section": "Product Recommendation",
+    "text": "Product Recommendation\n\n\nProblem Statement\nTo recommend products to customers considering their previous buying patterns and behavior.\nProject Execution and Results\nData Sets: Market Basket Anlysis\n\nCreated frequent itemsets using retailer’s sales data applying apriori algorithm.\nGenerated top five association rules based on lift values.\nElevated increase traffic of customers to increase sales revenue and retain existing customer base.\n\nComplete Project"
+  },
+  {
+    "objectID": "portfolio_presentation.html#stock-volatility-forecsting",
+    "href": "portfolio_presentation.html#stock-volatility-forecsting",
+    "title": "Portfolio",
+    "section": "Stock Volatility Forecsting",
+    "text": "Stock Volatility Forecsting\n\n\nProblem Statement\nTo compare performance of various Econometric and Deep Learning Algorithms for stock volatility forecasting\nProject Execution and Results\nData Sets: Yahoo Finance API\n\nConcluded that Econometric techniques have better forecasting power and narrower Confidence Intervals.\nThe paper will help analysts and investors to understand the future stock market trends and to invest in less volatile stocks.\n\nFull Paper"
+  },
+  {
+    "objectID": "portfolio_presentation.html#data-analytics-training-at-iba-karachi",
+    "href": "portfolio_presentation.html#data-analytics-training-at-iba-karachi",
+    "title": "Portfolio",
+    "section": "Data Analytics training at IBA, Karachi",
+    "text": "Data Analytics training at IBA, Karachi"
+  },
+  {
+    "objectID": "portfolio_presentation.html#online-r-software-training",
+    "href": "portfolio_presentation.html#online-r-software-training",
+    "title": "Portfolio",
+    "section": "Online R Software Training",
+    "text": "Online R Software Training"
+  },
+  {
+    "objectID": "portfolio_presentation.html#national-electronic-injury-surveillance-data-exploration-1",
+    "href": "portfolio_presentation.html#national-electronic-injury-surveillance-data-exploration-1",
+    "title": "Portfolio",
+    "section": "National Electronic Injury Surveillance Data Exploration",
+    "text": "National Electronic Injury Surveillance Data Exploration\n\n\nProblem Statement\nTo recommend products to customers considering their previous buying patterns and behavior.\nProject Execution and Results\nData Sets: Market Basket Anlysis\n\nCreated frequent itemsets using retailer’s sales data applying apriori algorithm.\nGenerated top five association rules based on lift values.\nElevated increase traffic of customers to increase sales revenue and retain existing customer base.\n\nComplete Project\n\nRight column"
+  },
+  {
+    "objectID": "portfolio_presentation.html#section",
+    "href": "portfolio_presentation.html#section",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Data Analytics training at IBA, Karachi\nCourse Name: Data 101 - Data Analytics in Python\n\nDesigned an intro level course at Institute of Business Administration (IBA) for all non technical students of various background and impacted more than 500 students in learning basics of Data handling techniques in Python.\nExplained and implemented basics of Machine Learning algorithms like Decision Trees, K means, Random Forest and Clustering algorithms.\n\nOnline R Software Training\nCourse Name: R for Economics and Finance\n\nTaught students from IBA, LUMS, NUST and other universities about R programming, data cleaning, exploratory analysis, statistical analysis and modelling.\nMore than fifty students have attended the classes and implemented the taught techniques in research and data analysis in their respective fields."
   }
 ]
