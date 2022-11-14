@@ -123,35 +123,35 @@
     "href": "portfolio_presentation.html#clustering-countries-on-socio-economic-indicators",
     "title": "Portfolio",
     "section": "Clustering Countries on Socio-Economic Indicators",
-    "text": "Clustering Countries on Socio-Economic Indicators\n\n\nProblem Statement\nTo assist the CEO of HELP International in identifying the countries that require financial aid.\nProject Execution and Results\nData Sets: HELP International\n\nCategorize countries according socio-economic factors and determine the overall development level of the country.\nRecommend countries that need the most attention in aid including Afghanistan, Congo and Malawi using K-means clustering\n\nComplete Project"
+    "text": "Clustering Countries on Socio-Economic Indicators\n\n\n\nProblem Statement\nTo assist the CEO of HELP International in identifying the countries that require financial aid.\nProject Execution and Results\nData Sets: HELP International\n\nCategorize countries according socio-economic factors and determine the overall development level of the country.\nRecommend countries that need the most attention in aid including Afghanistan, Congo and Malawi using K-means clustering\n\nComplete Project"
   },
   {
     "objectID": "portfolio_presentation.html#bi-dashboard-for-an-e-commerce-platform",
     "href": "portfolio_presentation.html#bi-dashboard-for-an-e-commerce-platform",
     "title": "Portfolio",
     "section": "BI Dashboard for an E-Commerce Platform",
-    "text": "BI Dashboard for an E-Commerce Platform\n\n\nProblem Statement\nTo create dashboards for the internal functions of an online retail company.\nProject Execution and Results\n\nBuilt dashboard using business metrics and data visualizations.\nCustomer Analysis shows customer by market segments and their buying patterns.\nKey metrics such as top selling products and sales trends over time helps assess business performance in real time.\nReturn Analysis shows type of product return and explores its causes to reduce return outward."
+    "text": "BI Dashboard for an E-Commerce Platform\n\n\n\nProblem Statement\nTo create dashboards for the internal functions of an online retail company.\nProject Execution and Results\n\nBuilt dashboard using business metrics and data visualizations.\nCustomer Analysis shows customer by market segments and their buying patterns.\nKey metrics such as top selling products and sales trends over time helps assess business performance in real time.\nReturn Analysis shows type of product return and explores its causes to reduce return outward."
   },
   {
     "objectID": "portfolio_presentation.html#national-electronic-injury-surveillance-data-exploration",
     "href": "portfolio_presentation.html#national-electronic-injury-surveillance-data-exploration",
     "title": "Portfolio",
     "section": "National Electronic Injury Surveillance Data Exploration",
-    "text": "National Electronic Injury Surveillance Data Exploration\nProblem Statement\nTo explore how accidents occur in the United States.\nProject Execution\nData Sets: NEISS Injury Data\n\nDeveloped a Shiny Application to let user interact and explore the rate of incidence of injuries by gender and age.\nProvided an inter related overview of the causes of injury and body parts effected.\nThe application tells a data story from patient’s narratives on his injury.\n\nSee the live application"
+    "text": "National Electronic Injury Surveillance Data Exploration\n\n\n\nProblem Statement\nTo explore how accidents occur in the United States.\nProject Execution\nData Sets: NEISS Injury Data\n\nDeveloped a Shiny Application to let user interact and explore the rate of incidence of injuries by gender and age.\nProvided an inter related overview of the causes of injury and body parts effected.\nThe application tells a data story from patient’s narratives on his injury.\n\nSee the live application"
   },
   {
     "objectID": "portfolio_presentation.html#product-recommendation",
     "href": "portfolio_presentation.html#product-recommendation",
     "title": "Portfolio",
     "section": "Product Recommendation",
-    "text": "Product Recommendation\n\n\nProblem Statement\nTo recommend products to customers considering their previous buying patterns and behavior.\nProject Execution and Results\nData Sets: Market Basket Anlysis\n\nCreated frequent itemsets using retailer’s sales data applying apriori algorithm.\nGenerated top five association rules based on lift values.\nElevated increase traffic of customers to increase sales revenue and retain existing customer base.\n\nComplete Project"
+    "text": "Product Recommendation\n\n\n\nProblem Statement\nTo recommend products to customers considering their previous buying patterns and behavior.\nProject Execution and Results\nData Sets: Market Basket Anlysis\n\nCreated frequent itemsets using retailer’s sales data applying apriori algorithm.\nGenerated top five association rules based on lift values.\nElevated increase traffic of customers to increase sales revenue and retain existing customer base.\n\nComplete Project"
   },
   {
     "objectID": "portfolio_presentation.html#stock-volatility-forecsting",
     "href": "portfolio_presentation.html#stock-volatility-forecsting",
     "title": "Portfolio",
     "section": "Stock Volatility Forecsting",
-    "text": "Stock Volatility Forecsting\n\n\nProblem Statement\nTo compare performance of various Econometric and Deep Learning Algorithms for stock volatility forecasting\nProject Execution and Results\nData Sets: Yahoo Finance API\n\nConcluded that Econometric techniques have better forecasting power and narrower Confidence Intervals.\nThe paper will help analysts and investors to understand the future stock market trends and to invest in less volatile stocks.\n\nFull Paper"
+    "text": "Stock Volatility Forecsting\n\n\n\nProblem Statement\nTo compare performance of various Econometric and Deep Learning Algorithms for stock volatility forecasting\nProject Execution and Results\nData Sets: Yahoo Finance API\n\nConcluded that Econometric techniques have better forecasting power and narrower Confidence Intervals.\nThe paper will help analysts and investors to understand the future stock market trends and to invest in less volatile stocks.\n\nFull Paper"
   },
   {
     "objectID": "portfolio_presentation.html#data-analytics-training-at-iba-karachi",

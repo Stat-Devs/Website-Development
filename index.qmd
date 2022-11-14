@@ -37,7 +37,6 @@ We empower your organization through data driven metrics to measure, monitor and
 :::
 
 ::: {#our-expertise}
-
 <h2>Services</h2>
 
 ::: grid
@@ -51,7 +50,7 @@ Business Intelligence
 </h5>
 :::
 
-::: {#expertise .g-col-6}
+::: g-col-6
 <img src="images/2nd-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -61,7 +60,7 @@ Interactive Visualizations & Applications
 </h5>
 :::
 
-::: {#expertise .g-col-6}
+::: g-col-6
 <img src="images/3rd-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -71,7 +70,7 @@ Research Reports
 </h5>
 :::
 
-::: {#expertise .g-col-6}
+::: g-col-6
 <img src="images/4th-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
