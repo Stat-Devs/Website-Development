@@ -13,6 +13,10 @@ website:
     left:
       - href: index.qmd
         text: "Home"
+      - text: "Services"
+        menu: 
+          - consulting.qmd
+          - training.qmd
       - portfolio.qmd
       - blog.qmd
       - about.qmd

@@ -7,92 +7,83 @@ title-block-banner: true
 ---
 
 
-
+::: {#portfolioheading}
 <h2>Business Data Analysis and Research</h2>
-
+:::
 
 ::: grid
-::: g-col-6
-::: {#portfolio .card}
-<img src=""/ class = "card-img-top">
+::: {#portfolio .g-col-6}
+
+<img src="images/portfolio/1.png"/ class = "card-img-top">
 
 <h5 class = "card-title">Macro Data Analysis of Pakistan Health Sector</h5>
 :::
-:::
-::: g-col-6
-::: {#portfolio .card}
-<img src=""/ class = "card-img-top">
+
+::: {#portfolio .g-col-6}
+
+<img src="images/portfolio/6.png"/ class = "card-img-top">
 
 <h5 class = "card-title">Product Recommendation</h5>
 :::
-:::
 
-::: g-col-6
-::: {#portfolio .card}
-<img src=""/ class="card-img-top">
+
+::: {#portfolio .g-col-6}
+
+<img src="images/portfolio/4.png"/ class="card-img-top">
 
 <h5 class="card-title">Clustering Countries on Socio-Economic Indicators</h5>
 :::
+
 :::
+
+::: {#portfolioheading}
+<h2>Interactive Data Applications & Dashboards</h2>
 :::
-
-<h2>
-
-Interactive Data Applications & Dashboards
-
-</h2>
 
 ::: grid
-::: g-col-6
-::: {#portfolio .card}
-<img src=""/ class = "card-img-top">
+::: {#portfolio .g-col-6}
+
+<img src="images/portfolio/2.png"/ class = "card-img-top">
 
 <h5 class="card-title">Power BI Dashboard for an E-commerce Platform</h5>
-:::
+
 :::
 
-::: g-col-6
-::: {#portfolio .card}
-<img src=""/ class = "card-img-top">
+::: {#portfolio .g-col-6}
+
+<img src="images/portfolio/7.png"/ class = "card-img-top">
 
 <h5 class = "card-title">National Electronic Injury Surveillance Data Exploration</h5>
 :::
 :::
+
+::: {#portfolioheading}
+<h2>Predictive Modelling</h2>
 :::
 
-<h2>
-
-Predictive Modelling
-
-</h2>
-
 ::: grid
-::: g-col-6
-::: {#portfolio .card}
-<img src=""/ class = "card-img-top">
+::: {#portfolio .g-col-6}
+
+<img src="images/portfolio/3.png"/ class = "card-img-top">
 
 <h5 class = "card-title">Stock Volatility Forecasting</h5>
 :::
-:::
 
-::: g-col-6
-::: {#portfolio .card}
-<img src=""/ class = "card-img-top">
+::: {#portfolio .g-col-6}
+
+<img src="images/portfolio/5.png"/ class = "card-img-top">
 
 <h5 class = "card-title">Infant Mortality Modelling</h5>
 :::
 :::
+
+::: {#portfolioheading}
+<h2>Training & Teaching</h2>
 :::
-
-<h2>
-
-Training & Teaching
-
-</h2>
 
 ::: grid
 ::: g-col-6
-::: {#portfolio .card}
+::: {#portfolio}
 <img src=""/ class = "card-img-top">
 
 <h5 class = "card-title">Data Analytics Training at IBA, Karachi</h5>
@@ -100,7 +91,7 @@ Training & Teaching
 :::
 
 ::: g-col-6
-::: {#portfolio .card}
+::: {#portfolio}
 <img src=""/ class = "card-img-top">
 
 <h5 class = "card-title">Online R Software Training</h5>

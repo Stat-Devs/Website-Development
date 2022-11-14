@@ -1,0 +1,229 @@
+---
+title: "Portfolio" 
+format: 
+  revealjs:
+    title-slide-attributes: 
+      data-background-image: images/portfolio/title.png
+    logo: images/footer.png
+    slide-number: true
+    smaller: true
+    transition: fade
+    backgroundcolor: "#efefef"
+    theme: [default, custom.scss]
+    
+editor: visual
+---
+
+# Macro Analysis & Research {background-image="images/portfolio/title.png"}
+
+## Macro Analysis of Pakistan Health Sector
+
+::: columns
+::: {.column width="60%"}
+#### Problem Statement
+
+To create a broad understanding of health deficiencies experienced by Pakistan population and identify Most Disadvantaged Districts (MDDs) in Punjab, Sindh and Balochistan.
+
+#### Project Execution
+
+*Data Sets:* [Census 2017, Pakistan Social Living Measurement Survey (PSLM) 2019-2020, Pakistan Maternal Mortality Survey (PMMS) 2019, Pakistan Demographic & Health Survey 2017-2018 (PDHS), Household Integrated Economic Survey (HIES) 2018-19](https://www.pbs.gov.pk/publication/household-integrated-economic-survey-hies-2018-19)
+
+-   Analyzed and explored the exact status of Public Health Care Delivery (PHC) at country and provincial levels.
+
+-   Summarized and presented the current status of health parameters in mortality, prevalence and disease incidence in Pakistan and compared with peer countries like Bangladesh, India, Srilanka and others.
+
+-   Explored Pakistan Demographics and statistically selected Most Disadvantaged Districts (MDDs) on basis of PHC Delivery, Social Living Measurement (SLM) and Burden of Disease (BOD) indicators.
+
+-   Analyzed Quintile Wise Health and Non Health Expenditure Analysis by provinces.
+
+-   Suggested the Intervention Plan to deliver PHC to these MDDs through Mobile PHC units.
+:::
+
+::: {.column width="40%"}
+![](images/Birth-Place.png)
+
+![](images/Quintile.png)
+:::
+:::
+
+## Infant Mortality Modelling
+
+::: columns
+::: {.column width="60%"}
+#### Problem Statement
+
+To predict the infant mortality and infant's survival chances in Pakistan.
+
+#### Project Execution and Results
+
+*Data Sets:* [Pakistan Demographic & Health Survey 2017-2018 (PDHS)](https://dhsprogram.com/pubs/pdf/FR354/FR354.pdf)
+
+-   Developed and Deployed data Application to train classification models predicting the chances of infant survival based on Demographic, Health & Social factors.
+
+-   Novel idea to develop infant mortality predictions using demographic and health survey data as previous works involved use of health cards.
+
+-   Applied data cleaning, feature selection and machine learning algorithms such as Neural Networks to analyze the social and demographic factors of infants such as previous birth history, infant's height and weight and family wealth index.
+
+[*Full Report of the Project*](https://drive.google.com/file/d/1JnuY0Z-RkT9dU3mbtVyjWXEte2xqF78j/view) [*See the Live Application*](https://infantmortalityapi.herokuapp.com/)
+:::
+
+::: {.column width="40%"}
+![](images/infant.png){.absolute top=50 right=0 width="420" height="420"}
+:::
+:::
+
+## Clustering Countries on Socio-Economic Indicators
+
+::: columns
+::: {.column width="60%"}
+::: r-fit-text
+#### Problem Statement
+
+To assist the CEO of [HELP International](https://help-international.org/) in identifying the countries that require financial aid.
+
+#### Project Execution and Results
+
+*Data Sets:* [HELP International](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data)
+
+-   Categorize countries according socio-economic factors and determine the overall development level of the country.
+
+-   Recommend countries that need the most attention in aid including Afghanistan, Congo and Malawi using K-means clustering
+
+[*Complete Project*](https://github.com/sarfaraz-jamal/Socio-Economic-Indicators-Clustering)
+:::
+:::
+
+::: {.column width="40%"}
+![](images/socio-economic-indicators.png){.r-stretch}
+:::
+:::
+
+# Interactive Applications & Dashboards {background-image="images/portfolio/title.png"}
+
+## BI Dashboard for an E-Commerce Platform
+
+::: columns
+::: {.column width="60%"}
+::: r-fit-text
+#### Problem Statement
+
+To create dashboards for the internal functions of an online retail company.
+
+#### Project Execution and Results
+
+-   Built dashboard using business metrics and data visualizations.
+
+-   Customer Analysis shows customer by market segments and their buying patterns.
+
+-   Key metrics such as top selling products and sales trends over time helps assess business performance in real time.
+
+-   Return Analysis shows type of product return and explores its causes to reduce return outward.
+:::
+:::
+
+::: {.column width="40%"}
+![](images/Return-Page.png) ![](images/Employee-Page.png)
+:::
+:::
+
+## National Electronic Injury Surveillance Data Exploration
+::: columns
+::: {.column width="60%"}
+::: r-fit-text
+#### Problem Statement
+
+To explore how accidents occur in the United States.
+
+#### Project Execution
+
+*Data Sets:* [NEISS Injury Data](https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data)
+
+-   Developed a Shiny Application to let user interact and explore the rate of incidence of injuries by gender and age.
+
+-   Provided an inter related overview of the causes of injury and body parts effected.
+
+-   The application tells a data story from patient's narratives on his injury.
+
+[*See the live application*](https://e3mcth-muhammad0uzair0aslam.shinyapps.io/App_ER/)
+:::
+:::
+
+::: {.column width="40%"}
+![](images/neiss.png){.absolute top=50 right=0 width="420" height="400"}
+:::
+:::
+
+# Predictive Modelling {background-image="images/portfolio/title.png"}
+
+## Product Recommendation
+
+::: columns
+::: {.column width="60%"}
+::: r-fit-text
+#### Problem Statement
+
+To recommend products to customers considering their previous buying patterns and behavior.
+
+#### Project Execution and Results
+
+*Data Sets:* [Market Basket Anlysis](https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis)
+
+-   Created frequent itemsets using retailer's sales data applying apriori algorithm.
+-   Generated top five association rules based on lift values.
+-   Elevated increase traffic of customers to increase sales revenue and retain existing customer base.
+
+[*Complete Project*](https://www.kaggle.com/code/sarfarazjamal/final-project-market-basket-analysis/notebook)
+:::
+:::
+
+::: {.column width="40%"}
+![](images/Top-20-Products.png){.r-stretch}
+:::
+:::
+
+## Stock Volatility Forecsting
+
+::: columns
+::: {.column width="60%"}
+::: r-fit-text
+#### Problem Statement
+
+To compare performance of various Econometric and Deep Learning Algorithms for stock volatility forecasting
+
+#### Project Execution and Results
+
+*Data Sets:* [Yahoo Finance API](https://finance.yahoo.com/quotes/API,Documentation/view/v1/?guccounter=1)
+
+-   Concluded that Econometric techniques have better forecasting power and narrower Confidence Intervals.
+-   The paper will help analysts and investors to understand the future stock market trends and to invest in less volatile stocks.
+
+[*Full Paper*](https://drive.google.com/drive/u/0/folders/1f1svk19XGZsBYuV9fVCZUf8BXwILVCpJ)
+:::
+:::
+
+::: {.column width="40%"}
+![](images/stock.png){.absolute top=50 right=0 width="420" height="300"}
+:::
+:::
+
+# Training & Teaching {background-image="images/portfolio/title.png"}
+
+## 
+
+::: r-fit-text
+### Data Analytics training at IBA, Karachi
+
+*Course Name: Data 101 - Data Analytics in Python*
+
+-   Designed an intro level course at Institute of Business Administration (IBA) for all non technical students of various background and impacted more than 500 students in learning basics of Data handling techniques in Python.
+
+-   Explained and implemented basics of Machine Learning algorithms like Decision Trees, K means, Random Forest and Clustering algorithms.
+
+### Online R Software Training
+
+*Course Name: R for Economics and Finance*
+
+-   Taught students from IBA, LUMS, NUST and other universities about R programming, data cleaning, exploratory analysis, statistical analysis and modelling.
+
+-   More than fifty students have attended the classes and implemented the taught techniques in research and data analysis in their respective fields.
+:::

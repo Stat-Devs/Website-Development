@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    page-layout: custom
+title: "Training"
+title-block-banner: true
+---
+
+::: {#consult .grid}
+::: {#consulting .g-col-4}
+<img src="images/training/business-analytics.png"/>
+
+<h5>Introduction to Business Data Analysis in R</h5>
+:::
+
+::: g-col-4
+<img src="images/training/time-series.png"/>
+
+<h5>Time Series Analysis & Forecasting</h5>
+:::
+
+::: g-col-4
+<img src="images/training/statistical&amp;machinelearning.png"/>
+
+<h5>Statistical & Machine Learning Modelling</h5>
+:::
+
+::: g-col-4
+<img src="images/training/spatial-analysis.png"/>
+
+<h5>Spatial Data Analysis</h5>
+:::
+
+::: g-col-4
+<img src="images/training/visualization&amp;shiny.png"/>
+
+<h5>Data Visualization & Shiny Applications</h5>
+:::
+
+::: g-col-4
+<img src="images/training/r-for-datascience.png"/>
+
+<h5>R for Data Science</h5>
+:::
+
+::: g-col-4
+<img src="images/training/elegant-reporting.png"/>
+
+<h5>Elegant Reporting & Presentation in Quarto</h5>
+:::
+
+::: g-col-4
+<img src="images/training/putting-r-in-production.png"/>
+
+<h5>Putting R in Production</h5>
+:::
+
+::: g-col-4
+<img src="images/training/reproducible-workflows.png"/>
+
+<h5>Reproducible Workflows</h5>
+:::
+
+::: g-col-4
+:::
+
+::: g-col-4
+<img src="images/training/packages.png"/>
+
+<h5>Writing R Packages</h5>
+:::
+:::

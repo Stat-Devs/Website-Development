@@ -1,8 +1,43 @@
 /*-- scss:defaults --*/
 
 
-$headings-color: #1d4355;  
+$headings-color: #2a5f7a;  
+
+$navbar-hl: #2a5f7a;
+
+$navbar-fg: #2a5f7a;
+
+$presentation-heading-color: #2a5f7a;
+
+$presentation-heading-font: Book Antiqua;
+
+$link-color: #C00000;
+
+
+
 
 /*-- scss:rules --*/
 
+.footer {
+  font-family: $presentation-heading-font;
+}
 
+.reveal .slide-number {
+  font-family: $presentation-heading-font;
+}
+
+.reveal .slide-logo {
+  height: 95px !important;
+  width: 95px!important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+.reveal {
+  font-family: Book Antiqua;
+  font-weight: normal;
+  
+  }
+  
+
+  

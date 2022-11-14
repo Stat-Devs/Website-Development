@@ -5,7 +5,7 @@
   
   display: grid;
   place-items: center;
-  
+  text-align: center;
  
   
 }
@@ -34,6 +34,7 @@
   padding-left: 210px;
   padding-top: 50px;
   background: white;
+  text-align: center;
   
   
   
@@ -82,18 +83,9 @@
 
 .g-col-4{
   display: grid;
-  
-  
- 
-  
-
 }
 
-.card {
-   box-shadow: 0 0 10px rgba(0,0,0,0.4);
-   border-radius: 5px;
-   place-items: center;
-   width: 100%;
+
    
    
    
@@ -106,6 +98,7 @@ h2 {
   margin-right: 20px;
   border-width: 0;
   text-align: center;
+  
   
 }
   
@@ -129,11 +122,27 @@ h2 {
 
 #portfolio {
   
-  background: #ebecfd;
-  padding-right: 150px;
-  padding-left: 150px;
+
+  height: 350px;
+  width:400px;
+  text-align: center;
+  
   
  
 }
 
+#consult {
 
+  padding-right: 120px;
+  padding-left: 120px;
+}
+
+#consulting{
+  text-align: center;
+  height: 400px;
+  
+}
+
+#portfolioheading {
+  text-align: center;
+}
