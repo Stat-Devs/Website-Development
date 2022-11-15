@@ -38,49 +38,64 @@ We empower your organization through data driven metrics to measure, monitor and
 
 ::: {#our-expertise}
 <h2>Services</h2>
+:::
 
-::: grid
+::: {#first .grid}
+
+<a href = "consulting.qmd">
+
 ::: {.expertise .g-col-6}
+
 <img src="images/1st-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">
+<h5 class="card-title">Business Intelligence</h5>
 
-Business Intelligence
-
-</h5>
 :::
 
+</a>
+
+<a href = "consulting.qmd">
+
 ::: {.expertise .g-col-6}
+
 <img src="images/2nd-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">
+<h5 class="card-title">Interactive Visualizations & Applications</h5>
 
-Interactive Visualizations & Applications
-
-</h5>
 :::
 
+</a>
+
+:::
+
+::: {#second .grid}
+
+<a href = "consulting.qmd">
+
 ::: {.expertise .g-col-6}
+
 <img src="images/3rd-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">
+<h5 class="card-title">Research Reports</h5>
 
-Research Reports
-
-</h5>
 :::
+
+</a>
+
+<a href = "training.qmd">
 
 ::: {.expertise .g-col-6}
+
 <img src="images/4th-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">
+<h5 class="card-title">Training</h5>
 
-Training
+:::
 
-</h5>
+</a>
+
 :::
-:::
-:::
+
 
 ::: {#past-work}
 <h2>Our Work</h2>
