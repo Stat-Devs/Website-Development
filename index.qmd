@@ -41,15 +41,16 @@ We empower your organization through data driven metrics to measure, monitor and
 :::
 
 ::: {#first .grid}
-
 <a href = "consulting.qmd">
 
 ::: {.expertise .g-col-6}
-
 <img src="images/1st-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">Business Intelligence</h5>
+<h5 class="card-title">
 
+Business Intelligence
+
+</h5>
 :::
 
 </a>
@@ -57,27 +58,29 @@ We empower your organization through data driven metrics to measure, monitor and
 <a href = "consulting.qmd">
 
 ::: {.expertise .g-col-6}
-
 <img src="images/2nd-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">Interactive Visualizations & Applications</h5>
+<h5 class="card-title">
 
+Interactive Visualizations & Applications
+
+</h5>
 :::
 
 </a>
-
 :::
 
 ::: {#second .grid}
-
 <a href = "consulting.qmd">
 
 ::: {.expertise .g-col-6}
-
 <img src="images/3rd-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">Research Reports</h5>
+<h5 class="card-title">
 
+Research Reports
+
+</h5>
 :::
 
 </a>
@@ -85,39 +88,58 @@ We empower your organization through data driven metrics to measure, monitor and
 <a href = "training.qmd">
 
 ::: {.expertise .g-col-6}
-
 <img src="images/4th-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">Training</h5>
+<h5 class="card-title">
 
+Training
+
+</h5>
 :::
 
 </a>
-
 :::
-
 
 ::: {#past-work}
 <h2>Our Work</h2>
 
 ::: grid
 ::: g-col-4
+
+<a href = "portfolio_presentation.qmd#health" target="_blank">
+
 <img src="images/health.png"/>
 
 <h6>Analysis of Pakistan Health Sector</h6>
+
+</a>
+
 :::
 
 ::: g-col-4
+
+<a href = "portfolio_presentation.qmd#stock" target="_blank">
+
 <img src="images/stock.png"/>
 
 <h6>Stock Volatility Forecasting</h6>
+
+</a>
+
 :::
 
 ::: g-col-4
+
+<a href = "portfolio_presentation.qmd#dashboard" target="_blank">
+
 <img src="images/dashboard.png"/>
 
 <h6>BI Dashboard</h6>
+
+</a>
+
 :::
+
 :::
 :::
 
@@ -129,6 +151,7 @@ We empower your organization through data driven metrics to measure, monitor and
 <img src="images/public-health.png"/>
 
 <h5>Public Health</h5>
+
 :::
 
 ::: g-col-4

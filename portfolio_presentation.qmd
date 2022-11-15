@@ -16,7 +16,7 @@ editor: visual
 
 # Macro Analysis & Research {background-image="images/portfolio/title.png"}
 
-## Macro Analysis of Pakistan Health Sector
+## Macro Analysis of Pakistan Health Sector {#health}
 
 ::: columns
 ::: {.column width="60%"}
@@ -46,7 +46,7 @@ To create a broad understanding of health deficiencies experienced by Pakistan p
 :::
 :::
 
-## Infant Mortality Modelling
+## Infant Mortality Modelling {#infant}
 
 ::: columns
 ::: {.column width="60%"}
@@ -68,11 +68,11 @@ To predict the infant mortality and infant's survival chances in Pakistan.
 :::
 
 ::: {.column width="40%"}
-![](images/infant.png){.absolute top=50 right=0 width="420" height="420"}
+![](images/infant.png){.absolute top="50" right="0" width="420" height="420"}
 :::
 :::
 
-## Clustering Countries on Socio-Economic Indicators
+## Clustering Countries on Socio-Economic Indicators {#clustering}
 
 ::: columns
 ::: {.column width="60%"}
@@ -100,7 +100,7 @@ To assist the CEO of [HELP International](https://help-international.org/) in id
 
 # Interactive Applications & Dashboards {background-image="images/portfolio/title.png"}
 
-## BI Dashboard for an E-Commerce Platform
+## BI Dashboard for an E-Commerce Platform {#dashboard}
 
 ::: columns
 ::: {.column width="60%"}
@@ -126,7 +126,8 @@ To create dashboards for the internal functions of an online retail company.
 :::
 :::
 
-## National Electronic Injury Surveillance Data Exploration
+## National Electronic Injury Surveillance Data Exploration {#neiss}
+
 ::: columns
 ::: {.column width="60%"}
 ::: r-fit-text
@@ -149,13 +150,13 @@ To explore how accidents occur in the United States.
 :::
 
 ::: {.column width="40%"}
-![](images/neiss.png){.absolute top=50 right=0 width="420" height="400"}
+![](images/neiss.png){.absolute top="50" right="0" width="420" height="400"}
 :::
 :::
 
 # Predictive Modelling {background-image="images/portfolio/title.png"}
 
-## Product Recommendation
+## Product Recommendation {#recommendation}
 
 ::: columns
 ::: {.column width="60%"}
@@ -181,7 +182,7 @@ To recommend products to customers considering their previous buying patterns an
 :::
 :::
 
-## Stock Volatility Forecsting
+## Stock Volatility Forecasting {#stock}
 
 ::: columns
 ::: {.column width="60%"}
@@ -202,7 +203,7 @@ To compare performance of various Econometric and Deep Learning Algorithms for s
 :::
 
 ::: {.column width="40%"}
-![](images/stock.png){.absolute top=50 right=0 width="420" height="300"}
+![](images/stock.png){.absolute top="50" right="0" width="420" height="300"}
 :::
 :::
 
@@ -210,7 +211,7 @@ To compare performance of various Econometric and Deep Learning Algorithms for s
 
 ## 
 
-::: r-fit-text
+::: {#training .r-fit-text}
 ### Data Analytics training at IBA, Karachi
 
 *Course Name: Data 101 - Data Analytics in Python*
