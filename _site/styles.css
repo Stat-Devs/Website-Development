@@ -10,7 +10,7 @@
   
 }
 
-#expertise{
+.expertise{
 
   display: grid;
   place-items: center;
@@ -108,7 +108,7 @@ h2 {
   
 }
 
-#contact {
+.contact {
   border-left: solid;
   padding-left: 10px;
 }
