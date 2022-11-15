@@ -14,24 +14,39 @@ title-block-banner: true
 ::: grid
 ::: {#portfolio .g-col-6}
 
+<a href = "portfolio_presentation.qmd#health" target="_blank">
+
 <img src="images/portfolio/1.png"/ class = "card-img-top">
 
 <h5 class = "card-title">Macro Data Analysis of Pakistan Health Sector</h5>
+
+</a>
+
 :::
 
 ::: {#portfolio .g-col-6}
+
+<a href = "portfolio_presentation.qmd#recommendation" target="_blank">
 
 <img src="images/portfolio/6.png"/ class = "card-img-top">
 
 <h5 class = "card-title">Product Recommendation</h5>
+
+</a>
+
 :::
 
 
 ::: {#portfolio .g-col-6}
 
+<a href = "portfolio_presentation.qmd#clustering" target="_blank">
+
 <img src="images/portfolio/4.png"/ class="card-img-top">
 
 <h5 class="card-title">Clustering Countries on Socio-Economic Indicators</h5>
+
+</a>
+
 :::
 
 :::
@@ -43,17 +58,26 @@ title-block-banner: true
 ::: grid
 ::: {#portfolio .g-col-6}
 
+<a href = "portfolio_presentation.qmd#dashboard" target="_blank">
+
 <img src="images/portfolio/2.png"/ class = "card-img-top">
 
 <h5 class="card-title">Power BI Dashboard for an E-commerce Platform</h5>
+
+</a>
 
 :::
 
 ::: {#portfolio .g-col-6}
 
+<a href = "portfolio_presentation.qmd#neiss" target="_blank">
+
 <img src="images/portfolio/7.png"/ class = "card-img-top">
 
 <h5 class = "card-title">National Electronic Injury Surveillance Data Exploration</h5>
+
+</a>
+
 :::
 :::
 
@@ -64,16 +88,26 @@ title-block-banner: true
 ::: grid
 ::: {#portfolio .g-col-6}
 
+<a href = "portfolio_presentation.qmd#stock" target="_blank">
+
 <img src="images/portfolio/3.png"/ class = "card-img-top">
 
 <h5 class = "card-title">Stock Volatility Forecasting</h5>
+
+</a>
+
 :::
 
 ::: {#portfolio .g-col-6}
 
+<a href = "portfolio_presentation.qmd#infant" target="_blank">
+
 <img src="images/portfolio/5.png"/ class = "card-img-top">
 
 <h5 class = "card-title">Infant Mortality Modelling</h5>
+
+</a>
+
 :::
 :::
 
@@ -84,17 +118,29 @@ title-block-banner: true
 ::: grid
 ::: g-col-6
 ::: {#portfolio}
+
+<a href = "portfolio_presentation.qmd#training" target="_blank">
+
 <img src=""/ class = "card-img-top">
 
 <h5 class = "card-title">Data Analytics Training at IBA, Karachi</h5>
+
+</a>
+
 :::
 :::
 
 ::: g-col-6
 ::: {#portfolio}
+
+<a href = "portfolio_presentation.qmd#training" target="_blank">
+
 <img src=""/ class = "card-img-top">
 
 <h5 class = "card-title">Online R Software Training</h5>
+
+</a>
+
 :::
 :::
 :::

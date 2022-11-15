@@ -207,11 +207,11 @@ To compare performance of various Econometric and Deep Learning Algorithms for s
 :::
 :::
 
-# Training & Teaching {background-image="images/portfolio/title.png"}
+# Training & Teaching {#training background-image="images/portfolio/title.png"}
 
 ## 
 
-::: {#training .r-fit-text}
+::: r-fit-text
 ### Data Analytics training at IBA, Karachi
 
 *Course Name: Data 101 - Data Analytics in Python*
