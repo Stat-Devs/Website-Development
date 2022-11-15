@@ -50,7 +50,7 @@ Business Intelligence
 </h5>
 :::
 
-::: g-col-6
+::: {#expertise .g-col-6}
 <img src="images/2nd-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -60,7 +60,7 @@ Interactive Visualizations & Applications
 </h5>
 :::
 
-::: g-col-6
+::: {#expertise .g-col-6}
 <img src="images/3rd-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -70,7 +70,7 @@ Research Reports
 </h5>
 :::
 
-::: g-col-6
+::: {#expertise .g-col-6}
 <img src="images/4th-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -139,13 +139,13 @@ Training
 <p>Karachi 75500</p>
 :::
 
-::: g-col-4
+:::{#contact .g-col-4}
 <p>+92-336-8446579</p>
 
 <p>+92-331-2803120</p>
 :::
 
-::: g-col-4
+::: {#contact .g-col-4}
 <p>sarfaraz.jamal\@statdevs.com</p>
 
 <p>m.uzair\@statdevs.com</p>
