@@ -6,15 +6,13 @@
   display: grid;
   place-items: center;
   text-align: center;
-  border: solid;
- 
-  
-  
+
 }
 
 #first {
   margin-bottom: 10px;
   padding-left: 180px;
+  
 }
 
 #second {
@@ -57,7 +55,7 @@
 
 #past-work {
  
-  margin-bottom: 100px;
+  margin-bottom: 0px;
   place-items: center;
   text-align: center;
   padding-right:130px;
@@ -149,12 +147,14 @@ h2 {
 
   padding-right: 120px;
   padding-left: 120px;
+  margin: 40px;
 }
 
-#consulting{
+.consulting{
   text-align: center;
   height: 400px;
-  
+  font-size: 0.8em;
+  padding-top: 1px;
 }
 
 #portfolioheading {
@@ -168,9 +168,13 @@ a:link {
 }
 
 a:visited {
+  color: inherit;
   text-decoration: none;
 }
 
-a:hover {
-  
+
+#button1 {
+ text-align: center;
+ margin-bottom: 50px;
+
 }

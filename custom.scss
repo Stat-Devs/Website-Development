@@ -1,5 +1,6 @@
 /*-- scss:defaults --*/
 
+$newcolor: #2a5f7a;
 
 $headings-color: #2a5f7a;  
 
@@ -12,7 +13,6 @@ $presentation-heading-color: #2a5f7a;
 $presentation-heading-font: Book Antiqua;
 
 $link-color: #C00000;
-
 
 
 
@@ -40,4 +40,16 @@ $link-color: #C00000;
   }
   
 
+.btn-outline-primary {
+    color: #2a5f7a;
+    background-color: transparent;
+    background-image: none;
+    border-color: #2a5f7a;
+}
+
+.btn-outline-primary:hover {
+    color: white;
+    background-color: #2a5f7a;
+    border-color: #2a5f7a;
+}
   

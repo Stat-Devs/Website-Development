@@ -7,15 +7,15 @@ title-block-banner: true
 ---
 
 ::: {#consult .grid}
-::: {#consulting .g-col-4}
+::: {.consulting .g-col-4}
 <img src="images/services/business-analysis-strategy.png"/>
 
 <h5>Business Analysis & Strategy</h5>
 
-<p>From designing your quality data generation methods to informed business decisions and actions, we help you understand your customers by optimizing business and customer interaction.</p>
+<p>From designing your quality data generation methods to informed business decisions and actions, we help you optimize your business across functions. These range from manufacturing and human resource management all the way to customer relationship management.</p>
 :::
 
-::: {#consulting .g-col-4}
+::: {.consulting .g-col-4}
 <img src="images/services/Macro-Analysis-Research.png"/>
 
 <h5>Macro Analysis & Research</h5>
@@ -23,7 +23,7 @@ title-block-banner: true
 <p>We specialize in areas of Socio Economic Development, Public Health and Macro Economic analysis. Our unique statistical insights and trends provide detail picture of how these changes impact countries, consumers and business environment.</p>
 :::
 
-::: {#consulting .g-col-4}
+::: {.consulting .g-col-4}
 <img src="images/services/market-analysis.png"/>
 
 <h5>Market Analysis</h5>
@@ -31,23 +31,24 @@ title-block-banner: true
 <p>We provide deep sector specific intelligence for businesses and consultants to help clients leverage on emerging business opportunities, explore new markets and analyze competitor landscape by key consumer goods and service industry insights.</p>
 :::
 
-::: {#consulting .g-col-4}
+::: {.consulting .g-col-4}
 <img src="images/services/datascience.png"/>
 
 <h5>Data Science & Statistics</h5>
 
-<p>Our data science teams applies latest software technologies in Machine Learning and Statistics to gather quality datasets from web and markets to help you forecast your product sales, position and rank your products across brands. We help you collect, organize, analyze and report your business data and KPI's.</p>
+<p>Our data science team applies latest software technologies in Machine Learning and Statistics to gather quality datasets from web and markets to help you forecast your product sales, position and rank your products across brands. We help you collect, organize, analyze and report your business data and KPI's.</p>
 :::
 
-::: {#consulting .g-col-4}
+::: {.consulting .g-col-4}
 <img src="images/services/visualization&amp;shiny.png"/>
 
 <h5>Visualization & Shiny</h5>
 
-<p>We create visually interactive dashboards and data applications to help you explore your business data and highlight new insights across your business processes and at management levels using analytics and web mapping.</p>
+<p>We create visually interactive dashboards and data applications to help you explore your business data and highlight new insights across your business processes at management levels using analytics and web maps. We make sure that the applications are scaleable and run smoothly irrespective of the size of data and users.</p>
+
 :::
 
-::: {#consulting .g-col-4}
+::: {.consulting .g-col-4}
 <img src="images/services/workflow.png"/>
 
 <h5>R Development & Workflows</h5>
