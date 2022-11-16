@@ -1,18 +1,18 @@
 ---
 format:
   html:
-    page-layout: custom
+    page-layout: full
 title: "Portfolio"
 title-block-banner: true
 ---
 
 
-::: {#portfolioheading}
+::: {.portfolioheading}
 <h2>Business Data Analysis and Research</h2>
 :::
 
 ::: grid
-::: {#portfolio .g-col-6}
+::: {.portfolio .g-col-6}
 
 <a href = "portfolio_presentation.qmd#health" target="_blank">
 
@@ -24,7 +24,7 @@ title-block-banner: true
 
 :::
 
-::: {#portfolio .g-col-6}
+::: {.portfolio .g-col-6}
 
 <a href = "portfolio_presentation.qmd#recommendation" target="_blank">
 
@@ -37,7 +37,7 @@ title-block-banner: true
 :::
 
 
-::: {#portfolio .g-col-6}
+::: {.portfolio .g-col-6}
 
 <a href = "portfolio_presentation.qmd#clustering" target="_blank">
 
@@ -51,12 +51,12 @@ title-block-banner: true
 
 :::
 
-::: {#portfolioheading}
+::: {.portfolioheading}
 <h2>Interactive Data Applications & Dashboards</h2>
 :::
 
 ::: grid
-::: {#portfolio .g-col-6}
+::: {.portfolio .g-col-6}
 
 <a href = "portfolio_presentation.qmd#dashboard" target="_blank">
 
@@ -68,7 +68,7 @@ title-block-banner: true
 
 :::
 
-::: {#portfolio .g-col-6}
+::: {.portfolio .g-col-6}
 
 <a href = "portfolio_presentation.qmd#neiss" target="_blank">
 
@@ -81,12 +81,12 @@ title-block-banner: true
 :::
 :::
 
-::: {#portfolioheading}
+::: {.portfolioheading}
 <h2>Predictive Modelling</h2>
 :::
 
 ::: grid
-::: {#portfolio .g-col-6}
+::: {.portfolio .g-col-6}
 
 <a href = "portfolio_presentation.qmd#stock" target="_blank">
 
@@ -98,7 +98,7 @@ title-block-banner: true
 
 :::
 
-::: {#portfolio .g-col-6}
+::: {.portfolio .g-col-6}
 
 <a href = "portfolio_presentation.qmd#infant" target="_blank">
 
@@ -111,13 +111,13 @@ title-block-banner: true
 :::
 :::
 
-::: {#portfolioheading}
+::: {.portfolioheading}
 <h2>Training & Teaching</h2>
 :::
 
 ::: grid
-::: g-col-6
-::: {#portfolio}
+::: {.portfolio .g-col-6}
+
 
 <a href = "portfolio_presentation.qmd#training" target="_blank">
 
@@ -128,10 +128,10 @@ title-block-banner: true
 </a>
 
 :::
-:::
 
-::: g-col-6
-::: {#portfolio}
+
+::: {.portfolio .g-col-6}
+
 
 <a href = "portfolio_presentation.qmd#training" target="_blank">
 
@@ -143,4 +143,4 @@ title-block-banner: true
 
 :::
 :::
-:::
+
