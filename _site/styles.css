@@ -145,14 +145,23 @@ h2 {
 
 #consult {
 
-  padding-right: 120px;
-  padding-left: 120px;
-  margin: 40px;
+ 
 }
 
 .consulting{
   text-align: center;
   height: 400px;
+  font-size: 0.8em;
+  padding-top: 1px;
+}
+
+#portfolioheading {
+  text-align: center;
+}
+
+.training{
+  text-align: center;
+  height: 300px;
   font-size: 0.8em;
   padding-top: 1px;
 }

@@ -1,7 +1,7 @@
 ---
 format:
   html:
-    page-layout: custom
+    page-layout: full
 title: "Consulting"
 title-block-banner: true
 ---
@@ -45,7 +45,6 @@ title-block-banner: true
 <h5>Visualization & Shiny</h5>
 
 <p>We create visually interactive dashboards and data applications to help you explore your business data and highlight new insights across your business processes at management levels using analytics and web maps. We make sure that the applications are scaleable and run smoothly irrespective of the size of data and users.</p>
-
 :::
 
 ::: {.consulting .g-col-4}
