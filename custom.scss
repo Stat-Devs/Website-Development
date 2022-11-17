@@ -2,11 +2,19 @@
 
 $newcolor: #2a5f7a;
 
-$headings-color: #2a5f7a;  
+$headings-color: 	#2a5f7a;  
 
-$navbar-hl: #2a5f7a;
+$navbar-hl: #b7b3a4;
 
-$navbar-fg: #2a5f7a;
+$navbar-fg: white;
+
+$navbar-padding-y: 0rem !important;
+
+$navbar-padding-x: 15rem !important;
+
+
+
+
 
 $presentation-heading-color: #2a5f7a;
 
@@ -59,4 +67,14 @@ $link-color: #C00000;
   max-width: 100%;
   max-height: 100%;
   display: block;  
+  
+}
+
+.nav-link {
+  font-weight: bold;
+}
+
+h3 {
+  color: black;
+  
 }

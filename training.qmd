@@ -2,15 +2,15 @@
 format:
   html:
     page-layout: full
-title: "Training"
-title-block-banner: true
+title: "Professional Training"
+title-block-banner: false
 ---
 
 ::: {#consult .grid}
 ::: {.training .g-col-4}
 <img src="images/training/business-analytics.png"/>
 
-<h5>Introduction to Data Analysis in R</h5>
+<h5>Business Data Analysis in R</h5>
 :::
 
 ::: {.training .g-col-4}
@@ -22,7 +22,7 @@ title-block-banner: true
 ::: {.training .g-col-4}
 <img src="images/training/statistical&amp;machinelearning.png"/>
 
-<h5>Statistics & Machine Learning</h5>
+<h5>Statistics & Machine Learning in R</h5>
 :::
 
 ::: {.training .g-col-4}
@@ -52,7 +52,7 @@ title-block-banner: true
 ::: {.training .g-col-4}
 <img src="images/training/putting-r-in-production.png"/>
 
-<h5>Putting R in Production</h5>
+<h5>R in Production</h5>
 :::
 
 ::: {.training .g-col-4}
@@ -67,6 +67,6 @@ title-block-banner: true
 ::: {.training .g-col-4}
 <img src="images/training/packages.png"/>
 
-<h5>Writing R Packages</h5>
+<h5>R Package Development</h5>
 :::
 :::

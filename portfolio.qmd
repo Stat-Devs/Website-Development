@@ -3,7 +3,7 @@ format:
   html:
     page-layout: full
 title: "Portfolio"
-title-block-banner: true
+title-block-banner: false
 ---
 
 
@@ -113,34 +113,5 @@ title-block-banner: true
 
 ::: {.portfolioheading}
 <h2>Training & Teaching</h2>
-:::
-
-::: grid
-::: {.portfolio .g-col-6}
-
-
-<a href = "portfolio_presentation.qmd#training" target="_blank">
-
-<img src=""/ class = "card-img-top">
-
-<h5 class = "card-title">Data Analytics Training at IBA, Karachi</h5>
-
-</a>
-
-:::
-
-
-::: {.portfolio .g-col-6}
-
-
-<a href = "portfolio_presentation.qmd#training" target="_blank">
-
-<img src=""/ class = "card-img-top">
-
-<h5 class = "card-title">Online R Software Training</h5>
-
-</a>
-
-:::
 :::
 

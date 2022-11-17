@@ -136,13 +136,9 @@ Training
 :::
 :::
 
-
 ::: {#button1}
-<a href="portfolio.qmd">
-<button class="btn btn-outline-primary btn-lg">Learn More</button>
-</a>
+<a href="portfolio.qmd"> <button class="btn btn-outline-primary btn-lg">Learn More</button> </a>
 :::
-
 
 ::: {#industries}
 <h2>Industries</h2>

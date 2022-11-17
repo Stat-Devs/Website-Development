@@ -9,18 +9,17 @@ website:
     title: false
     pinned: true
     logo: "Navbar.png" 
-    background: "white"
+    background: "#1d4355"
     left:
       - href: index.qmd
         text: "Home"
-      - text: "Services"
-        menu: 
-          - consulting.qmd
-          - training.qmd
+      - consulting.qmd
+      - training.qmd
       - portfolio.qmd
       - blog.qmd
       - about.qmd
-    right:
+    right: 
+      
       - href: https://twitter.com/DevsStat
         icon: twitter
       - href:  https://www.linkedin.com/company/stat-devs

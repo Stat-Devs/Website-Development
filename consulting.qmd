@@ -3,7 +3,7 @@ format:
   html:
     page-layout: full
 title: "Consulting"
-title-block-banner: true
+title-block-banner: false
 ---
 
 ::: {#consult .grid}
