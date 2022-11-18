@@ -7,51 +7,62 @@ title-block-banner: false
 ---
 
 ::: {#consult .grid}
+
 ::: {.consulting .g-col-4}
-<img src="images/services/business-analysis-strategy.png"/>
 
-<h5>Business Analysis & Strategy</h5>
+<img src="images/services/business-analysis-strategy.png" class = "card-img-top"/>
 
-<p>From designing your quality data generation methods to informed business decisions and actions, we help you optimize your business across functions. These range from manufacturing and human resource management all the way to customer relationship management.</p>
+<h5 class = "card-title">Business Analysis & Strategy</h5>
+
+<p class = "card-text">From designing your quality data generation methods to informed business decisions and actions, we help you optimize your business across functions. These range from manufacturing and human resource management all the way to customer relationship management.</p>
+
 :::
 
 ::: {.consulting .g-col-4}
-<img src="images/services/Macro-Analysis-Research.png"/>
 
-<h5>Macro Analysis & Research</h5>
+<img src="images/services/Macro-Analysis-Research.png" class="card-img-top"/>
 
-<p>We specialize in areas of Socio Economic Development, Public Health and Macro Economic analysis. Our unique statistical insights and trends provide detail picture of how these changes impact countries, consumers and business environment.</p>
+<h5 class="card-title">Macro Analysis & Research</h5>
+
+<p class="card-text">We specialize in areas of Socio Economic Development, Public Health and Macro Economic analysis. Our unique statistical insights and trends provide detail picture of how these changes impact countries, consumers and business environment.</p>
+
 :::
 
 ::: {.consulting .g-col-4}
-<img src="images/services/market-analysis.png"/>
 
-<h5>Market Analysis</h5>
+<img src="images/services/market-analysis.png" class="card-img-top"/>
 
-<p>We provide deep sector specific intelligence for businesses and consultants to help clients leverage on emerging business opportunities, explore new markets and analyze competitor landscape by key consumer goods and service industry insights.</p>
+<h5 class="card-title">Market Analysis</h5>
+
+<p class="card-text">We provide deep sector specific intelligence for businesses and consultants to help clients leverage on emerging business opportunities, explore new markets and analyze competitor landscape by key consumer goods and service industry insights.</p>
+
 :::
 
 ::: {.consulting .g-col-4}
-<img src="images/services/datascience.png"/>
 
-<h5>Data Science & Statistics</h5>
+<img src="images/services/datascience.png" class="card-img-top"/>
 
-<p>Our data science team applies latest software technologies in Machine Learning and Statistics to gather quality datasets from web and markets to help you forecast your product sales, position and rank your products across brands. We help you collect, organize, analyze and report your business data and KPI's.</p>
+<h5 class="card-title">Data Science & Statistics</h5>
+
+<p class="card-text">Our data science team applies latest software technologies in Machine Learning and Statistics to gather quality datasets from web and markets to help you forecast your product sales, position and rank your products across brands. We help you collect, organize, analyze and report your business data and KPI's.</p>
+
 :::
 
 ::: {.consulting .g-col-4}
-<img src="images/services/visualization&amp;shiny.png"/>
 
-<h5>Visualization & Shiny</h5>
+<img src="images/services/visualization&amp;shiny.png" class="card-img-top"/>
 
-<p>We create visually interactive dashboards and data applications to help you explore your business data and highlight new insights across your business processes at management levels using analytics and web maps. We make sure that the applications are scaleable and run smoothly irrespective of the size of data and users.</p>
+<h5 class="card-title">Visualization & Shiny</h5>
+
+<p class="card-text">We create visually interactive dashboards and data applications to help you explore your business data and highlight new insights across your business processes at management levels using analytics and web maps. We make sure that the applications are scaleable and run smoothly irrespective of the size of data and users.</p>
+
 :::
 
 ::: {.consulting .g-col-4}
-<img src="images/services/workflow.png"/>
+<img src="images/services/workflow.png" class="card-img-top"/>
 
-<h5>R Development & Workflows</h5>
+<h5 class="card-title">R Development & Workflows</h5>
 
-<p>We implement R programming scripts and packages to automate our data analysis and visualization using R software and products. If your organization is struggling with existing infrastructure, we can help you implement most optimal and cost effective decisions when building your organization's data infrastructure and workflows.</p>
+<p class="card-text">We implement R programming scripts and packages to automate our data analysis and visualization using R software and products. If your organization is struggling with existing infrastructure, we can help you implement most optimal and cost effective decisions when building your organization's data infrastructure and workflows.</p>
 :::
 :::

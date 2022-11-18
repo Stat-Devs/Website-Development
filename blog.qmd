@@ -4,8 +4,10 @@ listing:
   contents: articles
   type: default
   sort: "date desc"
-  date-format: long
-  fields: [title, subtitle, author, description, date, image, reading-time]
+  date-format: medium
+  fields: [title, subtitle, author, description, date, image]
   sort-ui: true
-  filter-ui: true
+  filter-ui: false
+  categories: cloud
+page-layout: full
 ---

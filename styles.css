@@ -135,7 +135,7 @@ h2 {
 .portfolio {
   
 
-  height: 300px;
+  height: 600px;
   width: 500px;
   text-align: center;
   margin-bottom: 70px;
@@ -151,9 +151,8 @@ h2 {
 
 .consulting{
   text-align: center;
-  height: 400px;
   font-size: 0.8em;
-  padding-top: 1px;
+  height: 400px;
 }
 
 
