@@ -87,7 +87,7 @@
 }
 
 .home {
- background-image: url("Pakistan-Monument.png"); 
+ background-image: url("images/muqarnas.jpg"); 
  height: 500px;
  background-size: cover;
  
@@ -136,9 +136,8 @@ h2 {
   
 
   height: 600px;
-  width: 500px;
-  text-align: center;
-  margin-bottom: 70px;
+  text-align: left;
+  font-size: 0.8em;
   
   
  
@@ -150,7 +149,7 @@ h2 {
 }
 
 .consulting{
-  text-align: center;
+  text-align: left;
   font-size: 0.8em;
   height: 400px;
 }
@@ -158,7 +157,8 @@ h2 {
 
 
 .training{
-  text-align: center;
+  text-align: ;
+  vertical-align: text-top;
   height: 300px;
   font-size: 0.8em;
   padding-top: 1px;
