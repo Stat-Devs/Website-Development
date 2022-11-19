@@ -6,6 +6,11 @@ title: "Professional Training"
 title-block-banner: false
 ---
 
+<p>The vision for providing workshop training is to equip the organizations with software tools,
+enrich their <b style="color:#2a5f7a;"><i>Business Intelligence, Data Science and Research</i></b> teams with modern day software
+practices and tools. We currently offer onsite and remote training to employees and university
+students across all backgrounds in following courses.</p>   
+
 ::: {#consult .grid}
 ::: {.training .g-col-4}
 <img src="images/training/business-analytics.png"/>

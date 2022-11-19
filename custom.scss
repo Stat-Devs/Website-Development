@@ -13,7 +13,7 @@ $navbar-fg: #2a5f7a;
 
 $navbar-padding-y: 0rem !important;
 
-$navbar-padding-x: 12rem !important;
+$navbar-padding-x: 5rem !important;
 
 
 
@@ -66,6 +66,20 @@ $link-color: #C00000;
     border-color: #2a5f7a;
 }
   
+.btn-link {
+    color: #2a5f7a;
+    background-image: none;
+    text-decoration: none;
+    
+}
+
+.btn-link:hover {
+    color: #C00000;
+    text-decoration: none;
+    
+}
+  
+  
 .navbar-logo {
   max-width: 100%;
   max-height: 100%;
@@ -82,4 +96,9 @@ h3 {
   font-size: 1.2em;
   text-align: left;
   
+}
+
+.card-footer {
+  background: none;
+  border: none;
 }

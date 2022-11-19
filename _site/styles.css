@@ -135,7 +135,7 @@ h2 {
 .portfolio {
   
 
-  height: 600px;
+  height: 650px;
   text-align: left;
   font-size: 0.8em;
   
@@ -187,5 +187,20 @@ a:visited {
 
 }
 
+#button2 {
+ text-align: center;
+ margin-bottom: 50px;
+
+}
+
+.process {
+  width: 500px;
+  height: 500px;
+  margin-left: 280px;;
+}
 
 
+.card {
+  margin: 0px;
+  padding: 0px;
+}

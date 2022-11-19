@@ -10,7 +10,7 @@ website:
     pinned: true
     logo: "Navbar.png" 
     background: "white"
-    left:
+    right:
       - href: index.qmd
         text: "Home"
       - consulting.qmd
@@ -18,8 +18,6 @@ website:
       - portfolio.qmd
       - blog.qmd
       - about.qmd
-    right: 
-      
       - href: https://twitter.com/DevsStat
         icon: twitter
       - href:  https://www.linkedin.com/company/stat-devs
