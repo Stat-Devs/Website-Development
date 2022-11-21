@@ -2,11 +2,11 @@
 title: "Using Data to Solve Pakistan's Air Quality Problem"
 author: "Sarfaraz Jamal"
 image: "Rplot.png"
+description: "Winter season is upon us, and with it comes the smog. Pakistan and South Asia as a whole, continuously ranked lowest in air quality indices. Air pollution causes millions of deaths every year according to WHO."
 categories: ["Air Quality"]
 date: 11/19/2022
 editor: visual
 ---
-
 
 <p>
 
@@ -24,13 +24,6 @@ While this is common knowledge that stubble burning is a major contributor to sm
 
 <img src="Rplot.png"/>
 
-<p>
+<p><b>Reference</b></p>
 
-<b>Reference</b> 
-
-</p>
-<p>
-
-Lamsal, L. N., Krotkov, N. A., Vasilkov, A., Marchenko, S., Qin, W., Yang, E.-S., Fasnacht, Z., Joiner, J., Choi, S., Haffner, D., Swartz, W. H., Fisher, B., and Bucsela, E.: OMI/Aura Nitrogen Dioxide Standard Product with Improved Surface and Cloud Treatments, Atmos. Meas. Tech. Discuss., https://lnkd.in/e8H8kQw6, in review, 2020
-
-</p>
+<p>Lamsal, L. N., Krotkov, N. A., Vasilkov, A., Marchenko, S., Qin, W., Yang, E.-S., Fasnacht, Z., Joiner, J., Choi, S., Haffner, D., Swartz, W. H., Fisher, B., and Bucsela, E.: OMI/Aura Nitrogen Dioxide Standard Product with Improved Surface and Cloud Treatments, Atmos. Meas. Tech. Discuss., https://lnkd.in/e8H8kQw6, in review, 2020</p>

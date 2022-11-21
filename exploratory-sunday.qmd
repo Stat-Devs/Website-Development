@@ -3,6 +3,7 @@ title: "Exploratory Sunday"
 listing: 
   contents: "Exploratory-Sunday"
   type: grid
+  categories: cloud
 page-layout: full
 ---
 

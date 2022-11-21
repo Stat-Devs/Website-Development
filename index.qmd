@@ -170,6 +170,14 @@ Training
 :::
 :::
 
+::: {#tools}
+<h2>Tools We Love</h2>
+:::
+
+::: {.tools-image}
+
+:::
+
 ::: {#footer .grid}
 ::: {.contact .g-col-4}
 <p>86-C, 4th Floor, 11th Comm. Street,</p>

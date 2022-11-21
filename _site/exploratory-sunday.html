@@ -60,9 +60,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -146,9 +146,10 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-cloud"><div class="category" data-category="Demographics"><span class="quarto-category-count category-cloud-4">Demographics</span></div><div class="category" data-category="Health Expenditure"><span class="quarto-category-count category-cloud-4">Health Expenditure</span></div><div class="category" data-category="Public Health"><span class="quarto-category-count category-cloud-7">Public Health</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -174,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Health" data-listing-date-sort="1668884400000" data-listing-file-modified-sort="1669000404620" data-listing-reading-time-sort="2.035">
+<div class="g-col-1" data-index="0" data-categories="Health Expenditure,Public Health" data-listing-date-sort="1668884400000" data-listing-file-modified-sort="1669015486173" data-listing-reading-time-sort="2.035">
 <a href="./Exploratory-Sunday/20-11-22/Global Health Expenditure.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -184,8 +185,16 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="no-anchor card-title listing-title">
 Global Health Expenditure Insights (2019)
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Health Expenditure'); return false;">
+Health Expenditure
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Public Health'); return false;">
+Public Health
+</div>
+</div>
 <div class="card-text listing-description">
-<img src="Did-You-Know.jpg" class="img-fluid figure-img" style="width:40.0%">
+Global Health Spending has more than doubled over the past two decades, reaching US$ 8.5 trillion in 2019, or 9.8% of global GDP.
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -199,7 +208,7 @@ Nov 20, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Health" data-listing-date-sort="1668279600000" data-listing-file-modified-sort="1669000135470" data-listing-reading-time-sort="2.075">
+<div class="g-col-1" data-index="1" data-categories="Public Health" data-listing-date-sort="1668279600000" data-listing-file-modified-sort="1669015427866" data-listing-reading-time-sort="2.075">
 <a href="./Exploratory-Sunday/13-11-22/Pre-Post-Consultation.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -209,8 +218,13 @@ Nov 20, 2022
 <h5 class="no-anchor card-title listing-title">
 Pakistan Prenatal Consultation Trends &amp; Statistics
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Public Health'); return false;">
+Public Health
+</div>
+</div>
 <div class="card-text listing-description">
-<img src="Did-You-Know.jpg" class="img-fluid figure-img" style="width:40.0%">
+3 out of 4 women in Pakistan goes for a prenatal consultation at least once in Pakistan.
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -224,7 +238,7 @@ Nov 13, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Demographics" data-listing-date-sort="1665860400000" data-listing-file-modified-sort="1669000835787" data-listing-reading-time-sort="0.4">
+<div class="g-col-1" data-index="2" data-categories="Demographics" data-listing-date-sort="1665860400000" data-listing-file-modified-sort="1669015556985" data-listing-reading-time-sort="0.4">
 <a href="./Exploratory-Sunday/16-10-22/Pak-Demographics.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -234,8 +248,13 @@ Nov 13, 2022
 <h5 class="no-anchor card-title listing-title">
 Population Pyramid of Pakistan
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Demographics'); return false;">
+Demographics
+</div>
+</div>
 <div class="card-text listing-description">
-<img src="Did-You-Know.jpg" class="img-fluid figure-img" style="width:40.0%">
+Male percentage of total population is 51.19 % while female are 48.81 % of Pakistan’s total population.
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
