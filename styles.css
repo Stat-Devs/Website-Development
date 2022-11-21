@@ -97,6 +97,7 @@
  height: 300px;
  background-size: cover;
  margin-bottom: 25px;
+ width: 100%;
 }
 
 .home {
@@ -216,4 +217,9 @@ a:visited {
 .card {
   margin: 0px;
   padding: 0px;
+}
+
+
+.profile:hover { 
+ color: #b7b3a4;
 }

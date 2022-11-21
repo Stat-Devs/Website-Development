@@ -174,8 +174,7 @@ Training
 <h2>Tools We Love</h2>
 :::
 
-::: {.tools-image}
-
+::: tools-image
 :::
 
 ::: {#footer .grid}
