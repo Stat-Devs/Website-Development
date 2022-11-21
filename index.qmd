@@ -29,18 +29,23 @@ Impact
 ::: {#aboutus}
 <h3>
 
-<i>We are an analytics company aiming to enhance data driven culture and skills for businesses and academia focusing on fast evolving fields in Data Science, Research and Data Visualization.
+We provide analytical skillsets to your business functions in <b style="color:#2a5f7a;"><i>development, training and analysis</i></b> to provide you our unique service: <b style="color:#2a5f7a;"><i>identifying the missed opportunities and hidden costs in your business functions.</i></b> We believe that by taking small and timely actions, businesses can make a substantive difference in quality, delivery and costs reduction. <b style="color:#2a5f7a;"><i>Our interactive data applications and dashboards</i></b> provides you a bird's eye view of your business so that you can <b style="color:#2a5f7a;"><i>measure, monitor and optimize</i></b> your businesses processes.
 
-We empower your organization through data driven metrics to measure, monitor and optimize processes.</i>
+<b style="color:#2a5f7a;"><i>Do you have challenges that are impassable? Data that is stored yet not analyzed? Are you looking to build a data infrastructure across your business functions? Is your organization lacking quality data generation?</b></i>
+
+We would love to hear from you your business requirements and empower your organization with data technology.
 
 </h3>
 :::
 
 ::: {#our-expertise}
 <h2>Services</h2>
+:::
 
-::: grid
-::: {#expertise .g-col-6}
+::: {#first .grid}
+<a href = "consulting.qmd">
+
+::: {.expertise .g-col-6}
 <img src="images/1st-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -50,7 +55,11 @@ Business Intelligence
 </h5>
 :::
 
-::: g-col-6
+</a>
+
+<a href = "consulting.qmd">
+
+::: {.expertise .g-col-6}
 <img src="images/2nd-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -60,7 +69,13 @@ Interactive Visualizations & Applications
 </h5>
 :::
 
-::: g-col-6
+</a>
+:::
+
+::: {#second .grid}
+<a href = "consulting.qmd">
+
+::: {.expertise .g-col-6}
 <img src="images/3rd-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -70,7 +85,11 @@ Research Reports
 </h5>
 :::
 
-::: g-col-6
+</a>
+
+<a href = "training.qmd">
+
+::: {.expertise .g-col-6}
 <img src="images/4th-icon.png" class="card-img-top"/>
 
 <h5 class="card-title">
@@ -79,7 +98,12 @@ Training
 
 </h5>
 :::
+
+</a>
 :::
+
+::: {#button2}
+<a href="consulting.qmd"> <button class="btn btn-outline-primary btn-lg">Learn More</button> </a>
 :::
 
 ::: {#past-work}
@@ -87,23 +111,39 @@ Training
 
 ::: grid
 ::: g-col-4
+<a href = "portfolio_presentation.qmd#health" target="_blank">
+
 <img src="images/health.png"/>
 
 <h6>Analysis of Pakistan Health Sector</h6>
+
+</a>
 :::
 
 ::: g-col-4
+<a href = "portfolio_presentation.qmd#stock" target="_blank">
+
 <img src="images/stock.png"/>
 
 <h6>Stock Volatility Forecasting</h6>
+
+</a>
 :::
 
 ::: g-col-4
+<a href = "portfolio_presentation.qmd#dashboard" target="_blank">
+
 <img src="images/dashboard.png"/>
 
 <h6>BI Dashboard</h6>
+
+</a>
 :::
 :::
+:::
+
+::: {#button1}
+<a href="portfolio.qmd"> <button class="btn btn-outline-primary btn-lg">Learn More</button> </a>
 :::
 
 ::: {#industries}
@@ -130,8 +170,15 @@ Training
 :::
 :::
 
+::: {#tools}
+<h2>Tools We Love</h2>
+:::
+
+::: tools-image
+:::
+
 ::: {#footer .grid}
-::: {#contact .g-col-4}
+::: {.contact .g-col-4}
 <p>86-C, 4th Floor, 11th Comm. Street,</p>
 
 <p>Kh-e-Ittehad, Phase-2 Extn, DHA,</p>
@@ -139,13 +186,13 @@ Training
 <p>Karachi 75500</p>
 :::
 
-::: g-col-4
+::: {.contact .g-col-4}
 <p>+92-336-8446579</p>
 
 <p>+92-331-2803120</p>
 :::
 
-::: g-col-4
+::: {.contact .g-col-4}
 <p>sarfaraz.jamal\@statdevs.com</p>
 
 <p>m.uzair\@statdevs.com</p>

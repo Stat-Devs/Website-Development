@@ -1,17 +1,30 @@
 /*-- scss:defaults --*/
 
+$newcolor: #2a5f7a;
 
-$headings-color: #2a5f7a;  
+$headings-color: 	#2a5f7a;  
 
-$navbar-hl: #2a5f7a;
+$navbar-hl: #b7b3a4;
 
 $navbar-fg: #2a5f7a;
+
+
+
+
+$navbar-padding-y: 0rem !important;
+
+$navbar-padding-x: 5rem !important;
+
+
+
+
 
 $presentation-heading-color: #2a5f7a;
 
 $presentation-heading-font: Book Antiqua;
 
 $link-color: #C00000;
+
 
 
 
@@ -40,4 +53,52 @@ $link-color: #C00000;
   }
   
 
+.btn-outline-primary {
+    color: #2a5f7a;
+    background-color: transparent;
+    background-image: none;
+    border-color: #2a5f7a;
+}
+
+.btn-outline-primary:hover {
+    color: white;
+    background-color: #2a5f7a;
+    border-color: #2a5f7a;
+}
   
+.btn-link {
+    color: #2a5f7a;
+    background-image: none;
+    text-decoration: none;
+    
+}
+
+.btn-link:hover {
+    color: #C00000;
+    text-decoration: none;
+    
+}
+  
+  
+.navbar-logo {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;  
+  
+}
+
+.nav-link {
+  font-weight: 500;
+}
+
+h3 {
+  color: black;
+  font-size: 1.2em;
+  text-align: left;
+  
+}
+
+.card-footer {
+  background: none;
+  border: none;
+}

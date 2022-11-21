@@ -1,4 +1,13 @@
 ---
 title: "Blog"
+listing: 
+  contents: articles
+  type: default
+  sort: "date desc"
+  date-format: medium
+  fields: [title, subtitle, author, description, date, image]
+  sort-ui: true
+  filter-ui: false
+  categories: cloud
+page-layout: full
 ---
-
