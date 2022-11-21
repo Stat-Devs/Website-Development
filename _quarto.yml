@@ -17,6 +17,7 @@ website:
       - training.qmd
       - portfolio.qmd
       - blog.qmd
+      - exploratory-sunday.qmd
       - about.qmd
       - href: https://twitter.com/DevsStat
         icon: twitter
