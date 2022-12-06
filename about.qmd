@@ -6,7 +6,7 @@ title: "About Us"
 title-block-banner: false
 ---
 
-<h3>To view our complete profile <a class="profile" href = "StatDevs-Profile.pdf" target=_blank>click here</a> </h3>
+<h3>To view our complete profile <a class="profile" href = "StatDevs-Profile.pdf" target=_blank>click here</a></h3>
 
 <h2>Our Brief Overview</h2>
 
@@ -36,7 +36,7 @@ We believe that by taking small and timely actions, businesses can make a substa
 
 <h4>Sarfaraz Jamal - Co founder</h4>
 
-<i>BS Economics & Matheatics - IBA (2022)</i>
+<i>BS Economics & Mathematics - IBA (2022)</i>
 
 <p>Sarfaraz has a work experience of 4 years in pharmaceutical exports business. He has worked for J.A Enterprise in handling logistics, inventory management and documentation. He has a keen interest in emerging technologies and is well versed in Business Intelligence tools that complement his academic background. A considerable experience in these tools along with his quantitative research skills makes him a resourceful member of any consulting team.</p>
 

@@ -20,12 +20,14 @@ website:
       - blog.qmd
       - exploratory-sunday.qmd
       - about.qmd
-      - href: https://twitter.com/DevsStat
+      - href: https://twitter.com/DevsStat 
         icon: twitter
-      - href:  https://www.linkedin.com/company/stat-devs
+      - href: https://www.linkedin.com/company/stat-devs
         icon: linkedin
       - href: https://github.com/Stat-Devs
         icon: github
+      - href: https://www.facebook.com/profile.php?id=100088076201356
+        icon: facebook
   search: false
       
       
