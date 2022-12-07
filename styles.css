@@ -6,19 +6,9 @@
   display: grid;
   place-items: center;
   text-align: center;
-
-}
-
-#first {
-  margin-bottom: 10px;
-  padding-left: 120px;
   
 }
 
-#second {
-  margin-top: 10px;
-  padding-left: 120px;
-}
 
 .expertise{
 
@@ -76,8 +66,9 @@
   padding-left: 100px;
   background:white;
   
-  
 }
+
+
 
 #footer {
   height: 300px;
@@ -93,11 +84,13 @@
 }
 
 .tools-image {
- background-image: url("tools.png"); 
- height: 300px;
- background-size: cover;
- margin-bottom: 25px;
- width: 100%;
+
+  display: block;
+  text-align: center;
+  margin: 50px;
+
+
+
 }
 
 .home {
@@ -107,7 +100,7 @@
  
 }
 
-.g-col-4{
+.g-col-3{
   display: grid;
 }
 
