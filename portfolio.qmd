@@ -13,43 +13,75 @@ title-block-banner: false
 :::
 
 ::: grid
-
 ::: {.portfolio .g-col-4}
-::: {.card}
+::: card
 <img src="images/portfolio/1.png" class="card-img-top"/>
-<div class="card-body">
-<h5 class="card-title">Analysing Pakistan Health Sector</h5>
-<p class="card-text">How has Pakistan performed in Public Health Parameters, Social Living Measurement & Burden of Disease Indicators? What are the bench marks set by SDG and how far is Pakistan in these indicators? We conducted a collaborative research project with the help of Indus Hospital & Health Networks and Sifat Associates to provide a broad understanding of health deficiencies experienced by Pakistan population and identify Most Disadvantaged Districts (MDDs) in Punjab, Sindh and Balochistan.</p>
-</div>
-<div class="card-footer">
+
+::: card-body
+<h5 class="card-title">
+
+Analysing Pakistan Health Sector
+
+</h5>
+
+<p class="card-text">
+
+How has Pakistan performed in Public Health Parameters, Social Living Measurement & Burden of Disease Indicators? What are the benchmarks set by SDG and how is Pakistan performing? We conducted a collaborative study with the help of Indus Hospital & Health Networks and Sifat Associates to provide a broad understanding of health deficiencies experienced by Most Disadvantaged Districts (MDDs) in Pakistan.
+
+</p>
+:::
+
+::: card-footer
 <a href="portfolio_presentation.qmd#health"> <button class="btn btn-outline-primary btn-sm">Learn More</button></a>
-</div>
+:::
 :::
 :::
 
 ::: {.portfolio .g-col-4}
-::: {.card}
+::: card
 <img src="images/portfolio/5.png" class="card-img-top"/>
-<div class="card-body">
-<h5 class="card-title">Infant Mortality Modelling</h5>
-<p class="card-text">The MDG target for Infant Mortality was 40 per 1000 live births while Pakistan stood at 62 per 1000 live births. We analyzed the causes of Infant Mortality in Pakistan and why Pakistan is lagging behind ? Are there demographic variations or mother's social and health factors? We developed and deployed a Machine learning model for infant's survival chances based on PDHS 2017-2018 data.</p>
-</div>
-<div class="card-footer">
+
+::: card-body
+<h5 class="card-title">
+
+Infant Mortality Modelling
+
+</h5>
+
+<p class="card-text">
+
+The MDG target for Infant Mortality was 40 per 1000 live births while Pakistan stood at 62 per 1000 live births. We analyzed the causes of Infant Mortality in Pakistan and why Pakistan is lagging behind ? Are there demographic variations or mother's social and health factors? We developed and deployed a Machine learning model for infant's survival chances based on PDHS 2017-2018 data.
+
+</p>
+:::
+
+::: card-footer
 <a href="portfolio_presentation.qmd#infant"> <button class="btn btn-outline-primary btn-sm">Learn More</button></a>
-</div>
+:::
 :::
 :::
 
 ::: {.portfolio .g-col-4}
-::: {.card}
+::: card
 <img src="images/portfolio/4.png" class="card-img-top"/>
-<div class="card-body">
-<h5 class="card-title">Clustering Countries</h5>
-<p class="card-text">We analyzed data of countries based on their socio-economic and health indicators. Through this the overall development levels of the country were determined. Subsequently, they were categorized according by using clustering techniques and the least developed countries were then identified.</p>
-</div>
-<div class="card-footer">
+
+::: card-body
+<h5 class="card-title">
+
+Clustering Countries
+
+</h5>
+
+<p class="card-text">
+
+We analyzed data of countries based on their socio-economic and health indicators. Through this the overall development levels of the country were determined. Subsequently, they were categorized according by using clustering techniques and the least developed countries were then identified.
+
+</p>
+:::
+
+::: card-footer
 <a href="portfolio_presentation.qmd#clustering"> <button class="btn btn-outline-primary btn-sm">Learn More</button></a>
-</div>
+:::
 :::
 :::
 :::
@@ -59,30 +91,51 @@ title-block-banner: false
 :::
 
 ::: grid
-
 ::: {.portfolio .g-col-4}
-::: {.card}
+::: card
 <img src="images/portfolio/2.png" class="card-img-top"/>
-<div class="card-body">
-<h5 class="card-title">Power BI Dashboard for an E-commerce Platform</h5>
-<p class="card-text">An analytical report was created based on historical data of several functions of an e-commerce store including employees, shipment, products and an overall performance dashboard. These highlighted key metrics useful for monitoring the performance of the company and several visuals that provided insights at a granular level.</p>
-</div>
-<div class="card-footer">
+
+::: card-body
+<h5 class="card-title">
+
+Power BI Dashboard for an E-commerce Platform
+
+</h5>
+
+<p class="card-text">
+
+An analytical report was created based on historical data of several functions of an e-commerce store including employees, shipment, products and an overall performance dashboard. These highlighted key metrics useful for monitoring the performance of the company and several visuals that provided insights at a granular level.
+
+</p>
+:::
+
+::: card-footer
 <a href="portfolio_presentation.qmd#dashboard"> <button class="btn btn-outline-primary btn-sm">Learn More</button></a>
-</div>
+:::
 :::
 :::
 
 ::: {.portfolio .g-col-4}
-::: {.card}
+::: card
 <img src="images/portfolio/7.png" class="card-img-top"/>
-<div class="card-body">
-<h5 class="card-title">National Electronic Injury Surveillance Data Exploration</h5>
-<p class="card-text">Injuries, like diseases, do not occur at random. Some population groups are at increased risk of injury because of greater exposure to hazards, decreased ability to avoid hazards, or decreased resistance to injury, and some groups have a lower likelihood of complete recovery or survival once injured. We develop an interactive shiny application for exploring injury patterns and explores the rate of injuries per 10,000 people based on gender. It explores the incidence of injury based on location, body part and hospital's diagnostics.</p>
-</div>
-<div class="card-footer">
+
+::: card-body
+<h5 class="card-title">
+
+National Electronic Injury Surveillance Data Exploration
+
+</h5>
+
+<p class="card-text">
+
+Some population groups are at increased risk of injury because of greater exposure to hazards, decreased ability to avoid hazards, or decreased resistance to injury, and some groups have a lower likelihood of complete recovery or survival once injured. This interactive shiny application helps explore injury patterns.
+
+</p>
+:::
+
+::: card-footer
 <a href="portfolio_presentation.qmd#neiss"> <button class="btn btn-outline-primary btn-sm">Learn More</button></a>
-</div>
+:::
 :::
 :::
 :::
@@ -92,31 +145,51 @@ title-block-banner: false
 :::
 
 ::: grid
-
 ::: {.portfolio .g-col-4}
-::: {.card}
+::: card
 <img src="images/portfolio/6.png" class="card-img-top"/>
-<div class="card-body">
-<h5 class="card-title">Product Recommendation</h5>
-<p class="card-text">We studied data of past purchases of customers of an online retail store. We then implemented a product recommendation system based on association rule mining technique.</p> 
-</div>
-<div class="card-footer">
+
+::: card-body
+<h5 class="card-title">
+
+Product Recommendation
+
+</h5>
+
+<p class="card-text">
+
+Analyzing past customer behavior helps sellers push relevant recomendations to consumers. We studied data of past purchases of customers of an online retail store. We then implemented a product recommendation system based on association rule mining technique.
+
+</p>
+:::
+
+::: card-footer
 <a href="portfolio_presentation.qmd#recommendation"> <button class="btn btn-outline-primary btn-sm">Learn More</button></a>
-</div>
+:::
 :::
 :::
 
 ::: {.portfolio .g-col-4}
-:::{.card}
+::: card
 <img src="images/portfolio/3.png" class="card-img-top"/>
-<div class="card-body">
-<h5 class="card-title">Stock Volatility Forecasting</h5>
-<p class="card-text">The behavior of stock volatility reflects the political and economic factors, investor confidence and business environment in an economy. With successful volatility model, we can gain insights about future market behavior over time and can spot trends which make investors more informed about the future and align their portfolios with the associated expected returns. In this study we compared Econometric & Deep learning techniques of stock volatility forecasting.</p>
-</div>
-<div class="card-footer">
-<a href="portfolio_presentation.qmd#stock"> <button class="btn btn-outline-primary btn-sm">Learn More</button></a>
-</div>
 
+::: card-body
+<h5 class="card-title">
+
+Stock Volatility Forecasting
+
+</h5>
+
+<p class="card-text">
+
+With successful volatility model, we can gain insights about future market behavior over time and can spot trends which make investors align their portfolios with the associated expected returns. In this study we compared Econometric & Deep learning techniques of stock volatility forecasting.
+
+</p>
+:::
+
+::: card-footer
+<a href="portfolio_presentation.qmd#stock"> <button class="btn btn-outline-primary btn-sm">Learn More</button></a>
+:::
 :::
 :::
 :::

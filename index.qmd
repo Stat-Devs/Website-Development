@@ -4,25 +4,6 @@ format:
     page-layout: custom
 ---
 
-```{=html}
-<!--
-::: {#captions}
-Data
-:::
-
-::: {#captions}
-
-Insights
-
-:::
-
-::: {#captions}
-
-Impact
-
-:::
--->
-```
 ::: home
 :::
 
@@ -42,65 +23,42 @@ We would love to hear from you your business requirements and empower your organ
 <h2>Services</h2>
 :::
 
-::: {#first .grid}
-<a href = "consulting.qmd">
+::: grid
 
 ::: {.expertise .g-col-6}
+<a href = "consulting.qmd">
 <img src="images/1st-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">
-
-Business Intelligence
-
-</h5>
+<h5 class="card-title">Insight Consulting</h5>
+</a>
 :::
 
-</a>
-
-<a href = "consulting.qmd">
-
 ::: {.expertise .g-col-6}
+<a href = "consulting.qmd">
 <img src="images/2nd-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">
-
-Interactive Visualizations & Applications
-
-</h5>
-:::
-
+<h5 class="card-title">Interactive Visualizations & Applications</h5>
 </a>
 :::
 
-::: {#second .grid}
-<a href = "consulting.qmd">
-
 ::: {.expertise .g-col-6}
+<a href = "consulting.qmd">
 <img src="images/3rd-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">
-
-Research Reports
-
-</h5>
-:::
-
+<h5 class="card-title">Research Reports</h5>
 </a>
-
-<a href = "training.qmd">
+:::
 
 ::: {.expertise .g-col-6}
+<a href = "training.qmd">
 <img src="images/4th-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">
-
-Training
-
-</h5>
-:::
-
+<h5 class="card-title">Training</h5>
 </a>
 :::
+
+:::
+
 
 ::: {#button2}
 <a href="consulting.qmd"> <button class="btn btn-outline-primary btn-lg">Learn More</button> </a>
@@ -149,24 +107,32 @@ Training
 ::: {#industries}
 <h2>Industries</h2>
 
-::: grid
-::: g-col-4
+::: {.grid}
+
+::: g-col-3
 <img src="images/public-health.png"/>
 
 <h5>Public Health</h5>
 :::
 
-::: g-col-4
+::: g-col-3
 <img src="images/fmcg.png"/>
 
 <h5>FMCGs</h5>
 :::
 
-::: g-col-4
+::: g-col-3
 <img src="images/education.png"/>
 
 <h5>Education</h5>
 :::
+
+::: g-col-3
+<img src="images/textile.png"/>
+
+<h5>Textile</h5>
+:::
+
 :::
 :::
 
@@ -175,6 +141,9 @@ Training
 :::
 
 ::: tools-image
+
+<img src = "images/tools.png"/>
+
 :::
 
 ::: {#footer .grid}
