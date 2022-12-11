@@ -9,23 +9,20 @@ format:
 
 ::: {#aboutus}
 <h3>
-In an evolving business world, your products' market constitutes thousands and millions of consumers. These consumers are a diverse set of humans. The decisions they make based on their personal likes/dislike are key drivers of the sales of your products. 
 
-<b style="color:#2a5f7a;"><i>
-Do you "really" know their likes and dislikes well enough?  
+In an evolving business world, your products' market constitutes thousands and millions of consumers. These consumers are a diverse set of humans. The decisions they make based on their personal likes/dislike are key drivers of the sales of your products.
 
-Do you review their preferences to align your next week's production?  
+<b style="color:#2a5f7a;"><i> Do you "really" know their likes and dislikes well enough?
 
-Are your production decisions truly aligned with your micro marketing data? 
+Do you review their preferences to align your next week's production?
 
-Are your distribution operations inline with customer of take of your product?
-</i></b>
+Are your production decisions truly aligned with your micro marketing data?
+
+Are your distribution operations inline with customer of take of your product? </i></b>
 
 Stat Devs aims to drive your business towards intelligent growth using data mining technologies. We provide quality solutions to your unique business problems to grow your business by maximizing revenues and increasing market share.
 
 We would love to hear your business challenges and empower your organization towards data driven growth
-
-
 
 </h3>
 :::
