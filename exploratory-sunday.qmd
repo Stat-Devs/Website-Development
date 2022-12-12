@@ -9,7 +9,7 @@ page-layout: full
 
 <p>Exploratory Sunday is a social awareness campaign initiated by StatDevs. We post weekly statistics and visualizations every Sunday concentrating on Pakistan's demographic, healthcare and socio-economic indicators. The salient feature of these posts is to showcase how Pakistan's conditions stack up against Sustainable Development Goals.</p>
 
-<p>You can contribute to this awareness initiative by making a data visualization and provide key insights of the indicator and posting it on twitter and linkedin using <a href='https://twitter.com/search?q=exploratorysunday&src=typed_query&f=top' class="twitter">#exploratorysunday</a> 
+<p>You can contribute to this awareness initiative by making a data visualization, providing key insights of the indicator and posting it on twitter and linkedin using <a href='https://twitter.com/search?q=exploratorysunday&src=typed_query&f=top' class="twitter">#exploratorysunday</a> 
 
 Following are some of the data sources you can use in you insights :
 <ol>
