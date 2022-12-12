@@ -25,7 +25,7 @@
     "href": "consulting.html",
     "title": "Consulting",
     "section": "",
-    "text": "From designing your quality data generation methods to informed business decisions and actions, we help you optimize your business across functions. These range from manufacturing and human resource management all the way to customer relationship management.\n\n\n\n\n\n\nWe specialize in areas of Socio Economic Development, Public Health and Macro Economic analysis. Our unique statistical insights and trends provide detail picture of how these changes impact countries, consumers and business environment.\n\n\n\n\n\n\nWe provide deep sector specific intelligence for businesses and consultants to help clients leverage on emerging business opportunities, explore new markets and analyze competitor landscape by key consumer goods and service industry insights.\n\n\n\n\n\n\nOur data science team applies latest software technologies in Machine Learning and Statistics to gather quality datasets from web and markets to help you forecast your product sales, position and rank your products across brands. We help you collect, organize, analyze and report your business data and KPI’s.\n\n\n\n\n\n\nWe create visually interactive dashboards and data applications to help you explore your business data and highlight new insights across your business processes at management levels using analytics and web maps. We make sure that the applications are scaleable and run smoothly irrespective of the size of data and users.\n\n\n\n\n\n\nWe implement R programming scripts and packages to automate our data analysis and visualization using R software and products. If your organization is struggling with existing infrastructure, we can help you implement most optimal and cost effective decisions when building your organization’s data infrastructure and workflows."
+    "text": "Get in touch"
   },
   {
     "objectID": "exploratory-sunday.html",
@@ -102,34 +102,41 @@
     "href": "training.html",
     "title": "Professional Training",
     "section": "",
-    "text": "Business Data Analysis in R\n\n\n\n\n\nTime Series Analysis & Forecasting\n\n\n\n\n\nStatistics & Machine Learning in R\n\n\n\n\n\nSpatial Data Analysis\n\n\n\n\n\nShiny Applications\n\n\n\n\n\nR for Data Science\n\n\n\n\n\nReporting & Presentation in Quarto\n\n\n\n\n\nR in Production\n\n\n\n\n\nReproducible Workflows\n\n\n\n\n\n\n\n\nR Package Development"
+    "text": "Business Data Analysis in R\n\n\nThe course is designed for Business Professionals to learn the fundamentals of Data Science in Business Analytics context. The course will teach fundamentals of Data Analysis, Visualization using R and Tidy-verse packages.\n\n\n\n\n\nTime Series Analysis & Forecasting\n\n\nThe course teaches the fundamentals of Time Series Analysis and explains why certain trends in business data occur seasonally. It utlizes Timetk and tidymodels packages in R to fit and forecast time series models.\n\n\n\n\n\nStatistics & Machine Learning in R\n\n\nThe course will utilize the tidy models packages to extract raw data and prepare data pipelines with Feature Engineering and Hyper parameter tuning. It also teaches the fundamentals of deep learning focus on business use cases in Machine learning.\n\n\n\n\n\nSpatial Data Analysis\n\n\nThe course teaches the classes and methods of spatial data and how to visualize spatial data using plot, map and scale concepts. The course uses sp package for spatial objects and sf package for Simple features in Spatial Data.\n\n\n\n\n\nShiny Applications\n\n\nThe course teaches Shiny which is the new shift in Data Analytics to provide interactive dashboards and advance analytics. We teach key concepts of software engineering with dashboard principles and reactivity to present your data findings in interactive manner.\n\n\n\n\n\nR for Data Science\n\n\nThe courses teaches fundamentals of Data Science and Machine Learning using R. It uses tidyverse package for data wrangling, analyzing and visualizing data and teaches concepts to build robust models and deploy them through R.\n\n\n\n\n\nReporting & Presentation in Quarto\n\n\nThe course explores the techniques to use Quarto for scientific and technical publishing high-quality articles, reports, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.\n\n\n\n\n\nR in Production\n\n\nThe course explores the use of R for production applications. It uses software engineering principles to organize your shiny app in a way that is time and code efficient using renv, plumber and Docker.\n\n\n\n\n\nReproducible Workflows\n\n\nReproducibility in Research is also known as replicability and repeatability, is a major principle underpinning the scientific method. The course teaches the fundamentals of reproducible workflows and help you doing quality research which can be verified, repeated, and reproduced.\n\n\n\n\n\n\n\n\nR Package Development\n\n\nThe course teaches the fundamentals of R Package which can be used to replicate the data analysis and code in R. We explore basics of Package development, testing, documentation and Maintenance of your R packages.\n\n\n\n\n Get in touch"
   },
   {
     "objectID": "Exploratory-Sunday/13-11-22/Pre-Post-Consultation.html",
     "href": "Exploratory-Sunday/13-11-22/Pre-Post-Consultation.html",
-    "title": "Stat Devs",
+    "title": "Pakistan Prenatal Consultation Trends & Statistics",
     "section": "",
-    "text": "Pakistan Prenatal Consultation Trends & Statistics \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3 out of 4 women in Pakistan goes for a prenatal consultation at least once in Pakistan.\nOnly 45% of these women have access to Private hospitals for their prenatal consultation while others either go to public hospitals, are visited by Lady Health Visitor (LHV) and Lady Health Worker(LHW), or get consultation by their family members.\nIn Rural Balochistan, 23.7% of child bearing women are not able to receive prenatal consultation by specialist health workers.\n\n\n Data Source : Pakistan Social Living Measurement 2019-2020"
+    "text": "3 out of 4 women in Pakistan goes for a prenatal consultation at least once in Pakistan.\nOnly 45% of these women have access to Private hospitals for their prenatal consultation while others either go to public hospitals, are visited by Lady Health Visitor (LHV) and Lady Health Worker(LHW), or get consultation by their family members.\nIn Rural Balochistan, 23.7% of child bearing women are not able to receive prenatal consultation by specialist health workers.\n\n\n Data Source : Pakistan Social Living Measurement 2019-2020"
   },
   {
     "objectID": "Exploratory-Sunday/16-10-22/Pak-Demographics.html",
     "href": "Exploratory-Sunday/16-10-22/Pak-Demographics.html",
-    "title": "Stat Devs",
+    "title": "Pakistan Demographics",
     "section": "",
     "text": "Male percentage of total population is 51.19 % while female are 48.81 % of Pakistan’s total population.\nFor every 100 people in Pakistan, 64 live in Rural Areas of Pakistan.\n\n\n\n\n\n\n\n\n\n\n\n Data Source : Pakistan Census Data 2017"
   },
   {
     "objectID": "Exploratory-Sunday/20-11-22/Global Health Expenditure.html",
     "href": "Exploratory-Sunday/20-11-22/Global Health Expenditure.html",
-    "title": "Stat Devs",
+    "title": "Global Health Expenditure Insights (2019)",
     "section": "",
-    "text": "Global Health Expenditure Insights (2019) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGlobal Health Spending has more than doubled over the past two decades, reaching US$ 8.5 trillion in 2019, or 9.8% of global GDP. But it was unequally distributed, with high income countries accounting for approximately 80%.\n\nBetween 2009-2019 Pakistan GDP Per Capita has risen by 26.6% and Current Health Expenditure has risen by 64.2%\nOf Pakistan’s Current Health Expenditure,Out of Pocket Expenditure is 51.7% while Government Financing is 39.7%.\n\n\n Data Source : Global Health Expenditure Database (WorldBank)"
+    "text": "Global Health Spending has more than doubled over the past two decades, reaching US$ 8.5 trillion in 2019, or 9.8% of global GDP. But it was unequally distributed, with high income countries accounting for approximately 80%.\n\nBetween 2009-2019 Pakistan GDP Per Capita has risen by 26.6% and Current Health Expenditure has risen by 64.2%\nOf Pakistan’s Current Health Expenditure,Out of Pocket Expenditure is 51.7% while Government Financing is 39.7%.\n\n\n Data Source : Global Health Expenditure Database (WorldBank)"
   },
   {
     "objectID": "Exploratory-Sunday/27-11-22/health-financing.html",
     "href": "Exploratory-Sunday/27-11-22/health-financing.html",
     "title": "Health Financing Agents",
     "section": "",
-    "text": "Health Financing Agents \n\n\n\n\n\n\n\n\nOn average, 51.68% of total health spending is done by the patients themselves.\nNon-Governmental Organisations do not play a significant role in financing health expenditure in Pakistan\n\n\n Data Source : National Health Accounts"
+    "text": "On average, 51.68% of total health spending is done by the patients themselves.\nNon-Governmental Organisations do not play a significant role in financing health expenditure in Pakistan\n\n\n Data Source : National Health Accounts"
+  },
+  {
+    "objectID": "Exploratory-Sunday/11-12-22/school-dropout.html",
+    "href": "Exploratory-Sunday/11-12-22/school-dropout.html",
+    "title": "Reasons for Dropping Out (Rural Pakistan)",
+    "section": "",
+    "text": "PAKISTAN RURAL POPULATION\n\n\n\n\n\n\nAround a quarter of male students in rural Pakistan dropped out of school because they needed to earn a living.\n34% of males and 17% of females were not motivated to continue their studies.\nThe proportion of female students dropping out due to marriage was 15% higher than their male counterparts.\n\n\n Data Source : Pakistan Demographic and Health Survey"
   }
 ]

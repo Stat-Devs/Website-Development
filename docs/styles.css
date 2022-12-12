@@ -151,7 +151,7 @@ h2 {
 }
 
 #consult {
-
+  margin-bottom: 120px;
  
 }
 
@@ -166,7 +166,7 @@ h2 {
 .training{
   text-align: ;
   vertical-align: text-top;
-  height: 300px;
+  height: 400px;
   font-size: 0.8em;
   padding-top: 1px;
 }
@@ -200,6 +200,10 @@ a:visited {
 
 }
 
+.button3{
+  text-align:center;
+  margin-bottom: 50px;
+}
 .process {
   width: 500px;
   height: 500px;

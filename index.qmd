@@ -27,6 +27,10 @@ We would love to hear your business challenges and empower your organization tow
 </h3>
 :::
 
+::: {.button3}
+<a href="consulting.qmd"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
+:::
+
 ::: {#our-expertise}
 <h2>Services</h2>
 :::
@@ -37,7 +41,7 @@ We would love to hear your business challenges and empower your organization tow
 
 <h5 class="card-title">
 
-Insight Consulting
+Business Analytics
 
 </h5>
 
@@ -49,7 +53,7 @@ Insight Consulting
 
 <h5 class="card-title">
 
-Interactive Visualizations & Applications
+Visual Dashboards & Applications
 
 </h5>
 
@@ -61,7 +65,7 @@ Interactive Visualizations & Applications
 
 <h5 class="card-title">
 
-Research Reports
+Market Research
 
 </h5>
 
