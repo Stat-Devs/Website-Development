@@ -9,3 +9,16 @@ page-layout: full
 
 <p>Exploratory Sunday is a social awareness campaign initiated by StatDevs. We post weekly statistics and visualizations every Sunday concentrating on Pakistan's demographic, healthcare and socio-economic indicators. The salient feature of these posts is to showcase how Pakistan's conditions stack up against Sustainable Development Goals.</p>
 
+<p>You can contribute to this awareness initiative by making a data visualization and provide key insights of the indicator and posting it on twitter and linkedin using <a href='https://twitter.com/search?q=exploratorysunday&src=typed_query&f=top' class="twitter">#exploratorysunday</a> 
+
+Following are some of the data sources you can use in you insights :
+<ol>
+
+<li><a href="https://www.pbs.gov.pk/content/pakistan-social-and-living-standards-measurement" class="twitter">Pakistan Social Living Measurement (PSLM 2020)</a></li>
+<li><a href="https://microdata.worldbank.org/index.php/catalog/3411" class="twitter">Pakistan Demographic Survey (2017-18)</a></li>
+<li><a href="https://www.pbs.gov.pk/publication/household-integrated-economic-survey-hies-2018-19" class="twitter">Household Income and Expenditure Surveys (HIES 2018-19)</a></li>
+<li><a href="https://microdata.worldbank.org/index.php/catalog/3824" class="twitter">Pakistan Maternal Mortality Survey (PMMS 2019)</a></li>
+<li><a href="https://www.pbs.gov.pk/content/final-results-census-2017" class="twitter">Census (2017)</a></li>
+
+</ol>
+</p>
