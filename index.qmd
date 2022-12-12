@@ -10,13 +10,25 @@ format:
 ::: {#aboutus}
 <h3>
 
-We provide analytical skillsets to your business functions in <b style="color:#2a5f7a;"><i>development, training and analysis</i></b> to provide you our unique service: <b style="color:#2a5f7a;"><i>identifying the missed opportunities and hidden costs in your business functions.</i></b> We believe that by taking small and timely actions, businesses can make a substantive difference in quality, delivery and costs reduction. <b style="color:#2a5f7a;"><i>Our interactive data applications and dashboards</i></b> provides you a bird's eye view of your business so that you can <b style="color:#2a5f7a;"><i>measure, monitor and optimize</i></b> your businesses processes.
+In an evolving business world, your products' market constitutes thousands and millions of consumers. These consumers are a diverse set of humans. The decisions they make based on their personal likes/dislike are key drivers of the sales of your products.
 
-<b style="color:#2a5f7a;"><i>Do you have challenges that are impassable? Data that is stored yet not analyzed? Are you looking to build a data infrastructure across your business functions? Is your organization lacking quality data generation?</b></i>
+<b style="color:#2a5f7a;"><i> Do you "really" know their likes and dislikes well enough?
 
-We would love to hear from you your business requirements and empower your organization with data technology.
+Do you review their preferences to align your next week's production?
+
+Are your production decisions truly aligned with your micro marketing data?
+
+Are your distribution operations inline with customer of take of your product? </i></b>
+
+Stat Devs aims to drive your business towards intelligent growth using data mining technologies. We provide quality solutions to your unique business problems to grow your business by maximizing revenues and increasing market share.
+
+We would love to hear your business challenges and empower your organization towards data driven growth
 
 </h3>
+:::
+
+::: {.button3}
+<a href="consulting.qmd"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
 :::
 
 ::: {#our-expertise}
@@ -24,41 +36,54 @@ We would love to hear from you your business requirements and empower your organ
 :::
 
 ::: grid
-
 ::: {.expertise .g-col-6}
-<a href = "consulting.qmd">
-<img src="images/1st-icon.png" class="card-img-top"/>
+<a href = "consulting.qmd"> <img src="images/1st-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">Insight Consulting</h5>
+<h5 class="card-title">
+
+Business Analytics
+
+</h5>
+
 </a>
 :::
 
 ::: {.expertise .g-col-6}
-<a href = "consulting.qmd">
-<img src="images/2nd-icon.png" class="card-img-top"/>
+<a href = "consulting.qmd"> <img src="images/2nd-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">Interactive Visualizations & Applications</h5>
+<h5 class="card-title">
+
+Visual Dashboards & Applications
+
+</h5>
+
 </a>
 :::
 
 ::: {.expertise .g-col-6}
-<a href = "consulting.qmd">
-<img src="images/3rd-icon.png" class="card-img-top"/>
+<a href = "consulting.qmd"> <img src="images/3rd-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">Research Reports</h5>
+<h5 class="card-title">
+
+Market Research
+
+</h5>
+
 </a>
 :::
 
 ::: {.expertise .g-col-6}
-<a href = "training.qmd">
-<img src="images/4th-icon.png" class="card-img-top"/>
+<a href = "training.qmd"> <img src="images/4th-icon.png" class="card-img-top"/>
 
-<h5 class="card-title">Training</h5>
+<h5 class="card-title">
+
+Training
+
+</h5>
+
 </a>
 :::
-
 :::
-
 
 ::: {#button2}
 <a href="consulting.qmd"> <button class="btn btn-outline-primary btn-lg">Learn More</button> </a>
@@ -107,8 +132,7 @@ We would love to hear from you your business requirements and empower your organ
 ::: {#industries}
 <h2>Industries</h2>
 
-::: {.grid}
-
+::: grid
 ::: g-col-3
 <img src="images/public-health.png"/>
 
@@ -132,7 +156,6 @@ We would love to hear from you your business requirements and empower your organ
 
 <h5>Textile</h5>
 :::
-
 :::
 :::
 
@@ -141,9 +164,7 @@ We would love to hear from you your business requirements and empower your organ
 :::
 
 ::: tools-image
-
-<img src = "images/tools.png"/>
-
+<img src="images/tools.png"/>
 :::
 
 ::: {#footer .grid}
