@@ -27,15 +27,15 @@ We believe that by taking small and timely actions, businesses can make a substa
 <img src="images/analytic-process.png" class="process"/>
 
 <p>
-<b style="color:#2a5f7a;"><i>
-Is you business deep mining on customers to gather insights of their buying patterns? 
 
-Are you monitoring your product return analysis in real time? 
+<b style="color:#2a5f7a;"><i> Is you business deep mining on customers to gather insights of their buying patterns?
 
-Are you tracking median inventory age of your product lines?
-</i></b>
+Are you monitoring your product return analysis in real time?
+
+Are you tracking median inventory age of your product lines? </i></b>
 
 By timely actions businesses can make a substantive difference in their bottom line. Stat Devs provide data driven skills to your organization to boost your sales and optimize business processes.
+
 </p>
 
 <h2>Our Team</h2>
