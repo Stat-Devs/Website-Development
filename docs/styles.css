@@ -150,21 +150,23 @@ h2 {
  
 }
 
-#consult {
+.consult {
   margin-bottom: 120px;
  
 }
 
 .consulting{
   text-align: left;
+  vertical-align: text-top;
   font-size: 0.8em;
   height: 400px;
+  padding-top: 1px;
 }
 
 
 
 .training{
-  text-align: ;
+  text-align:left ;
   vertical-align: text-top;
   height: 400px;
   font-size: 0.8em;
@@ -224,3 +226,4 @@ a:visited {
 .twitter:hover {
    color: #b7b3a4;
 }
+
