@@ -35,55 +35,74 @@ We would love to hear your business challenges and empower your organization tow
 <h2>Services</h2>
 :::
 
-::: grid
-::: {.expertise .g-col-6}
-<a href = "consulting.qmd"> <img src="images/1st-icon.png" class="card-img-top"/>
+::: {.expert}
 
-<h5 class="card-title">
+::: {.expertise}
 
-Business Analytics
+<a href = "consulting.qmd"> 
 
-</h5>
+::: {.cardimages}
+
+<img src="images/1st-icon.png"/>
+
+:::
+
+<h5 class="card-title">Business Analytics</h5>
 
 </a>
+
 :::
 
-::: {.expertise .g-col-6}
-<a href = "consulting.qmd"> <img src="images/2nd-icon.png" class="card-img-top"/>
+::: {.expertise}
 
-<h5 class="card-title">
+<a href = "consulting.qmd"> 
 
-Visual Dashboards & Applications
+::: {.cardimages}
 
-</h5>
+<img src="images/2nd-icon.png"/>
+
+:::
+
+<h5 class="card-title">Visual Dashboards & Applications</h5>
 
 </a>
+
 :::
 
-::: {.expertise .g-col-6}
-<a href = "consulting.qmd"> <img src="images/3rd-icon.png" class="card-img-top"/>
+::: {.expertise}
 
-<h5 class="card-title">
+<a href = "consulting.qmd"> 
 
-Market Research
+::: {.cardimages}
 
-</h5>
+<img src="images/3rd-icon.png"/>
+
+:::
+
+<h5 class="card-title">Market Research</h5>
 
 </a>
+
 :::
 
-::: {.expertise .g-col-6}
-<a href = "training.qmd"> <img src="images/4th-icon.png" class="card-img-top"/>
+::: {.expertise}
 
-<h5 class="card-title">
+<a href = "training.qmd"> 
 
-Training
+::: {.cardimages}
 
-</h5>
+<img src="images/4th-icon.png"/>
+
+:::
+
+<h5 class="card-title">Training</h5>
 
 </a>
+
 :::
 :::
+
+
 
 ::: {#button2}
 <a href="consulting.qmd"> <button class="btn btn-outline-primary btn-lg">Learn More</button> </a>
@@ -91,6 +110,7 @@ Training
 
 ::: {#past-work}
 <h2>Our Work</h2>
+
 
 ::: grid
 ::: g-col-4
@@ -132,6 +152,7 @@ Training
 ::: {#industries}
 <h2>Industries</h2>
 
+
 ::: grid
 ::: g-col-3
 <img src="images/public-health.png"/>
@@ -158,6 +179,7 @@ Training
 :::
 :::
 :::
+
 
 ::: {#tools}
 <h2>Tools We Love</h2>
