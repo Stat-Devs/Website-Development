@@ -1,5 +1,7 @@
 /*-- scss:defaults --*/
 
+$body-bg: white;
+
 $newcolor: #2a5f7a;
 
 $headings-color: 	#2a5f7a;  
@@ -91,11 +93,26 @@ $link-color: #C00000;
   font-weight: 500;
 }
 
+
+h2 {
+  
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  border-bottom-width: medium;
+  
+}
+
+
 h3 {
   color: black;
   font-size: 1.2em;
   text-align: left;
   
+}
+
+h4 {
+  text-align: left;
 }
 
 .card-footer {

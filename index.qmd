@@ -189,24 +189,48 @@ We would love to hear your business challenges and empower your organization tow
 <img src="images/tools.png"/>
 :::
 
-::: {#footer .grid}
+::: {#footer}
+
+<h2> </h2>
+
+::: grid
+
 ::: {.contact .g-col-4}
-<p>86-C, 4th Floor, 11th Comm. Street,</p>
 
-<p>Kh-e-Ittehad, Phase-2 Extn, DHA,</p>
+<h4>Navigate</h4>
+<ul>
+  <li class="link"><a href="about.qmd" >About</a></li>
+  <li class="link"><a href="consulting.qmd">Consulting</a></li>
+  <li class="link"><a href="training.qmd">Professional Training</a></li>
+  <li class="link"><a href="portfolio.qmd">Portfolio</a></li>
+  <li class="link"><a href="blog.qmd">Blog</a></li>
+  <li class="link"><a href="exploratory-sunday.qmd">Exploratory Sunday</a></li>
+  </ul>
 
-<p>Karachi 75500</p>
 :::
 
-::: {.contact .g-col-4}
-<p>+92-336-8446579</p>
+::: {.contact .g-col-8}
 
-<p>+92-331-2803120</p>
+<h4>Connect With Us</h4>
+
+::: grid
+::: {.g-col-3}
+Linkedin
 :::
 
-::: {.contact .g-col-4}
-<p>sarfaraz.jamal\@statdevs.com</p>
+::: {.g-col-3}
+Twitter
+:::
 
-<p>m.uzair\@statdevs.com</p>
+::: {.g-col-3}
+Facebook
+:::
+
+::: {.g-col-3}
+Github
+:::
+:::
+:::
+
 :::
 :::
