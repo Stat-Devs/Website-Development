@@ -7,11 +7,14 @@ title-block-banner: false
 ---
 
 ::: {.consult .grid}
-
 ::: {.consulting .g-col-4}
 <img src="images/services/business-analysis-strategy.png" class="card-img-top"/>
 
-<h5 class="card-title">Business Analysis & Strategy</h5>
+<h5 class="card-title">
+
+Business Analysis & Strategy
+
+</h5>
 
 <p class="card-text">
 
@@ -23,7 +26,11 @@ From designing your quality data generation methods to informed business decisio
 ::: {.consulting .g-col-4}
 <img src="images/services/Macro-Analysis-Research.png" class="card-img-top"/>
 
-<h5 class="card-title">Macro Analysis & Research</h5>
+<h5 class="card-title">
+
+Macro Analysis & Research
+
+</h5>
 
 <p class="card-text">
 
@@ -35,7 +42,11 @@ We specialize in areas of Socio Economic Development, Public Health and Macro Ec
 ::: {.consulting .g-col-4}
 <img src="images/services/market-analysis.png" class="card-img-top"/>
 
-<h5 class="card-title">Market Research</h5>
+<h5 class="card-title">
+
+Market Research
+
+</h5>
 
 <p class="card-text">
 
@@ -47,7 +58,11 @@ We provide deep sector specific intelligence for businesses and consultants to h
 ::: {.consulting .g-col-4}
 <img src="images/services/datascience.png" class="card-img-top"/>
 
-<h5 class="card-title">Predictive Analytics</h5>
+<h5 class="card-title">
+
+Predictive Analytics
+
+</h5>
 
 <p class="card-text">
 
@@ -59,7 +74,11 @@ Our data science team applies latest software technologies in Machine Learning a
 ::: {.consulting .g-col-4}
 <img src="images/services/visualization&amp;shiny.png" class="card-img-top"/>
 
-<h5 class="card-title">Visual Dashboards & Applications</h5>
+<h5 class="card-title">
+
+Visual Dashboards & Applications
+
+</h5>
 
 <p class="card-text">
 
@@ -71,7 +90,11 @@ We create visually interactive dashboards and data applications to help you expl
 ::: {.consulting .g-col-4}
 <img src="images/services/workflow.png" class="card-img-top"/>
 
-<h5 class="card-title">Spatial Analytics</h5>
+<h5 class="card-title">
+
+Spatial Analytics
+
+</h5>
 
 <p class="card-text">
 
@@ -79,9 +102,43 @@ There is a geographic dimension for all business and marketing activities. We he
 
 </p>
 :::
-
 :::
 
-::: {.button3}
+::: button3
 <a href="consulting.qmd"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
 :::
+
+::: {.footer}
+
+<h2>  </h2>
+
+::: {.social}
+<a href="https://www.facebook.com/profile.php?id=100088076201356"><i class="bi bi-facebook"></i></a>
+<a href="https://twitter.com/StatDevs "><i class="bi bi-twitter"></i></a>
+<a href="https://www.linkedin.com/company/stat-devs"><i class="bi bi-linkedin"></i></a>
+<a href="https://github.com/Stat-Devs"><i class="bi bi-github"></i></a>
+:::
+
+<ul class="links">
+  <li>
+    <a href="consulting.qmd">Consulting</a>
+  </li>
+   <li>
+    <a href="training.qmd">Professional Training</a>
+  </li>
+   <li>
+    <a href="portfolio.qmd">Portfolio</a>
+  </li>
+   <li>
+    <a href="blog.qmd">Blog</a>
+  </li>
+   <li>
+    <a href="exploratory-sunday.qmd">Exploratory Sunday</a>
+  </li>
+   <li>
+    <a href="about.qmd">About</a>
+  </li>
+</ul>
+
+:::
+
