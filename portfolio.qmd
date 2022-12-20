@@ -75,7 +75,7 @@ Clustering Countries
 
 <p class="card-text">
 
-We analyzed data of countries based on their socio-economic and health indicators. Through this the overall development levels of the country were determined. Subsequently, they were categorized according by using clustering techniques and the least developed countries were then identified.
+HELP International wanted to identify countries that were in direst need of help for their financial aid programme.. We analyzed data of countries based on their socio-economic and health indicators. Through this the overall development levels of the country were determined. Subsequently, they were categorized according by using clustering techniques and the least developed countries were then identified.
 
 </p>
 :::
@@ -105,7 +105,7 @@ Power BI Dashboard for an E-commerce Platform
 
 <p class="card-text">
 
-An analytical report was created based on historical data of several functions of an e-commerce store including employees, shipment, products and an overall performance dashboard. These highlighted key metrics useful for monitoring the performance of the company and several visuals that provided insights at a granular level.
+An analytical report was created based on historical data of several functions of an e-commerce store including shipment, products and an overall performance dashboard. These highlighted key metrics useful for monitoring the performance of the company and several visuals that provided insights at a granular level.
 
 </p>
 :::
@@ -159,7 +159,7 @@ Product Recommendation
 
 <p class="card-text">
 
-Analyzing past customer behavior helps sellers push relevant recomendations to consumers. We studied data of past purchases of customers of an online retail store. We then implemented a product recommendation system based on association rule mining technique.
+Analyzing past customer behavior helps sellers push relevant recommendations to consumers. This helps them increase sales. We studied data of past purchases of customers of an online retail store. We then implemented a product recommendation system based on association rule mining technique.
 
 </p>
 :::
@@ -195,37 +195,28 @@ With successful volatility model, we can gain insights about future market behav
 :::
 :::
 
-::: {.footer}
+::: footer
+<h2>
 
-<h2>  </h2>
+</h2>
 
-::: {.social}
-<a href="https://www.facebook.com/profile.php?id=100088076201356"><i class="bi bi-facebook"></i></a>
-<a href="https://twitter.com/StatDevs "><i class="bi bi-twitter"></i></a>
-<a href="https://www.linkedin.com/company/stat-devs"><i class="bi bi-linkedin"></i></a>
-<a href="https://github.com/Stat-Devs"><i class="bi bi-github"></i></a>
+::: social
+<a href="https://www.facebook.com/profile.php?id=100088076201356"><i class="bi bi-facebook"></i></a> <a href="https://twitter.com/StatDevs "><i class="bi bi-twitter"></i></a> <a href="https://www.linkedin.com/company/stat-devs"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/Stat-Devs"><i class="bi bi-github"></i></a>
 :::
 
 <ul class="links">
-  <li>
-    <a href="consulting.qmd">Consulting</a>
-  </li>
-   <li>
-    <a href="training.qmd">Professional Training</a>
-  </li>
-   <li>
-    <a href="portfolio.qmd">Portfolio</a>
-  </li>
-   <li>
-    <a href="blog.qmd">Blog</a>
-  </li>
-   <li>
-    <a href="exploratory-sunday.qmd">Exploratory Sunday</a>
-  </li>
-   <li>
-    <a href="about.qmd">About</a>
-  </li>
+
+<li><a href="consulting.qmd">Consulting</a></li>
+
+<li><a href="training.qmd">Professional Training</a></li>
+
+<li><a href="portfolio.qmd">Portfolio</a></li>
+
+<li><a href="blog.qmd">Blog</a></li>
+
+<li><a href="exploratory-sunday.qmd">Exploratory Sunday</a></li>
+
+<li><a href="about.qmd">About</a></li>
+
 </ul>
-
 :::
-
