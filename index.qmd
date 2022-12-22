@@ -183,17 +183,17 @@ Training
 <img src="images/tools.png"/>
 :::
 
-
-::: {.contact}
-
+::: contact
 ::: content
-<h2>Contact Us</h2 >
+<h2>
+
+Contact Us
+
+</h2 >
 :::
 
 ::: container
-
 ::: contactInfo
-
 ::: box
 ::: icon
 <i class="bi bi-pin-map"></i>
@@ -229,43 +229,33 @@ Training
 <p>sarfaraz.jamal\@statdevs.com<br>m.uzar\@statdevs.com</p>
 :::
 :::
-
 :::
 
-::: {.contactForm}
-<form>
+::: contactForm
+<form action="https://formsubmit.co/sarfaraz.jamal@statdevs.com" method="POST">
 
 <h3>Send Messsage</h3>
 
-::: {.inputBox}
-
-<input type="text" name="" required ="required">
-<span>Full Name</span>
-
+::: inputBox
+<input type="text" name="name" required ="required"> Full Name
 :::
 
-::: {.inputBox}
-
-<input type="text" name="" required ="required">
-<span>Email</span>
-
+::: inputBox
+<input type="email" name="email" required ="required"> Email
 :::
 
-::: {.inputBox}
+::: inputBox
 
-<textarea placeholder=""name="" required="required"></textarea>
-<span>Type your Message</span>
+<textarea name="message" required="required"></textarea>
 
+Type your Message
 :::
 
-::: {.inputBox}
-
-<input type="submit" name="" value ="send">
-
+::: inputBox
+<input type="submit" name="submit" value ="Send">
 :::
 
 </form>
-
 :::
 :::
 :::
@@ -295,4 +285,3 @@ Training
 
 </ul>
 :::
-
