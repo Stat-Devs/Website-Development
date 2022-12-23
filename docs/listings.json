@@ -2,7 +2,8 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/articles/lahor-air-quality/lahore-air-quality.html"
+      "/Blogs/Spatial Analytics-1/Learning Spatial Analytics in R (Part 1).html",
+      "/Blogs/Lahore-Air-Quality/lahore-air-quality.html"
     ]
   },
   {
@@ -10,6 +11,7 @@
     "items": [
       "/Exploratory-Sunday/20-11-22/Global Health Expenditure.html",
       "/Exploratory-Sunday/27-11-22/health-financing.html",
+      "/Exploratory-Sunday/18-12-22/health-infrastructure.html",
       "/Exploratory-Sunday/16-10-22/Pak-Demographics.html",
       "/Exploratory-Sunday/13-11-22/Pre-Post-Consultation.html",
       "/Exploratory-Sunday/11-12-22/school-dropout.html"

@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 listing: 
-  contents: articles
+  contents: Blogs
   type: default
   sort: "date desc"
   date-format: medium
@@ -11,3 +11,4 @@ listing:
   categories: cloud
 page-layout: full
 ---
+

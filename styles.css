@@ -7,36 +7,52 @@
   place-items: center;
   text-align: center;
   
+  
 }
 
+.expert {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 200px 200px;
+  margin-right: 180px;
+  margin-left: 180px;
+ 
+    
+}
 
 .expertise{
-
-  display: grid;
-  place-items: center;
+  
   box-shadow: 0 0 10px rgba(0,0,0,0.4);
   border-radius: 5px;
-  height: 220px;
-  width: 450px;
   background: #ebecfd;
-  margin: 20px;
-  padding: 0px ;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin: 10px;
   
-  
-  
-  
-  
-   
+
+}
+
+.expertise:hover {
+  background:white;
+}
+
+.cardimages {
+  text-align: center;
+}
+
+.card-title {
+  text-align:center;
 }
 
 #our-expertise {
 
   margin-bottom: 0px;
-  padding-right: 210px;
-  padding-left: 210px;
-  padding-top: 50px;
-  background: white;
+  place-items: center;
   text-align: center;
+  padding-right:130px;
+  padding-left:130px;
+
   
   
   
@@ -50,7 +66,6 @@
   text-align: center;
   padding-right:130px;
   padding-left:130px;
-  background: white;
   
   
   
@@ -59,28 +74,81 @@
 }
 
 #industries {
-  height: 250px;
+  height: 300px;
   place-items: center;
   text-align: center;
-  padding-right: 100px;
-  padding-left: 100px;
-  background:white;
+  padding-right: 130px;
+  padding-left: 130px;
+
   
 }
 
 
 
-#footer {
-  height: 300px;
-  background: #1d4355;
-  color: white;
+.footer {
+  background: white;
+  color: #2a5f7a;
+  padding: 40px 0;
+  font-family: Book Antiqua;
   
 }
 
-#tools {
+.footer .social {
+  
   text-align: center;
-  padding-right: 100px;
-  padding-left: 100px;
+  padding-bottom: 25px;
+  
+}
+
+.footer .social a {
+  font-size: 24px;
+  border: 1px solid #ccc;
+  width: 40px;
+  height: 40px;
+  line-height: 38px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin: 0 8px;
+  opacity: 0.75;
+}
+
+.footer .social a:hover{
+  opacity: 0.9;
+}
+
+.footer ul {
+  margin-top: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.footer ul li a {
+  color:inherit;
+  text-decoration: none;
+  opacity: 0.8;
+  
+}
+
+.footer ul li {
+  display: inline-block;
+  padding: 0 15px;
+  
+}
+
+.footer ul li a:hover {
+  opacity: 1;
+}
+#tools {
+  margin-bottom: 0px;
+  place-items: center;
+  text-align: center;
+  padding-right:130px;
+  padding-left:130px;
 }
 
 .tools-image {
@@ -97,6 +165,7 @@
  background-image: url("images/muqarnas.jpg"); 
  height: 500px;
  background-size: cover;
+
  
 }
 
@@ -112,13 +181,6 @@
    
 }
 
-h2 {
-  margin-left: 20px;
-  margin-right: 20px;
-  text-align: center;
-  
-  
-}
   
 #email {
 
@@ -126,10 +188,10 @@ h2 {
   
 }
 
-.contact {
-  border-left: solid;
-  padding-left: 10px;
-  text-align: left;
+
+
+.link:hover {
+  color:#b7b3a4;
 }
 
 #aboutus {
@@ -227,3 +289,5 @@ a:visited {
    color: #b7b3a4;
 }
 
+
+}

@@ -12,7 +12,7 @@ format:
 
 In an evolving business world, your products' market constitutes thousands and millions of consumers. These consumers are a diverse set of humans. The decisions they make based on their personal likes/dislike are key drivers of the sales of your products.
 
-<b style="color:#2a5f7a;"><i> Do you "really" know their likes and dislikes well enough?
+<b style="color:#698fa1;"><i> Do you "really" know their likes and dislikes well enough?
 
 Do you review their preferences to align your next week's production?
 
@@ -27,7 +27,7 @@ We would love to hear your business challenges and empower your organization tow
 </h3>
 :::
 
-::: {.button3}
+::: button3
 <a href="consulting.qmd"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
 :::
 
@@ -35,9 +35,13 @@ We would love to hear your business challenges and empower your organization tow
 <h2>Services</h2>
 :::
 
-::: grid
-::: {.expertise .g-col-6}
-<a href = "consulting.qmd"> <img src="images/1st-icon.png" class="card-img-top"/>
+::: expert
+::: expertise
+<a href = "consulting.qmd">
+
+::: cardimages
+<img src="images/1st-icon.png"/>
+:::
 
 <h5 class="card-title">
 
@@ -48,8 +52,12 @@ Business Analytics
 </a>
 :::
 
-::: {.expertise .g-col-6}
-<a href = "consulting.qmd"> <img src="images/2nd-icon.png" class="card-img-top"/>
+::: expertise
+<a href = "consulting.qmd">
+
+::: cardimages
+<img src="images/2nd-icon.png"/>
+:::
 
 <h5 class="card-title">
 
@@ -60,8 +68,12 @@ Visual Dashboards & Applications
 </a>
 :::
 
-::: {.expertise .g-col-6}
-<a href = "consulting.qmd"> <img src="images/3rd-icon.png" class="card-img-top"/>
+::: expertise
+<a href = "consulting.qmd">
+
+::: cardimages
+<img src="images/3rd-icon.png"/>
+:::
 
 <h5 class="card-title">
 
@@ -72,8 +84,12 @@ Market Research
 </a>
 :::
 
-::: {.expertise .g-col-6}
-<a href = "training.qmd"> <img src="images/4th-icon.png" class="card-img-top"/>
+::: expertise
+<a href = "training.qmd">
+
+::: cardimages
+<img src="images/4th-icon.png"/>
+:::
 
 <h5 class="card-title">
 
@@ -167,24 +183,104 @@ Training
 <img src="images/tools.png"/>
 :::
 
-::: {#footer .grid}
-::: {.contact .g-col-4}
-<p>86-C, 4th Floor, 11th Comm. Street,</p>
+::: contact
+::: content
+<h2>
 
-<p>Kh-e-Ittehad, Phase-2 Extn, DHA,</p>
+Contact Us
 
-<p>Karachi 75500</p>
+</h2 >
 :::
 
-::: {.contact .g-col-4}
-<p>+92-336-8446579</p>
-
-<p>+92-331-2803120</p>
+::: container
+::: contactInfo
+::: box
+::: icon
+<i class="bi bi-pin-map"></i>
 :::
 
-::: {.contact .g-col-4}
-<p>sarfaraz.jamal\@statdevs.com</p>
+::: text
+<h3>Address</h3>
 
-<p>m.uzair\@statdevs.com</p>
+<p>86-C, 4th Floor, 11th Comm Street,<br>Kh-e-Ittehad,Phase-2 Extn,<br>DHA,Karachi 75500</p>
 :::
+:::
+
+::: box
+::: icon
+<i class="bi bi-telephone"></i>
+:::
+
+::: text
+<h3>Phone</h3>
+
+<p>+923368446579<br>+923312803120</p>
+:::
+:::
+
+::: box
+::: icon
+<i class="bi bi-envelope"></i>
+:::
+
+::: text
+<h3>Email</h3>
+
+<p>sarfaraz.jamal\@statdevs.com<br>m.uzar\@statdevs.com</p>
+:::
+:::
+:::
+
+::: contactForm
+<form action="https://formsubmit.co/sarfaraz.jamal@statdevs.com" method="POST">
+
+<h3>Send Messsage</h3>
+
+::: inputBox
+<input placeholder="Full Name"type="text" name="name" required ="required">
+:::
+
+::: inputBox
+<input type="email" placeholder="Email"name="email" required ="required">
+:::
+
+::: inputBox
+```{=html}
+<textarea placeholder="Type your message"name="message" required="required"></textarea>
+```
+:::
+
+::: inputBox
+<input type="submit" name="submit" value ="Send">
+:::
+
+</form>
+:::
+:::
+:::
+
+::: footer
+<h2>
+
+</h2>
+
+::: social
+<a href="https://www.facebook.com/profile.php?id=100088076201356"><i class="bi bi-facebook"></i></a> <a href="https://twitter.com/StatDevs "><i class="bi bi-twitter"></i></a> <a href="https://www.linkedin.com/company/stat-devs"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/Stat-Devs"><i class="bi bi-github"></i></a>
+:::
+
+<ul class="links">
+
+<li><a href="consulting.qmd">Consulting</a></li>
+
+<li><a href="training.qmd">Professional Training</a></li>
+
+<li><a href="portfolio.qmd">Portfolio</a></li>
+
+<li><a href="blog.qmd">Blog</a></li>
+
+<li><a href="exploratory-sunday.qmd">Exploratory Sunday</a></li>
+
+<li><a href="about.qmd">About</a></li>
+
+</ul>
 :::
