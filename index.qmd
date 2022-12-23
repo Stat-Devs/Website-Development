@@ -183,7 +183,7 @@ Training
 <img src="images/tools.png"/>
 :::
 
-::: contact
+::: {#cont .contact}
 ::: content
 <h2>
 

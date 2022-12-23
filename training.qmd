@@ -6,7 +6,7 @@ title: "Professional Training"
 title-block-banner: false
 ---
 
-<p>The vision for providing workshop training is to equip the organizations with software tools, enrich their <b style="color:#2a5f7a;"><i>Business Intelligence, Data Science and Research</i></b> teams with modern day software practices and tools. We currently offer onsite and remote training to employees and university students across all backgrounds in following courses.</p>
+<p>The vision for providing workshop training is to equip the organizations with software tools, enrich their <b style="color:#698fa1;"><i>Business Intelligence, Data Science and Research</i></b> teams with modern day software practices and tools. We currently offer onsite and remote training to employees and university students across all backgrounds in following courses.</p>
 
 ::: {.consult .grid}
 ::: {.training .g-col-4}
@@ -174,7 +174,7 @@ The course teaches the fundamentals of R Package which can be used to replicate 
 :::
 
 ::: button3
-<a href="consulting.qmd"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
+<a href="index.qmd#cont"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
 :::
 
 ::: footer
