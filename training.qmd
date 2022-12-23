@@ -6,7 +6,7 @@ title: "Professional Training"
 title-block-banner: false
 ---
 
-<p>The vision for providing workshop training is to equip the organizations with software tools, enrich their <b style="color:#2a5f7a;"><i>Business Intelligence, Data Science and Research</i></b> teams with modern day software practices and tools. We currently offer onsite and remote training to employees and university students across all backgrounds in following courses.</p>
+<p>The vision for providing workshop training is to equip the organizations with software tools, enrich their <b style="color:#698fa1;"><i>Business Intelligence, Data Science and Research</i></b> teams with modern day software practices and tools. We currently offer onsite and remote training to employees and university students across all backgrounds in following courses.</p>
 
 ::: {.consult .grid}
 ::: {.training .g-col-4}
@@ -174,40 +174,31 @@ The course teaches the fundamentals of R Package which can be used to replicate 
 :::
 
 ::: button3
-<a href="consulting.qmd"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
+<a href="index.qmd#cont"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
 :::
 
-::: {.footer}
+::: footer
+<h2>
 
-<h2>  </h2>
+</h2>
 
-::: {.social}
-<a href="https://www.facebook.com/profile.php?id=100088076201356"><i class="bi bi-facebook"></i></a>
-<a href="https://twitter.com/StatDevs "><i class="bi bi-twitter"></i></a>
-<a href="https://www.linkedin.com/company/stat-devs"><i class="bi bi-linkedin"></i></a>
-<a href="https://github.com/Stat-Devs"><i class="bi bi-github"></i></a>
+::: social
+<a href="https://www.facebook.com/profile.php?id=100088076201356"><i class="bi bi-facebook"></i></a> <a href="https://twitter.com/StatDevs "><i class="bi bi-twitter"></i></a> <a href="https://www.linkedin.com/company/stat-devs"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/Stat-Devs"><i class="bi bi-github"></i></a>
 :::
 
 <ul class="links">
-  <li>
-    <a href="consulting.qmd">Consulting</a>
-  </li>
-   <li>
-    <a href="training.qmd">Professional Training</a>
-  </li>
-   <li>
-    <a href="portfolio.qmd">Portfolio</a>
-  </li>
-   <li>
-    <a href="blog.qmd">Blog</a>
-  </li>
-   <li>
-    <a href="exploratory-sunday.qmd">Exploratory Sunday</a>
-  </li>
-   <li>
-    <a href="about.qmd">About</a>
-  </li>
+
+<li><a href="consulting.qmd">Consulting</a></li>
+
+<li><a href="training.qmd">Professional Training</a></li>
+
+<li><a href="portfolio.qmd">Portfolio</a></li>
+
+<li><a href="blog.qmd">Blog</a></li>
+
+<li><a href="exploratory-sunday.qmd">Exploratory Sunday</a></li>
+
+<li><a href="about.qmd">About</a></li>
+
 </ul>
-
-
 :::
