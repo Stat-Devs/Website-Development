@@ -237,18 +237,17 @@ Contact Us
 <h3>Send Messsage</h3>
 
 ::: inputBox
-<input type="text" name="name" required ="required"> Full Name
+<input placeholder="Full Name"type="text" name="name" required ="required">
 :::
 
 ::: inputBox
-<input type="email" name="email" required ="required"> Email
+<input type="email" placeholder="Email"name="email" required ="required">
 :::
 
 ::: inputBox
-
-<textarea name="message" required="required"></textarea>
-
-Type your Message
+```{=html}
+<textarea placeholder="Type your message"name="message" required="required"></textarea>
+```
 :::
 
 ::: inputBox

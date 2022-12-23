@@ -10,6 +10,7 @@ format:
     transition: fade
     backgroundcolor: "#efefef"
     theme: [default, custom.scss]
+  
     
 editor: visual
 ---
@@ -40,9 +41,9 @@ To create a broad understanding of health deficiencies experienced by Pakistan p
 :::
 
 ::: {.column width="40%"}
-![](images/Birth-Place.png)
+![](images/Birth-Place.png){width="500" height="250"}
 
-![](images/Quintile.png)
+![](images/Quintile.png){width="500" height="250"}
 :::
 :::
 
