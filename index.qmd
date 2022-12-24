@@ -7,28 +7,43 @@ format:
 ::: home
 :::
 
+::: domino
+:::
+
 ::: {#aboutus}
 <h3>
 
-In an evolving business world, your products' market constitutes thousands and millions of consumers. These consumers are a diverse set of humans. The decisions they make based on their personal likes/dislike are key drivers of the sales of your products.
+In an evolving business world, your products’ market constitutes thousands and millions of consumers.
 
-<b style="color:#698fa1;"><i> Do you "really" know their likes and dislikes well enough?
+Quick access to actionable data insights is key to understanding fast-changing consumer needs and optimize your demand-generation activities.
 
-Do you review their preferences to align your next week's production?
+<b style="color:#698fa1;"><i> 
 
-Are your production decisions truly aligned with your micro marketing data?
+Are you measuring the value of each consumer and customers’ touch point? 
 
-Are your distribution operations inline with customer of take of your product? </i></b>
+Are your marketing channels and campaigns optimized?
 
-Stat Devs aims to drive your business towards intelligent growth using data mining technologies. We provide quality solutions to your unique business problems to grow your business by maximizing revenues and increasing market share.
+Do you know the current market outlook of your industry?
 
-We would love to hear your business challenges and empower your organization towards data driven growth
+Are you gauging the changes in demand and supply gaps? 
+
+Are you monitoring your KPIs through real time analytics?
+
+</i></b>
+
+Stat Devs help your business towards higher revenues and lower costs through better decisions and informed actions.
+
+We would love to hear your business challenges and empower your organization towards data driven growth.
+
 
 </h3>
 :::
 
+::: pyramid
+:::
+
 ::: button3
-<a href="consulting.qmd"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
+<a href="index.qmd#cont"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
 :::
 
 ::: {#our-expertise}
