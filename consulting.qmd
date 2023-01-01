@@ -18,7 +18,7 @@ Business Analysis & Strategy
 
 <p class="card-text">
 
-From designing your quality data generation methods to informed business decisions and actions, we help you optimize your business across functions. These range from manufacturing and human resource management all the way to customer relationship management.
+We conduct deep dive analysis and carry optimization efforts to help companies generate more sales, reduce marketing costs, enhance campaign performances, provide better user experience, reach specific target segments and more.
 
 </p>
 :::
@@ -34,7 +34,7 @@ Macro Analysis & Research
 
 <p class="card-text">
 
-We specialize in areas of Socio Economic Development, Public Health and Macro Economic analysis. Our unique statistical insights and trends provide detail picture of how these changes impact countries, consumers and business environment.
+We specialize in areas of Socio Economic Development, Public Health and Macro Economic analysis. Our unique statistical insights and trends provide detailed picture of how these changes impact countries, consumers and business environment.
 
 </p>
 :::
@@ -66,7 +66,7 @@ Predictive Analytics
 
 <p class="card-text">
 
-Our data science team applies latest software technologies in Machine Learning and Statistics to gather quality datasets from web and markets to help you forecast your product sales, position and rank your products across brands. We help you collect, organize, analyze and report your business data and KPI's.
+Our data science team applies state of the art methodologies in Machine Learning and Statistics to help you create demand forecasts of your products, recommendation systems to cross sell products, gain insights into consumer behaviour across different customer demographics and segments, and much more.
 
 </p>
 :::

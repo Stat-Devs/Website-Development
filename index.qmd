@@ -8,24 +8,28 @@ format:
 :::
 
 ::: domino
+
+<img src="images/domino.png">
+
+
 :::
 
 ::: {#aboutus}
 <h3>
 
-In an evolving business world, your products’ market constitutes thousands and millions of consumers.
+In an evolving business world, your products' market constitutes thousands and millions of consumers.
 
 Quick access to actionable data insights is key to understanding fast-changing consumer needs and optimize your demand-generation activities.
 
-<b style="color:#698fa1;"><i> 
+<b style="color:#698fa1;"><i>
 
-Are you measuring the value of each consumer and customers’ touch point? 
+Are you measuring the value of each consumer and customers' touch point?
 
 Are your marketing channels and campaigns optimized?
 
 Do you know the current market outlook of your industry?
 
-Are you gauging the changes in demand and supply gaps? 
+Are you gauging the changes in demand and supply gaps?
 
 Are you monitoring your KPIs through real time analytics?
 
@@ -35,11 +39,13 @@ Stat Devs help your business towards higher revenues and lower costs through bet
 
 We would love to hear your business challenges and empower your organization towards data driven growth.
 
-
 </h3>
 :::
 
 ::: pyramid
+
+<img src="images/pyramid.png">
+
 :::
 
 ::: button3
