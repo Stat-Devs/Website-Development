@@ -14,7 +14,7 @@ Our Business Analysts and Data Scientists can help you solve your business probl
 :::
 
 ::: grid
-::: {.portfolio .g-col-4}
+::: {.portfolio .g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: card
 <img src="images/portfolio/1.png" class="card-img-top"/>
 
@@ -38,7 +38,7 @@ How has Pakistan performed in Public Health Parameters, Social Living Measuremen
 :::
 :::
 
-::: {.portfolio .g-col-4}
+::: {.portfolio .g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: card
 <img src="images/portfolio/5.png" class="card-img-top"/>
 
@@ -62,7 +62,7 @@ The MDG target for Infant Mortality was 40 per 1000 live births while Pakistan s
 :::
 :::
 
-::: {.portfolio .g-col-4}
+::: {.portfolio .g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: card
 <img src="images/portfolio/4.png" class="card-img-top"/>
 
@@ -92,7 +92,7 @@ HELP International wanted to identify countries that were in direst need of help
 :::
 
 ::: grid
-::: {.portfolio .g-col-4}
+::: {.portfolio .g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: card
 <img src="images/portfolio/2.png" class="card-img-top"/>
 
@@ -116,7 +116,7 @@ An analytical report was created based on historical data of several functions o
 :::
 :::
 
-::: {.portfolio .g-col-4}
+::: {.portfolio .g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: card
 <img src="images/portfolio/7.png" class="card-img-top"/>
 
@@ -146,7 +146,7 @@ Some population groups are at increased risk of injury because of greater exposu
 :::
 
 ::: grid
-::: {.portfolio .g-col-4}
+::: {.portfolio .g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: card
 <img src="images/portfolio/6.png" class="card-img-top"/>
 
@@ -170,7 +170,7 @@ Analyzing past customer behavior helps sellers push relevant recommendations to 
 :::
 :::
 
-::: {.portfolio .g-col-4}
+::: {.portfolio .g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: card
 <img src="images/portfolio/3.png" class="card-img-top"/>
 

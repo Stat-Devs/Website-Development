@@ -10,15 +10,7 @@
   
 }
 
-.expert {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 200px 200px;
-  margin-right: 180px;
-  margin-left: 180px;
- 
-    
-}
+
 
 .expertise{
   
@@ -28,7 +20,6 @@
   display:flex;
   align-items:center;
   justify-content:center;
-  margin: 10px;
   
 
 }
@@ -37,48 +28,19 @@
   background:white;
 }
 
-.cardimages {
-  text-align: center;
-}
-
-.card-title {
-  text-align:center;
-}
 
 #our-expertise {
 
-  margin-bottom: 0px;
-  place-items: center;
-  text-align: center;
-  padding-right:130px;
-  padding-left:130px;
-
-  
-  
   
 }
 
 
 #past-work {
- 
-  margin-bottom: 0px;
-  place-items: center;
-  text-align: center;
-  padding-right:130px;
-  padding-left:130px;
-  
-  
-  
-  
+
  
 }
 
 #industries {
-  height: 300px;
-  place-items: center;
-  text-align: center;
-  padding-right: 130px;
-  padding-left: 130px;
 
   
 }
@@ -143,61 +105,6 @@
 .footer ul li a:hover {
   opacity: 1;
 }
-#tools {
-  margin-bottom: 0px;
-  place-items: center;
-  text-align: center;
-  padding-right:130px;
-  padding-left:130px;
-}
-
-.tools-image {
-
-  display: block;
-  text-align: center;
-  margin: 50px;
-
-
-
-}
-
-.home {
- background-image: url("images/muqarnas.jpg"); 
- height: 500px;
- background-size: cover;
- opacity:80%;
-
- 
-}
-
-.domino {
- max-width: 100%;
- height: auto;
- text-align: center;
- margin-top: 50px;
- 
- 
-}
-
-.pyramid {
- width: 100%;
- height: auto;
- text-align: center;
- 
- 
-}
-
-.g-col-3{
-  display: grid;
-}
-
-
-   
-   
-   
-  
-   
-}
 
   
 #email {
@@ -212,12 +119,7 @@
   color:#b7b3a4;
 }
 
-#aboutus {
 
-  margin-right: 150px;
-  margin-left: 150px;
-  text-align: center;
-}
 
 .portfolio {
   
@@ -237,20 +139,18 @@
 
 .consulting{
   text-align: left;
-  vertical-align: text-top;
+  min-height: 450px;
   font-size: 0.8em;
-  height: 450px;
-  padding-top: 1px;
+ 
 }
 
 
 
 .training{
   text-align:left ;
-  vertical-align: text-top;
-  height: 450px;
+  min-height: 450px;
   font-size: 0.8em;
-  padding-top: 1px;
+
 }
 
 .portfolioheading {

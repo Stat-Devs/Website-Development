@@ -7,100 +7,52 @@ title-block-banner: false
 ---
 
 ::: {.consult .grid}
-::: {.consulting .g-col-4}
-<img src="images/services/business-analysis-strategy.png" class="card-img-top"/>
+::: {.consulting .g-col-12 .g-col-md-6 .g-col-lg-4}
+<img src="images/services/business-analysis-strategy.png"/>
 
-<h5 class="card-title">
+<h5>Business Analysis & Strategy</h5>
 
-Business Analysis & Strategy
-
-</h5>
-
-<p class="card-text">
-
-We conduct deep dive analysis and carry optimization efforts to help companies generate more sales, reduce marketing costs, enhance campaign performances, provide better user experience, reach specific target segments and more.
-
-</p>
+<p>We conduct deep dive analysis and carry optimization efforts to help companies generate more sales, reduce marketing costs, enhance campaign performances, provide better user experience, reach specific target segments and more.</p>
 :::
 
-::: {.consulting .g-col-4}
-<img src="images/services/Macro-Analysis-Research.png" class="card-img-top"/>
+::: {.consulting .g-col-12 .g-col-md-6 .g-col-lg-4}
+<img src="images/services/Macro-Analysis-Research.png"/>
 
-<h5 class="card-title">
+<h5>Macro Analysis & Research</h5>
 
-Macro Analysis & Research
-
-</h5>
-
-<p class="card-text">
-
-We specialize in areas of Socio Economic Development, Public Health and Macro Economic analysis. Our unique statistical insights and trends provide detailed picture of how these changes impact countries, consumers and business environment.
-
-</p>
+<p>We specialize in areas of Socio Economic Development, Public Health and Macro Economic analysis. Our unique statistical insights and trends provide detailed picture of how these changes impact countries, consumers and business environment.</p>
 :::
 
-::: {.consulting .g-col-4}
-<img src="images/services/market-analysis.png" class="card-img-top"/>
+::: {.consulting .g-col-12 .g-col-md-6 .g-col-lg-4}
+<img src="images/services/market-analysis.png"/>
 
-<h5 class="card-title">
+<h5>Market Research</h5>
 
-Market Research
-
-</h5>
-
-<p class="card-text">
-
-We provide deep sector specific intelligence for businesses and consultants to help clients leverage on emerging business opportunities, explore new markets and analyze competitor landscape by key consumer goods and service industry insights.
-
-</p>
+<p>We provide deep sector specific intelligence for businesses and consultants to help clients leverage on emerging business opportunities, explore new markets and analyze competitor landscape by key consumer goods and service industry insights.</p>
 :::
 
-::: {.consulting .g-col-4}
-<img src="images/services/datascience.png" class="card-img-top"/>
+::: {.consulting .g-col-12 .g-col-md-6 .g-col-lg-4}
+<img src="images/services/datascience.png"/>
 
-<h5 class="card-title">
+<h5>Predictive Analytics</h5>
 
-Predictive Analytics
-
-</h5>
-
-<p class="card-text">
-
-Our data science team applies state of the art methodologies in Machine Learning and Statistics to help you create demand forecasts of your products, recommendation systems to cross sell products, gain insights into consumer behaviour across different customer demographics and segments, and much more.
-
-</p>
+<p>Our data science team applies state of the art methodologies in Machine Learning and Statistics to help you create demand forecasts of your products, recommendation systems to cross sell products, gain insights into consumer behaviour across different customer demographics and segments, and much more.</p>
 :::
 
-::: {.consulting .g-col-4}
-<img src="images/services/visualization&amp;shiny.png" class="card-img-top"/>
+::: {.consulting .g-col-12 .g-col-md-6 .g-col-lg-4}
+<img src="images/services/visualization&amp;shiny.png"/>
 
-<h5 class="card-title">
+<h5>Visual Dashboards & Applications</h5>
 
-Visual Dashboards & Applications
-
-</h5>
-
-<p class="card-text">
-
-We create visually interactive dashboards and data applications to help you explore your business data and highlight new insights across your business processes at management levels using analytics and web maps. We make sure that the applications are scaleable and run smoothly irrespective of the size of data and users.
-
-</p>
+<p>We create visually interactive dashboards and data applications to help you explore your business data and highlight new insights across your business processes at management levels using analytics and web maps. We make sure that the applications are scaleable and run smoothly irrespective of the size of data and users.</p>
 :::
 
-::: {.consulting .g-col-4}
-<img src="images/services/workflow.png" class="card-img-top"/>
+::: {.consulting .g-col-12 .g-col-md-6 .g-col-lg-4}
+<img src="images/services/workflow.png"/>
 
-<h5 class="card-title">
+<h5>Spatial Analytics</h5>
 
-Spatial Analytics
-
-</h5>
-
-<p class="card-text">
-
-There is a geographic dimension for all business and marketing activities. We help you find when and where your business is generating more revenue geographically. We provide consultancy in spatial data analysis, spatial modeling, and spatial data visualization by creating high-quality maps.
-
-</p>
+<p>There is a geographic dimension for all business and marketing activities. We help you find when and where your business is generating more revenue geographically. We provide consultancy in spatial data analysis, spatial modeling, and spatial data visualization by creating high-quality maps.</p>
 :::
 :::
 

@@ -4,15 +4,7 @@ format:
     page-layout: custom
 ---
 
-::: home
-:::
 
-::: domino
-
-<img src="images/domino.png">
-
-
-:::
 
 ::: {#aboutus}
 <h3>
@@ -42,11 +34,6 @@ We would love to hear your business challenges and empower your organization tow
 </h3>
 :::
 
-::: pyramid
-
-<img src="images/pyramid.png">
-
-:::
 
 ::: button3
 <a href="index.qmd#cont"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
@@ -56,70 +43,51 @@ We would love to hear your business challenges and empower your organization tow
 <h2>Services</h2>
 :::
 
-::: expert
-::: expertise
+::: grid
+
+::: {.g-col-12 .g-col-md-6}
 <a href = "consulting.qmd">
 
-::: cardimages
+
 <img src="images/1st-icon.png"/>
-:::
 
-<h5 class="card-title">
 
-Business Analytics
-
-</h5>
+<h5>Business Analytics</h5>
 
 </a>
 :::
 
-::: expertise
+::: {.g-col-12 .g-col-md-6}
 <a href = "consulting.qmd">
 
-::: cardimages
 <img src="images/2nd-icon.png"/>
-:::
 
-<h5 class="card-title">
-
-Visual Dashboards & Applications
-
-</h5>
+<h5>Visual Dashboards & Applications</h5>
 
 </a>
 :::
 
-::: expertise
+::: {.g-col-12 .g-col-md-6}
 <a href = "consulting.qmd">
 
-::: cardimages
 <img src="images/3rd-icon.png"/>
-:::
 
-<h5 class="card-title">
-
-Market Research
-
-</h5>
+<h5>Market Research</h5>
 
 </a>
 :::
 
-::: expertise
+::: {.g-col-12 .g-col-md-6}
+
 <a href = "training.qmd">
 
-::: cardimages
 <img src="images/4th-icon.png"/>
-:::
 
-<h5 class="card-title">
-
-Training
-
-</h5>
+<h5>Training</h5>
 
 </a>
 :::
+
 :::
 
 ::: {#button2}
@@ -130,7 +98,7 @@ Training
 <h2>Our Work</h2>
 
 ::: grid
-::: g-col-4
+::: {.g-col-12 .g-col-md-4}
 <a href = "portfolio_presentation.qmd#health" target="_blank">
 
 <img src="images/health.png"/>
@@ -140,7 +108,7 @@ Training
 </a>
 :::
 
-::: g-col-4
+::: {.g-col-12 .g-col-md-4}
 <a href = "portfolio_presentation.qmd#stock" target="_blank">
 
 <img src="images/stock.png"/>
@@ -150,7 +118,7 @@ Training
 </a>
 :::
 
-::: g-col-4
+::: {.g-col-12 .g-col-md-4}
 <a href = "portfolio_presentation.qmd#dashboard" target="_blank">
 
 <img src="images/dashboard.png"/>
@@ -167,42 +135,37 @@ Training
 :::
 
 ::: {#industries}
+
 <h2>Industries</h2>
 
 ::: grid
-::: g-col-3
+::: {.g-col-12 .g-col-md-3}
 <img src="images/public-health.png"/>
 
 <h5>Public Health</h5>
 :::
 
-::: g-col-3
+::: {.g-col-12 .g-col-md-3}
 <img src="images/fmcg.png"/>
 
 <h5>FMCGs</h5>
 :::
 
-::: g-col-3
+::: {.g-col-12 .g-col-md-3}
 <img src="images/education.png"/>
 
 <h5>Education</h5>
 :::
 
-::: g-col-3
+::: {.g-col-12 .g-col-md-3}
 <img src="images/textile.png"/>
 
 <h5>Textile</h5>
 :::
+
 :::
 :::
 
-::: {#tools}
-<h2>Tools We Love</h2>
-:::
-
-::: tools-image
-<img src="images/tools.png"/>
-:::
 
 ::: {#cont .contact}
 ::: content
