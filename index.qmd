@@ -4,6 +4,9 @@ format:
     page-layout: custom
 ---
 
+::: {#home}
+:::
+
 
 
 ::: {#aboutus}
@@ -13,19 +16,15 @@ In an evolving business world, your products' market constitutes thousands and m
 
 Quick access to actionable data insights is key to understanding fast-changing consumer needs and optimize your demand-generation activities.
 
-<b style="color:#698fa1;"><i>
-
 Are you measuring the value of each consumer and customers' touch point?
 
 Are your marketing channels and campaigns optimized?
 
-Do you know the current market outlook of your industry?
+Are you informed of the current market outlook of your industry?
 
 Are you gauging the changes in demand and supply gaps?
 
 Are you monitoring your KPIs through real time analytics?
-
-</i></b>
 
 Stat Devs help your business towards higher revenues and lower costs through better decisions and informed actions.
 
@@ -34,6 +33,17 @@ We would love to hear your business challenges and empower your organization tow
 </h3>
 :::
 
+::: {#domino}
+
+<img src="images/domino.png"/>
+
+:::
+
+::: {#pyramid}
+
+<img src="images/pyramid.png"/>
+
+:::
 
 ::: button3
 <a href="index.qmd#cont"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
@@ -44,13 +54,10 @@ We would love to hear your business challenges and empower your organization tow
 :::
 
 ::: grid
-
 ::: {.g-col-12 .g-col-md-6}
 <a href = "consulting.qmd">
 
-
 <img src="images/1st-icon.png"/>
-
 
 <h5>Business Analytics</h5>
 
@@ -78,7 +85,6 @@ We would love to hear your business challenges and empower your organization tow
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-
 <a href = "training.qmd">
 
 <img src="images/4th-icon.png"/>
@@ -87,7 +93,6 @@ We would love to hear your business challenges and empower your organization tow
 
 </a>
 :::
-
 :::
 
 ::: {#button2}
@@ -135,7 +140,6 @@ We would love to hear your business challenges and empower your organization tow
 :::
 
 ::: {#industries}
-
 <h2>Industries</h2>
 
 ::: grid
@@ -162,10 +166,8 @@ We would love to hear your business challenges and empower your organization tow
 
 <h5>Textile</h5>
 :::
-
 :::
 :::
-
 
 ::: {#cont .contact}
 ::: content
@@ -210,7 +212,7 @@ Contact Us
 ::: text
 <h3>Email</h3>
 
-<p>sarfaraz.jamal\@statdevs.com<br>m.uzar\@statdevs.com</p>
+<p>info\@statdevs.com</p>
 :::
 :::
 :::
@@ -225,8 +227,14 @@ Contact Us
 :::
 
 ::: inputBox
+<input type="text" placeholder="Company Name"name="company" required ="required">
+:::
+
+::: inputBox
 <input type="email" placeholder="Email"name="email" required ="required">
 :::
+
+
 
 ::: inputBox
 ```{=html}
@@ -254,9 +262,11 @@ Contact Us
 
 <ul class="links">
 
-<li><a href="consulting.qmd">Consulting</a></li>
+<li><a href="about.qmd">About</a></li>
 
-<li><a href="training.qmd">Professional Training</a></li>
+<li><a href="consulting.qmd">Services</a></li>
+
+<li><a href="training.qmd">Training</a></li>
 
 <li><a href="portfolio.qmd">Portfolio</a></li>
 
@@ -264,7 +274,7 @@ Contact Us
 
 <li><a href="exploratory-sunday.qmd">Exploratory Sunday</a></li>
 
-<li><a href="about.qmd">About</a></li>
+
 
 </ul>
 :::

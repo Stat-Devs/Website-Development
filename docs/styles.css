@@ -34,6 +34,13 @@
   
 }
 
+#aboutus {
+  margin-left: 20px;
+}
+
+#aboutus h3 {
+  font-family: Book Antiqu;
+}
 
 #past-work {
 
@@ -52,6 +59,7 @@
   color: #2a5f7a;
   padding: 40px 0;
   font-family: Book Antiqua;
+  font-weight: 700;
   
 }
 
@@ -72,11 +80,11 @@
   text-align: center;
   border-radius: 50%;
   margin: 0 8px;
-  opacity: 0.75;
+ 
 }
 
 .footer .social a:hover{
-  opacity: 0.9;
+  color: #b7b3a4;
 }
 
 .footer ul {
@@ -92,7 +100,7 @@
 .footer ul li a {
   color:inherit;
   text-decoration: none;
-  opacity: 0.8;
+ 
   
 }
 
@@ -103,7 +111,7 @@
 }
 
 .footer ul li a:hover {
-  opacity: 1;
+  color: #b7b3a4;
 }
 
   

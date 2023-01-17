@@ -2,7 +2,7 @@
 format:
   html:
     page-layout: full
-title: "Consulting"
+title: "Services"
 title-block-banner: false
 ---
 

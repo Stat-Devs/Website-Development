@@ -122,10 +122,7 @@ To create dashboards for the internal functions of an online retail company.
 :::
 
 ::: {.column width="40%"}
-
-![](images/Return-Page.png) 
-![](images/Employee-Page.png)
-
+![](images/Return-Page.png) ![](images/Employee-Page.png)
 :::
 :::
 
