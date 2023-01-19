@@ -7,52 +7,31 @@ format:
 ::: {#home}
 :::
 
-
-
-
 ::: grid
-
 ::: {#action .g-col-12 .g-col-md-6}
-
 <p>Stat Devs help your business towards higher revenues and lower costs through better decisions and informed actions.<br>We would love to hear your business challenges and empower your organization towards data driven growth.</p>
-
 :::
 
 ::: {#venn .g-col-12 .g-col-md-6}
-
 <img src="images/venn.png"/>
-
 :::
 
-
 ::: {#pyramid .g-col-12 .g-col-md-6}
-
 <img src="images/pyramid.png"/>
-
 :::
 
 ::: {#questions .g-col-12 .g-col-md-6}
-
 <p>Are you measuring the value of each consumer and customers' touch point?<br>Are your marketing channels and campaigns optimized?<br>Are you informed of the current market outlook of your industry?<br>Are you gauging the changes in demand and supply gaps?<br>Are you monitoring your KPIs through real time analytics?</p>
-
 :::
 
 ::: {#aboutus .g-col-12 .g-col-md-6}
-
 <p>In an evolving business world, your products' market constitutes thousands and millions of consumers.<br>Quick access to actionable data insights is key to understanding fast-changing consumer needs and optimize your demand-generation activities.</p>
-
 :::
 
 ::: {#domino .g-col-12 .g-col-md-6}
-
 <img src="images/domino.png"/>
-
 :::
-
-
 :::
-
-
 
 ::: button3
 <a href="index.qmd#cont"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
@@ -243,8 +222,6 @@ Contact Us
 <input type="email" placeholder="Email"name="email" required ="required">
 :::
 
-
-
 ::: inputBox
 ```{=html}
 <textarea placeholder="Type your message"name="message" required="required"></textarea>
@@ -282,8 +259,6 @@ Contact Us
 <li><a href="blog.qmd">Blog</a></li>
 
 <li><a href="exploratory-sunday.qmd">Exploratory Sunday</a></li>
-
-
 
 </ul>
 :::
