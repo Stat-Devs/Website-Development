@@ -4,49 +4,55 @@ format:
     page-layout: custom
 ---
 
-::: home
+::: {#home}
 :::
 
-::: domino
 
-<img src="images/domino.png">
+
+
+::: grid
+
+::: {#action .g-col-12 .g-col-md-6}
+
+<p>Stat Devs help your business towards higher revenues and lower costs through better decisions and informed actions.<br>We would love to hear your business challenges and empower your organization towards data driven growth.</p>
+
+:::
+
+::: {#venn .g-col-12 .g-col-md-6}
+
+<img src="images/venn.png"/>
+
+:::
+
+
+::: {#pyramid .g-col-12 .g-col-md-6}
+
+<img src="images/pyramid.png"/>
+
+:::
+
+::: {#questions .g-col-12 .g-col-md-6}
+
+<p>Are you measuring the value of each consumer and customers' touch point?<br>Are your marketing channels and campaigns optimized?<br>Are you informed of the current market outlook of your industry?<br>Are you gauging the changes in demand and supply gaps?<br>Are you monitoring your KPIs through real time analytics?</p>
+
+:::
+
+::: {#aboutus .g-col-12 .g-col-md-6}
+
+<p>In an evolving business world, your products' market constitutes thousands and millions of consumers.<br>Quick access to actionable data insights is key to understanding fast-changing consumer needs and optimize your demand-generation activities.</p>
+
+:::
+
+::: {#domino .g-col-12 .g-col-md-6}
+
+<img src="images/domino.png"/>
+
+:::
 
 
 :::
 
-::: {#aboutus}
-<h3>
 
-In an evolving business world, your products' market constitutes thousands and millions of consumers.
-
-Quick access to actionable data insights is key to understanding fast-changing consumer needs and optimize your demand-generation activities.
-
-<b style="color:#698fa1;"><i>
-
-Are you measuring the value of each consumer and customers' touch point?
-
-Are your marketing channels and campaigns optimized?
-
-Do you know the current market outlook of your industry?
-
-Are you gauging the changes in demand and supply gaps?
-
-Are you monitoring your KPIs through real time analytics?
-
-</i></b>
-
-Stat Devs help your business towards higher revenues and lower costs through better decisions and informed actions.
-
-We would love to hear your business challenges and empower your organization towards data driven growth.
-
-</h3>
-:::
-
-::: pyramid
-
-<img src="images/pyramid.png">
-
-:::
 
 ::: button3
 <a href="index.qmd#cont"> <button class="btn btn-outline-primary btn-lg">Get in touch</button> </a>
@@ -56,67 +62,43 @@ We would love to hear your business challenges and empower your organization tow
 <h2>Services</h2>
 :::
 
-::: expert
-::: expertise
+::: grid
+::: {.g-col-12 .g-col-md-6}
 <a href = "consulting.qmd">
 
-::: cardimages
 <img src="images/1st-icon.png"/>
-:::
 
-<h5 class="card-title">
-
-Business Analytics
-
-</h5>
+<h5>Business Analytics</h5>
 
 </a>
 :::
 
-::: expertise
+::: {.g-col-12 .g-col-md-6}
 <a href = "consulting.qmd">
 
-::: cardimages
 <img src="images/2nd-icon.png"/>
-:::
 
-<h5 class="card-title">
-
-Visual Dashboards & Applications
-
-</h5>
+<h5>Visual Dashboards & Applications</h5>
 
 </a>
 :::
 
-::: expertise
+::: {.g-col-12 .g-col-md-6}
 <a href = "consulting.qmd">
 
-::: cardimages
 <img src="images/3rd-icon.png"/>
-:::
 
-<h5 class="card-title">
-
-Market Research
-
-</h5>
+<h5>Market Research</h5>
 
 </a>
 :::
 
-::: expertise
+::: {.g-col-12 .g-col-md-6}
 <a href = "training.qmd">
 
-::: cardimages
 <img src="images/4th-icon.png"/>
-:::
 
-<h5 class="card-title">
-
-Training
-
-</h5>
+<h5>Training</h5>
 
 </a>
 :::
@@ -130,7 +112,7 @@ Training
 <h2>Our Work</h2>
 
 ::: grid
-::: g-col-4
+::: {.g-col-12 .g-col-md-4}
 <a href = "portfolio_presentation.qmd#health" target="_blank">
 
 <img src="images/health.png"/>
@@ -140,7 +122,7 @@ Training
 </a>
 :::
 
-::: g-col-4
+::: {.g-col-12 .g-col-md-4}
 <a href = "portfolio_presentation.qmd#stock" target="_blank">
 
 <img src="images/stock.png"/>
@@ -150,7 +132,7 @@ Training
 </a>
 :::
 
-::: g-col-4
+::: {.g-col-12 .g-col-md-4}
 <a href = "portfolio_presentation.qmd#dashboard" target="_blank">
 
 <img src="images/dashboard.png"/>
@@ -170,38 +152,30 @@ Training
 <h2>Industries</h2>
 
 ::: grid
-::: g-col-3
+::: {.g-col-12 .g-col-md-3}
 <img src="images/public-health.png"/>
 
 <h5>Public Health</h5>
 :::
 
-::: g-col-3
+::: {.g-col-12 .g-col-md-3}
 <img src="images/fmcg.png"/>
 
 <h5>FMCGs</h5>
 :::
 
-::: g-col-3
+::: {.g-col-12 .g-col-md-3}
 <img src="images/education.png"/>
 
 <h5>Education</h5>
 :::
 
-::: g-col-3
+::: {.g-col-12 .g-col-md-3}
 <img src="images/textile.png"/>
 
 <h5>Textile</h5>
 :::
 :::
-:::
-
-::: {#tools}
-<h2>Tools We Love</h2>
-:::
-
-::: tools-image
-<img src="images/tools.png"/>
 :::
 
 ::: {#cont .contact}
@@ -247,7 +221,7 @@ Contact Us
 ::: text
 <h3>Email</h3>
 
-<p>sarfaraz.jamal\@statdevs.com<br>m.uzar\@statdevs.com</p>
+<p>info\@statdevs.com</p>
 :::
 :::
 :::
@@ -262,8 +236,14 @@ Contact Us
 :::
 
 ::: inputBox
+<input type="text" placeholder="Company Name"name="company" required ="required">
+:::
+
+::: inputBox
 <input type="email" placeholder="Email"name="email" required ="required">
 :::
+
+
 
 ::: inputBox
 ```{=html}
@@ -291,9 +271,11 @@ Contact Us
 
 <ul class="links">
 
-<li><a href="consulting.qmd">Consulting</a></li>
+<li><a href="about.qmd">About</a></li>
 
-<li><a href="training.qmd">Professional Training</a></li>
+<li><a href="consulting.qmd">Services</a></li>
+
+<li><a href="training.qmd">Training</a></li>
 
 <li><a href="portfolio.qmd">Portfolio</a></li>
 
@@ -301,7 +283,7 @@ Contact Us
 
 <li><a href="exploratory-sunday.qmd">Exploratory Sunday</a></li>
 
-<li><a href="about.qmd">About</a></li>
+
 
 </ul>
 :::

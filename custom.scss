@@ -33,10 +33,14 @@ $link-color: #C00000;
 
 /*-- scss:rules --*/
 
-.footer {
-  font-family: $presentation-heading-font;
-  font-weight: 700;
+.nav-link {
+  font-family: $presentation-heading-font !important;
+  font-weight: 700 !important;
+ 
 }
+
+
+
 
 .reveal .slide-number {
   font-family: $presentation-heading-font;
@@ -281,4 +285,49 @@ h4 {
     width: 100%;
   }
 }
+
+
+
+#process img {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+ 
+  
+}
+
+#process {
+  text-align: center;
+}
+
+
+
+#home {
+  width: 100%;
+  height: 500px;
+  background-image: url('images/home3.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+ 
+
+}
+
+
+#action p {
+  color: #8d4004;
+  font-size: 24px;
+}
+
+#questions p {
+  color: #8d4004;
+  font-size: 24px;
+}
+
+#aboutus p {
+  color: #8d4004;
+  font-size: 24px;
+}
+
 

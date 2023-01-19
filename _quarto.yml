@@ -6,6 +6,7 @@ project:
 website:
   favicon: "Favicon.png"
   title: "Stat Devs"
+  google-analytics: "G-K3TBBS59PL"
   navbar:
     title: false
     pinned: true
@@ -14,12 +15,15 @@ website:
     right:
       - href: index.qmd
         text: "Home"
+      - about.qmd
       - consulting.qmd
       - training.qmd
       - portfolio.qmd
       - blog.qmd
       - exploratory-sunday.qmd
-      - about.qmd
+      
+      - href: index.qmd#cont
+        text: "Contact Us"
       - href: https://twitter.com/StatDevs 
         icon: twitter
       - href: https://www.linkedin.com/company/stat-devs
