@@ -14,10 +14,7 @@ format:
 
 ::: {#action .g-col-12 .g-col-md-6}
 
-<p>Stat Devs help your business towards higher revenues and lower costs through better decisions and informed actions.
-
-We would love to hear your business challenges and empower your organization towards data driven growth.
-</p>
+<p>Stat Devs help your business towards higher revenues and lower costs through better decisions and informed actions.<br>We would love to hear your business challenges and empower your organization towards data driven growth.</p>
 
 :::
 
@@ -36,24 +33,13 @@ We would love to hear your business challenges and empower your organization tow
 
 ::: {#questions .g-col-12 .g-col-md-6}
 
-<p>Are you measuring the value of each consumer and customers' touch point?
-
-Are your marketing channels and campaigns optimized?
-
-Are you informed of the current market outlook of your industry?
-
-Are you gauging the changes in demand and supply gaps?
-
-Are you monitoring your KPIs through real time analytics?
-</p>
+<p>Are you measuring the value of each consumer and customers' touch point?<br>Are your marketing channels and campaigns optimized?<br>Are you informed of the current market outlook of your industry?<br>Are you gauging the changes in demand and supply gaps?<br>Are you monitoring your KPIs through real time analytics?</p>
 
 :::
 
 ::: {#aboutus .g-col-12 .g-col-md-6}
 
-<p>In an evolving business world, your products' market constitutes thousands and millions of consumers.
-
-Quick access to actionable data insights is key to understanding fast-changing consumer needs and optimize your demand-generation activities.</p>
+<p>In an evolving business world, your products' market constitutes thousands and millions of consumers.<br>Quick access to actionable data insights is key to understanding fast-changing consumer needs and optimize your demand-generation activities.</p>
 
 :::
 
