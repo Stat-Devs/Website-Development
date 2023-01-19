@@ -35,61 +35,11 @@
 }
 
 #aboutus {
-  text-align: left;
-  margin-left: 30px;
-  
+  margin-left: 20px;
 }
 
-#domino img {
-  
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70%;
- 
-  
-}
-
-#domino {
-  text-align: center;
-}
-
-#questions {
-  text-align: left;
-  margin-left: 30px;
-}
-
-#pyramid img {
-  
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
- 
-  
-}
-
-#pyramid {
-  text-align: center;
-}
-
-#action {
-  text-align: left;
-  margin-left: 30px;
-}
-
-#venn img {
-  
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
- 
-  
-}
-
-#venn {
-  text-align: center;
+#aboutus h3 {
+  font-family: Book Antiqu;
 }
 
 #past-work {
