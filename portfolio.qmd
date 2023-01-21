@@ -159,7 +159,7 @@ Product Recommendation
 
 <p class="card-text">
 
-Analyzing past customer behavior helps sellers push relevant recommendations to consumers. This helps them increase sales. We studied data from past purchases of customers of an online retail store. We then implemented a product recommendation system based on the association rule mining technique.
+Analyzing past customer behavior helps sellers push relevant recommendations to consumers. We studied data from past purchases of customers of an online retail store. We then implemented a product recommendation system based on the association rule mining technique.
 
 </p>
 :::
