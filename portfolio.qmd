@@ -6,7 +6,7 @@ title: "Portfolio"
 title-block-banner: false
 ---
 
-<p>We enjoy solving data problems of your organization whether it is an FMCG company struggling to track and monitor its products or a declining E-Commerce company with low customer retention and high competition.\
+<p>We enjoy solving your organization's data problems whether it is an FMCG company struggling to track and monitor its products or a declining E-Commerce company with low customer retention and high competition.\
 Our Business Analysts and Data Scientists can help you solve your business problems by putting data science, research and automation to extract actionable insights of your business data. Our growing work reference is indication of the quality service we provide to our clients.</p>
 
 ::: portfolioheading
@@ -27,7 +27,7 @@ Analysing Pakistan Health Sector
 
 <p class="card-text">
 
-How has Pakistan performed in Public Health Parameters, Social Living Measurement & Burden of Disease Indicators? What are the benchmarks set by SDG and how is Pakistan performing? We conducted a collaborative study with the help of Indus Hospital & Health Networks and Sifat Associates to provide a broad understanding of health deficiencies experienced by Most Disadvantaged Districts (MDDs) in Pakistan.
+How has Pakistan performed in Public Health Parameters, Social Living Measurement & Burden of Disease Indicators? What are the benchmarks set by SDG, and how is Pakistan performing? We conducted a collaborative study with the help of Indus Hospital & Health Networks and Sifat Associates to provide a broad understanding of health deficiencies experienced by Most Disadvantaged Districts (MDDs) in Pakistan.
 
 </p>
 :::
@@ -51,7 +51,7 @@ Infant Mortality Modelling
 
 <p class="card-text">
 
-The MDG target for Infant Mortality was 40 per 1000 live births while Pakistan stood at 62 per 1000 live births. We analyzed the causes of Infant Mortality in Pakistan and why Pakistan is lagging behind ? Are there demographic variations or mother's social and health factors? We developed and deployed a Machine learning model for infant's survival chances based on PDHS 2017-2018 data.
+The MDG target for Infant Mortality was 40 per 1000 live births, while Pakistan stood at 62 per 1000 live births. We analyzed the causes of Infant Mortality in Pakistan and why Pakistan lags behind ? Are there demographic variations or the mother's social and health factors? We developed and deployed a Machine learning model for infants' survival chances based on PDHS 2017-2018 data.
 
 </p>
 :::
@@ -75,7 +75,7 @@ Clustering Countries
 
 <p class="card-text">
 
-HELP International wanted to identify countries that were in direst need of help for their financial aid programme.. We analyzed data of countries based on their socio-economic and health indicators. Through this the overall development levels of the country were determined. Subsequently, they were categorized according by using clustering techniques and the least developed countries were then identified.
+HELP International wanted to identify countries that were in direst need of help for their financial aid programme. We analyzed data from countries based on their socioeconomic and health indicators. Through this, the overall development levels of the country were determined. Subsequently, they were categorized accordingly by using clustering techniques, and the least developed countries were then identified.
 
 </p>
 :::
@@ -105,7 +105,7 @@ Power BI Dashboard for an E-commerce Platform
 
 <p class="card-text">
 
-An analytical report was created based on historical data of several functions of an e-commerce store including shipment, products and an overall performance dashboard. These highlighted key metrics useful for monitoring the performance of the company and several visuals that provided insights at a granular level.
+An analytical report was created based on historical data on several functions of an e-commerce store, including shipment, products and an overall performance dashboard. These highlighted key metrics helpful in monitoring the company's performance and several visuals that provided insights at a granular level.
 
 </p>
 :::
@@ -129,7 +129,7 @@ National Electronic Injury Surveillance Data Exploration
 
 <p class="card-text">
 
-Some population groups are at increased risk of injury because of greater exposure to hazards, decreased ability to avoid hazards, or decreased resistance to injury, and some groups have a lower likelihood of complete recovery or survival once injured. This interactive shiny application helps explore injury patterns.
+Some population groups are at increased risk of injury because of greater exposure to hazards, decreased ability to avoid hazards, or reduced resistance to injury Some groups have a lower likelihood of complete recovery or survival once injured. This interactive shiny application helps explore injury patterns.
 
 </p>
 :::
@@ -159,7 +159,7 @@ Product Recommendation
 
 <p class="card-text">
 
-Analyzing past customer behavior helps sellers push relevant recommendations to consumers. This helps them increase sales. We studied data of past purchases of customers of an online retail store. We then implemented a product recommendation system based on association rule mining technique.
+Analyzing past customer behavior helps sellers push relevant recommendations to consumers. This helps them increase sales. We studied data from past purchases of customers of an online retail store. We then implemented a product recommendation system based on the association rule mining technique.
 
 </p>
 :::
@@ -183,7 +183,7 @@ Stock Volatility Forecasting
 
 <p class="card-text">
 
-With successful volatility model, we can gain insights about future market behavior over time and can spot trends which make investors align their portfolios with the associated expected returns. In this study we compared Econometric & Deep learning techniques of stock volatility forecasting.
+With a successful volatility model, we can gain insights about future market behavior over time and spot trends that make investors align their portfolios with the associated expected returns. In this study, we compared Econometric & Deep learning techniques of stock volatility forecasting.
 
 </p>
 :::

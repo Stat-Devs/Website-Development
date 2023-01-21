@@ -9,7 +9,7 @@ format:
 
 ::: grid
 ::: {#action .g-col-12 .g-col-md-6}
-<p>Stat Devs help your business towards higher revenues and lower costs through better decisions and informed actions.<br>We would love to hear your business challenges and empower your organization towards data driven growth.</p>
+<p>Stat Devs is a data analytics company aiming to enhance data-driven culture and values for businesses and academia, focusing on fast-evolving fields in Data Science, Statistics and Data Visualization. We help your business towards higher revenues and lower costs through better decisions and informed actions.</p>
 :::
 
 ::: {#venn .g-col-12 .g-col-md-6}
@@ -21,11 +21,11 @@ format:
 :::
 
 ::: {#questions .g-col-12 .g-col-md-6}
-<p>Are you measuring the value of each consumer and customers' touch point?<br>Are your marketing channels and campaigns optimized?<br>Are you informed of the current market outlook of your industry?<br>Are you gauging the changes in demand and supply gaps?<br>Are you monitoring your KPIs through real time analytics?</p>
+<p>Are you measuring the value of each consumer and customer's touch points?<br>Are your marketing channels and campaigns optimized?<br>Are you informed of the current market outlook of your industry?<br>Are you gauging the changes in demand and supply gaps?<br>Are you monitoring your KPIs through real-time analytics?</p>
 :::
 
 ::: {#aboutus .g-col-12 .g-col-md-6}
-<p>In an evolving business world, your products' market constitutes thousands and millions of consumers.<br>Quick access to actionable data insights is key to understanding fast-changing consumer needs and optimize your demand-generation activities.</p>
+<p>In an evolving business world, your products' market constitutes thousands and millions of consumers.<br>Quick access to actionable data insights is critical to understanding fast-changing consumer needs and optimizing your demand-generation activities.<br>We would love to hear about your business challenges and empower your organization toward data-driven growth.</p>
 :::
 
 ::: {#domino .g-col-12 .g-col-md-6}
@@ -206,7 +206,7 @@ Contact Us
 :::
 
 ::: contactForm
-<form action="https://formsubmit.co/sarfaraz.jamal@statdevs.com" method="POST">
+<form action="2968d7bf7c9af27f5af517312e17a287" method="POST">
 
 <h3>Send Messsage</h3>
 
