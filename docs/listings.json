@@ -2,7 +2,8 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/Blogs/Spatial Analytics-1/Learning Spatial Analytics in R (Part 1).html",
+      "/Blogs/Spatial-Analytics-2/Spatial-Analytics-2.html",
+      "/Blogs/Spatial-Analytics-1/Learning Spatial Analytics in R (Part 1).html",
       "/Blogs/Lahore-Air-Quality/lahore-air-quality.html"
     ]
   },
@@ -12,9 +13,14 @@
       "/Exploratory-Sunday/20-11-22/Global Health Expenditure.html",
       "/Exploratory-Sunday/27-11-22/health-financing.html",
       "/Exploratory-Sunday/18-12-22/health-infrastructure.html",
+      "/Exploratory-Sunday/06-03-23/06-03-23.html",
+      "/Exploratory-Sunday/26-02-23/medicines_sindh.html",
+      "/Exploratory-Sunday/22-01-23/net_migration.html",
       "/Exploratory-Sunday/16-10-22/Pak-Demographics.html",
+      "/Exploratory-Sunday/Presentation/Pakistan Demographics, Health & Mortality Statistics.pdf",
       "/Exploratory-Sunday/13-11-22/Pre-Post-Consultation.html",
       "/Exploratory-Sunday/11-12-22/school-dropout.html",
+      "/Exploratory-Sunday/29-01-23/school_dropouts.html",
       "/Exploratory-Sunday/01-01-23/no_of_beds.html"
     ]
   }

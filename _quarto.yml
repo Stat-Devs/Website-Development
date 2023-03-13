@@ -6,7 +6,14 @@ project:
 website:
   favicon: "Favicon.png"
   title: "Stat Devs"
-  google-analytics: "G-K3TBBS59PL"
+  cookie-consent: 
+    type: express
+    style: headline
+    palette: light
+    
+  google-analytics: 
+    tracking-id: "G-K3TBBS59PL"
+    anonymize-ip: true
   navbar:
     title: false
     pinned: true
