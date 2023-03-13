@@ -205,45 +205,20 @@ Contact Us
 :::
 :::
 
-::: contactForm
-<form action="2968d7bf7c9af27f5af517312e17a287" method="POST">
 
-<h3>Send Messsage</h3>
-
-::: inputBox
-<input placeholder="Full Name"type="text" name="name" required ="required">
-:::
-
-::: inputBox
-<input type="text" placeholder="Company Name"name="company" required ="required">
-:::
-
-::: inputBox
-<input type="email" placeholder="Email"name="email" required ="required">
-:::
-
-::: inputBox
-```{=html}
-<textarea placeholder="Type your message"name="message" required="required"></textarea>
-```
-:::
-
-::: inputBox
-<input type="submit" name="submit" value ="Send">
-:::
-
-</form>
-:::
 :::
 :::
 
 ::: footer
+
 <h2>
 
 </h2>
 
 ::: social
+
 <a href="https://www.facebook.com/profile.php?id=100088076201356"><i class="bi bi-facebook"></i></a> <a href="https://twitter.com/StatDevs "><i class="bi bi-twitter"></i></a> <a href="https://www.linkedin.com/company/stat-devs"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/Stat-Devs"><i class="bi bi-github"></i></a>
+
 :::
 
 <ul class="links">
@@ -260,5 +235,8 @@ Contact Us
 
 <li><a href="exploratory-sunday.qmd">Exploratory Sunday</a></li>
 
+<li><a href="privacy-policy.qmd">Privacy Policy</a></li>
+
 </ul>
+
 :::
